@@ -4,7 +4,7 @@ Chris Anderson
 ---
 
 ---
-> Resumo por: Matheus Willian Machado
+> Resumo por: Matheus Willian Machado   
 > Data: Setembro 16, 2019
 ---
 
