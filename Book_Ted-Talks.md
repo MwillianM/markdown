@@ -12,7 +12,6 @@ Visão Geral
 ---
 
 + Indicação (Esse livro é pra mim?)
-+ Por que eu li
 + Sobre o Livro (Por que eu leria?)
 + Sobre o Author (Por que eu acreditaria?)
 
@@ -98,5 +97,5 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzA1OTk5NTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbODA0Nzg1NzcxLDkyMzUwNjg3NF19
 -->
