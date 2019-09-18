@@ -42,7 +42,10 @@ A palavra “retórica” significa simplesmente “a arte de falar com eficáci
 ### Competência Comunicativa
 
 Qualquer um pode falar em público.
-Medo de falar em p'
+Medo de falar em público é irracional.
+
+Esse é o poder da palavra. Você pode não ser o líder de uma organização, mas uma palestra sempre pode abrir portas ou transformar uma carreira
+
 Seu objetivo não é ser um Winston Churchill ou um Nelson Mandela. É ser você. Se você é cientista, seja cientista; não tente ser um militante. Se é artista, seja artista; não tente ser um acadêmico. Se é um sujeito comum, não queira simular um impressionante estilo intelectual; seja esse sujeito comum.
 
 ### Construção da Ideia
@@ -113,6 +116,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDczMjc1Myw5ODEyNjIzNTMsOTIzNT
-A2ODc0XX0=
+eyJoaXN0b3J5IjpbLTE2OTI0Nzg4NjksOTgxMjYyMzUzLDkyMz
+UwNjg3NF19
 -->
