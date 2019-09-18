@@ -20,7 +20,9 @@ Visão Geral
 Sumário
 ---
 
-[TOC]
+![TOC]
+
+---
 
 ## Prólogo
 
@@ -34,7 +36,7 @@ Sumário
 
 ---
 
- Ferramentas da Palestra
+## Ferramentas da Palestra
   + Sintonia
   + Narração
   + Explicação
@@ -71,5 +73,5 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0OTcyMjgzXX0=
+eyJoaXN0b3J5IjpbLTE0NTc2NTEwMDNdfQ==
 -->
