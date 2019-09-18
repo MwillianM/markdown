@@ -38,6 +38,8 @@ A palavra “retórica” significa simplesmente “a arte de falar com eficáci
 
 ### Competência Comunicativa
 
+Seu objetivo não é ser um Winston Churchill ou um Nelson Mandela. É ser você. Se você é cientista, seja cientista; não tente ser um militante. Se é artista, seja artista; não tente ser um acadêmico. Se é um sujeito comum, não queira simular um impressionante estilo intelectual; seja esse sujeito comum
+
 
 
 
@@ -107,5 +109,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxMjYyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbLTEzMDU4MjY0NDMsOTgxMjYyMzUzLDkyMz
+UwNjg3NF19
 -->
