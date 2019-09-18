@@ -32,31 +32,35 @@ Visão Geral
 ## Ferramentas da Palestra
 ### Sintonia
 ### Narração
-  + Explicação
-  + Persuasão
-  + Revelação
-+ Processo de Preparação
-  + Recursos Visuais
-  + Roterização
-  + Ensaios Gerais
-  + Abertura e Encerramento
-+ No Palco
-  + Figurino
-  + Preparo Mental
-  + Cenário
-  + Voz e Presença
-  + Novos Formatos
-+ Reflexão
-  + Renascimento da Palestra
-  + Por que isso é importante?
-  + Sua Vez
+### Explicação
+### Persuasão
+### Revelação
+
 ---
 
+## Processo de Preparação
+### Recursos Visuais
+### Roterização
+### Ensaios Gerais
+### Abertura e Encerramento
 
+---
 
+## No Palco
+### Figurino
+### Preparo Mental
+### Cenário
+### Voz e Presença
+### Novos Formatos
 
+---
 
+## Reflexão
+### Renascimento da Palestra
+### Por que isso é importante?
+### Sua Vez
 
+---
 
 Agradecimentos
 ---
@@ -66,5 +70,5 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzg5MjY5MDJdfQ==
+eyJoaXN0b3J5IjpbLTIwNzE3OTUxODhdfQ==
 -->
