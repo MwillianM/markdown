@@ -13,6 +13,13 @@ Visão Geral
 
 + Indicação (Esse livro é pra mim?)
 + Sobre o Livro (Por que eu leria?)
+
+Assim, este livro não busca apenas mostrar a melhor forma de fazer uma Conferência TED. Sua finalidade é bem mais ampla: impulsionar qualquer forma de oratória que pretenda explicar, motivar, informar ou persuadir, seja em empresas, instituições educacionais ou locais públicos
+
+Este livro tem um duplo objetivo: primeiro, explicar como se realiza o milagre do ato de falar em público com eficiência; e, segundo, ajudar você a fazê-lo da melhor maneira possível. Entretanto, cumpre destacar uma coisa logo de início. Não existe uma única maneira de dar uma palestra de alto nível. O mundo do conhecimento é amplo demais, e a gama de palestrantes e de plateias, demasiado variada. Qualquer tentativa de aplicar uma fórmula predefinida provavelmente será um tiro pela culatra. O público percebe isso na hora e se sente manipulado.
+
+Em vez disso, pense que o livro está lhe oferecendo um conjunto de ferramentas que buscam incentivar a variedade. Utilize as que sejam convenientes para você e para a palestra que vai dar. Suas únicas obrigações reais ao dar uma palestra são ter algo de importante a comunicar e se mostrar autêntico à sua maneira.
+
 + Sobre o Author (Por que eu acreditaria?)
 
 Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar o caminho. O TED começou como uma conferência anual, com palestras nos campos da Tecnologia, do Entretenimento e do Design (daí o nome). Nos últimos anos, porém, o programa se expandiu e passou a cobrir qualquer tópico de interesse público.
@@ -20,10 +27,6 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 ---
 
 ## Prólogo
-
-Este livro tem um duplo objetivo: primeiro, explicar como se realiza o milagre do ato de falar em público com eficiência; e, segundo, ajudar você a fazê-lo da melhor maneira possível. Entretanto, cumpre destacar uma coisa logo de início. Não existe uma única maneira de dar uma palestra de alto nível. O mundo do conhecimento é amplo demais, e a gama de palestrantes e de plateias, demasiado variada. Qualquer tentativa de aplicar uma fórmula predefinida provavelmente será um tiro pela culatra. O público percebe isso na hora e se sente manipulado.
-
-Em vez disso, pense que o livro está lhe oferecendo um conjunto de ferramentas que buscam incentivar a variedade. Utilize as que sejam convenientes para você e para a palestra que vai dar. Suas únicas obrigações reais ao dar uma palestra são ter algo de importante a comunicar e se mostrar autêntico à sua maneira.
 
 A palavra “retórica” significa simplesmente “a arte de falar com eficácia”. É esse o tema fundamental deste livro. Reformular a retórica para a era moderna. Proporcionar contribuições úteis para uma nova competência comunicativa.
 
@@ -101,5 +104,5 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzU0NTA2NSw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbMTIzODQ4MDczNSw5MjM1MDY4NzRdfQ==
 -->
