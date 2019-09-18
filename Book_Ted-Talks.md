@@ -20,13 +20,21 @@ Visão Geral
 Sumário
 ---
 
-+ Prólogo
-+ Fundamentos
-  + Competência Comunicativa
-  + Construção da Ideia
-  + Armadilhas Comuns
-  + A Linha Mestra
-+ Ferramentas da Palestra
+[TOC]
+
+## Prólogo
+
+---
+
+## Fundamentos
+### Competência Comunicativa
+### Construção da Ideia
+### Armadilhas Comuns
+### A Linha Mestra
+
+---
+
+ Ferramentas da Palestra
   + Sintonia
   + Narração
   + Explicação
@@ -62,3 +70,6 @@ Agradecimento especial ao Luan Moreno por me presentear com esse livro espetacul
 Obrigado, chefe!  
 
 ---
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjk0OTcyMjgzXX0=
+-->
