@@ -20,7 +20,9 @@ Visão Geral
 Sumário
 ---
 
-![TOC]
+`[TOC]`
+
+[TOC]
 
 ---
 
@@ -73,5 +75,5 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc2NTEwMDNdfQ==
+eyJoaXN0b3J5IjpbMjA1MjcxNjQwOF19
 -->
