@@ -22,42 +22,63 @@ Visão Geral
 ---
 
 ## Fundamentos
+
 ### Competência Comunicativa
+
 ### Construção da Ideia
+
 ### Armadilhas Comuns
+
 ### A Linha Mestra
 
 ---
 
 ## Ferramentas da Palestra
+
 ### Sintonia
+
 ### Narração
+
 ### Explicação
+
 ### Persuasão
+
 ### Revelação
 
 ---
 
 ## Processo de Preparação
+
 ### Recursos Visuais
+
 ### Roterização
+
 ### Ensaios Gerais
+
 ### Abertura e Encerramento
 
 ---
 
 ## No Palco
+
 ### Figurino
+
 ### Preparo Mental
+
 ### Cenário
+
 ### Voz e Presença
+
 ### Novos Formatos
 
 ---
 
 ## Reflexão
+
 ### Renascimento da Palestra
+
 ### Por que isso é importante?
+
 ### Sua Vez
 
 ---
@@ -70,5 +91,5 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE3OTUxODhdfQ==
+eyJoaXN0b3J5IjpbOTIzNTA2ODc0XX0=
 -->
