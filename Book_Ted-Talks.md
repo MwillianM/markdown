@@ -17,13 +17,6 @@ Visão Geral
 
 ---
 
-Sumário
----
-
-[TOC]
-
----
-
 ## Prólogo
 
 ---
@@ -37,8 +30,8 @@ Sumário
 ---
 
 ## Ferramentas da Palestra
-  + Sintonia
-  + Narração
+### Sintonia
+### Narração
   + Explicação
   + Persuasão
   + Revelação
@@ -73,5 +66,5 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTEzNDEyNF19
+eyJoaXN0b3J5IjpbLTEyNzg5MjY5MDJdfQ==
 -->
