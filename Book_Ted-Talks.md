@@ -12,6 +12,9 @@ Visão Geral
 ---
 
 + Indicação (Esse livro é pra mim?)
++ Por que eu li
+	+ Dicas para dar uma palestra
+	+ Melhorar minha comunicação em geral
 + Sobre o Livro (Por que eu leria?)
 
 Assim, este livro não busca apenas mostrar a melhor forma de fazer uma Conferência TED. Sua finalidade é bem mais ampla: impulsionar qualquer forma de oratória que pretenda explicar, motivar, informar ou persuadir, seja em empresas, instituições educacionais ou locais públicos
@@ -109,6 +112,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU4MjY0NDMsOTgxMjYyMzUzLDkyMz
+eyJoaXN0b3J5IjpbLTE2MzM5ODEyNjEsOTgxMjYyMzUzLDkyMz
 UwNjg3NF19
 -->
