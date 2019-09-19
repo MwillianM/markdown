@@ -21,7 +21,7 @@ Visão Geral
   + Qualquer um que vá fazer uma apresentação/palestra.
   + Qualquer um que queira/tem medo de falar em público.
   + Qualquer um .
-+ Por que eu li
++ Motivação (Por que eu li?)
   + Dicas para dar uma palestra
   + Melhorar minha comunicação em geral
 + Sobre o Livro (Por que eu leria?)
@@ -353,10 +353,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTMxMjI3NDMsOTI2NjEyNTA5LDI3Mj
-EwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5
-OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOT
-I0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4LDExNjMzOTAz
-NiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MT
-I2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbMTkzOTkxNDQ0NCw5MjY2MTI1MDksMjcyMT
+A0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5
+NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5Mj
+QzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2
+LDEzNzkwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMj
+YyMzUzLDkyMzUwNjg3NF19
 -->
