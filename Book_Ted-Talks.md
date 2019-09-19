@@ -37,7 +37,7 @@ Visão Geral
     + Muito conhecido por suas apresentação de alto impactos.
     + Começou apenas sobre Tecnologia, Entreterimento e Desgin (TED) e se expandiu para qualquer tópico.
     + Palestrantes como: Bill Gates, Michelle Obama e Bono Vox
-    + Palestras que ultrapassam milhares de visualiza
+    + Palestras que ultrapassam milhares de visualizações.
   + **Chirs Anderson**
     + Acompanhou de perto as palestras TED.
     + 
@@ -350,10 +350,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzQ1MjUwOSw5MjY2MTI1MDksMjcyMT
-A0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5
-NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5Mj
-QzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2
-LDEzNzkwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMj
-YyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbNzgyODcyMjUzLDkyNjYxMjUwOSwyNzIxMD
+QxNDgsLTEyNTA3OTEzNiwtNTM4MDE5MjE0LC0yMTA3MzA2OTk2
+LDE2MzI5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyND
+M5NzkzLC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYs
+MTM3OTA1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNj
+IzNTMsOTIzNTA2ODc0XX0=
 -->
