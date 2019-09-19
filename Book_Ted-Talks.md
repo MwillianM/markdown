@@ -31,10 +31,6 @@ Entretanto, cumpre destacar uma coisa logo de início.
 
 O livro está lhe oferecendo um conjunto de ferramentas que buscam incentivar a variedade. 
 
-Suas únicas obrigações reais ao dar uma palestra são:
-+ ter algo de importante a comunicar
-+ se mostrar autêntico à sua maneira.
-
 Encontrará ferramentas e ideias que serão úteis não apenas nessas ocasiões, como em todas as formas de comunicação pública.
 
 A tese central deste livro é:
@@ -81,6 +77,10 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 + Seja você mesmo.
 
 > Se você é cientista, seja cientista; não tente ser um militante. Se é artista, seja artista; não tente ser um acadêmico. Se é um sujeito comum, não queira simular um impressionante estilo intelectual; seja esse sujeito comum.
+
+Suas únicas obrigações reais ao dar uma palestra são:
++ ter algo de importante a comunicar
++ se mostrar autêntico à sua maneira.
 
 ### Construção da Ideia
 
@@ -343,9 +343,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzNzM5NzYyLC0yMTA3MzA2OTk2LDE2Mz
-I5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyNDM5Nzkz
-LC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OT
-A1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMs
-OTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbLTUzODAxOTIxNCwtMjEwNzMwNjk5NiwxNj
+MyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5
+MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNz
+kwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUz
+LDkyMzUwNjg3NF19
 -->
