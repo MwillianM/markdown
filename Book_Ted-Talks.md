@@ -181,11 +181,9 @@ Saiba o máximo possível sobre a plateia:
 + A criação de uma palestra de alto nível ajustada a um tempo limitado exige um esforço considerável.
 + Existe um jeito certo e um jeito errado de levar a tarefa a cabo.
 
-	+ Jeito Errado:**
+	+ **Jeito Errado:** Condensar sua palestra é incluir todos os fatos que você acha que precisa dizer e, depois, reduzir o tempo dedicado a cada um.
 
-O jeito errado de condensar sua palestra é incluir todos os fatos que você acha que precisa dizer e, depois, reduzir o tempo dedicado a cada um.
-
-> Curiosamente, é bem possível que você consiga criar um roteiro que produza esse resultado. Todos os pontos importantes que você deseja cobrir estão lá, de forma sucinta. O trabalho foi apresentado em toda a sua extensão! Você pode até achar que há uma linha mestra ligando todos os aspectos, uma ampla fundamentação do trabalho. Você pode ter a impressão de que deu a essa preparação o melhor de si e fez o possível para se ajustar ao tempo concedido. Entretanto, uma linha mestra que ligue muitos conceitos não funciona. Há uma consequência grave quando você passa muito depressa por diversos assuntos: eles não causam impacto. Você conhece o pano de fundo e o contexto do que está dizendo, por isso as informações lhe parecem mais que suficientes. No entanto, a plateia está tendo contato com seu trabalho pela primeira vez. Por isso, a palestra provavelmente parecerá fragmentada, árida ou superficial.
+	> Curiosamente, é bem possível que você consiga criar um roteiro que produza esse resultado. Todos os pontos importantes que você deseja cobrir estão lá, de forma sucinta. O trabalho foi apresentado em toda a sua extensão! Você pode até achar que há uma linha mestra ligando todos os aspectos, uma ampla fundamentação do trabalho. Você pode ter a impressão de que deu a essa preparação o melhor de si e fez o possível para se ajustar ao tempo concedido. Entretanto, uma linha mestra que ligue muitos conceitos não funciona. Há uma consequência grave quando você passa muito depressa por diversos assuntos: eles não causam impacto.
 
 Para transmitir algo de interessante, você precisa reservar tempo para fazer pelo menos duas coisas: Mostrar por que o tema é importante: que pergunta está tentando responder? Que problema está tentando solucionar? Que experiência pretende compartilhar? Embasar cada argumento com exemplos reais, histórias ou fatos
 
@@ -331,9 +329,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODA4NjQ1MCwtMjEwNzMwNjk5NiwxNj
-MyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5
-MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNz
-kwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUz
-LDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbNTY5MDU0ODU3LC0yMTA3MzA2OTk2LDE2Mz
+I5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyNDM5Nzkz
+LC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OT
+A1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMs
+OTIzNTA2ODc0XX0=
 -->
