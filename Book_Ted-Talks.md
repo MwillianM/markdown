@@ -143,14 +143,11 @@ Exemplos de linhas mestras:
 
 > + Ter mais opções nos deixa menos felizes.
 > + Devemos valorizar a vulnerabilidade, e não fugir dela.
-> + O potencial da educação se transforma quando nos concentramos na extraordinária (e hilariante) criatividade infantil.
 > + Você pode simular a linguagem corporal até ela se tornar verdadeira.
-> + Uma história do universo em dezoito minutos mostra um caminho do caos à ordem. 
-> + Bandeiras horríveis de cidades podem revelar segredos de design surpreendentes.
+> + Uma história do universo em dezoito minutos mostra um caminho do caos à ordem.
 > + Quase morri num trekking no polo sul, e isso mudou minha noção de propósito.
 > + Vamos fazer uma revolução silenciosa: um mundo redesenhado para os introvertidos.
 > + A combinação de três tecnologias simples cria um sexto sentido assombroso.
-> + Vídeos on-line podem humanizar a sala de aula e revolucionar a educação.
 
 + Todas as partes precisam estar interligadas. Isso não significa que toda palestra possa cobrir apenas um assunto.
 
@@ -353,11 +350,11 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4NjQ5MDk0LDMyOTQxODU0NSwxNDMyOD
-E5MDY5LDkyNjYxMjUwOSwyNzIxMDQxNDgsLTEyNTA3OTEzNiwt
-NTM4MDE5MjE0LC0yMTA3MzA2OTk2LDE2MzI5NzM5MzIsMTI4OD
-kzMTUzOCwzNTI4ODQzMjgsMTkyNDM5NzkzLC03ODg3MTgxMTUs
-LTEwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OTA1NTYsLTY0ODA0OD
-Q4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbLTIyNDI1Nzg5Myw1MDg2NDkwOTQsMzI5ND
+E4NTQ1LDE0MzI4MTkwNjksOTI2NjEyNTA5LDI3MjEwNDE0OCwt
+MTI1MDc5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5OTYsMTYzMj
+k3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMs
+LTc4ODcxODExNSwtMTAzMTcxMTg4LDExNjMzOTAzNiwxMzc5MD
+U1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MTI2MjM1M119
 
 -->
