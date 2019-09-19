@@ -53,7 +53,7 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 ## Prólogo
 
 **Retórica:** a arte de falar com eficácia.
-**Competência Comunicativa:** habilidade de entender e usar a linguagem efetivamente para comunicação.
+**Competência Comunicativa:** habilidade de entender e usar a linguagem para se comunicar de forma efetiva.
 **Ideia:** qualquer coisa capaz de mudar a visão de mundo das pessoas.
 **Linha Mestra:** ???
 
@@ -68,6 +68,7 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 + Medo de falar em público é irracional.
 + Uma palestra sempre pode abrir portas ou transformar uma carreira.
 + Seja você mesmo.
+
 > Se você é cientista, seja cientista; não tente ser um militante. Se é artista, seja artista; não tente ser um acadêmico. Se é um sujeito comum, não queira simular um impressionante estilo intelectual; seja esse sujeito comum.
 
 ### Construção da Ideia
@@ -308,7 +309,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM4ODU0NjcsMTE2MzM5MDM2LDEzNz
+eyJoaXN0b3J5IjpbLTE4NjU4NDUzOTUsMTE2MzM5MDM2LDEzNz
 kwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUz
 LDkyMzUwNjg3NF19
 -->
