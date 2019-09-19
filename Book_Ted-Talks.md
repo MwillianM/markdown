@@ -29,12 +29,8 @@ Visão Geral
 	+ Incentiva a falar em público mesmo diante do nervosismo.
 	+ Explica como falar em público com eficiência.
 	+ Oferece um conjunto de ferramentas para dar boas palestras
-	+ Incentiva a variedade (). 
-
-Encontrará ferramentas e ideias que serão úteis não apenas nessas ocasiões, como em todas as formas de comunicação pública.
-
-A tese central deste livro é:
-+ que qualquer um com uma ideia digna de ser divulgada é capaz de realizar uma palestra eficaz.
+	+ Incentiva a variedade (Não existe uma única maneira de dar uma palestra de alto nível). 
+	+ Os conhecimentos podem ser aplicados para todas as formas de comunicação pública.
 
 Sem dúvida, uma das impressões mais fortes que podemos experimentar ao ouvir uma palestra é a motivação.
 
@@ -75,6 +71,7 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 + Qualquer um pode falar em público.
 + Medo de falar em público é irracional.
 + Uma palestra sempre pode abrir portas ou transformar uma carreira.
++ Qualquer um com uma ideia digna de ser divulgada é capaz de realizar uma palestra eficaz.
 + Qualquer tentativa de aplicar uma fórmula vai fazer o público se sentir manipulado.
 + Seja você mesmo.
 
@@ -351,7 +348,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTIyNzU3Niw5MjY2MTI1MDksMjcyMT
+eyJoaXN0b3J5IjpbMjEzODY5MTA3OCw5MjY2MTI1MDksMjcyMT
 A0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5
 NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5Mj
 QzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2
