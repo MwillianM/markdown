@@ -42,7 +42,7 @@ A tese central deste livro é:
 
 Sem dúvida, uma das impressões mais fortes que podemos experimentar ao ouvir uma palestra é a motivação.
 
-A palavra “retórica” significa simplesmente “a arte de falar com eficácia”. É esse o tema fundamental deste livro.
+A palavra “retórica” significa simplesmente “a arte de falar com eficácia”. É esse o tema fundamental deste livro. Reformular a retórica para a era moderna. Proporcionar contribuições úteis para uma nova competência comunicativa.
 
 + Sobre o Author (Por que eu acreditaria?)
 
@@ -52,7 +52,9 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 
 ## Prólogo
 
-**retórica**: a arte de falar com eficácia. Reformular a retórica para a era moderna. Proporcionar contribuições úteis para uma nova competência comunicativa.
+**Retórica:** a arte de falar com eficácia.
+**Competência Comunicativa:** ???
+**Linha Mestra: ** ???
 
 ---
 
@@ -60,8 +62,8 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 
 ### Competência Comunicativa
 
-Qualquer um pode falar em público.
-Medo de falar em público é irracional.
++ Qualquer um pode falar em público.
++ Medo de falar em público é irracional.
 
 Esse é o poder da palavra. Você pode não ser o líder de uma organização, mas uma palestra sempre pode abrir portas ou transformar uma carreira
 
@@ -311,6 +313,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUwNDY3NzUsLTY0ODA0ODQ4NiwtMT
-Y5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbMTA1NDAxNTY5LC02NDgwNDg0ODYsLTE2OT
+I0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
 -->
