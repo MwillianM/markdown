@@ -102,6 +102,12 @@ Quatro estilos a serem evitados:
 
 O objetivo de uma palestra consiste em... dizer algo significativo. No entanto, é impressionante o número de palestras que não atingem esse objetivo.
 
+Belos slides e carisma não fazem mal algum, mas, se o palestrante não presenteia o público com algo real e valioso, tudo o que ele fez, na melhor das hipóteses, foi entretê-lo.
+
+Existe uma expressão útil usada com frequência na análise de peças, filmes e romances, mas que também se aplica a palestras. É a “linha mestra”, o tema que une os elementos narrativos. Toda palestra precisa de uma.
+
+
+
 
 ---
 
@@ -172,6 +178,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE4NzE0MzQsLTY0ODA0ODQ4NiwtMT
-Y5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbMTM0OTc4NTQ2MiwtNjQ4MDQ4NDg2LC0xNj
+kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
