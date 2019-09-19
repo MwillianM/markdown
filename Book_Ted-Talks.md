@@ -48,7 +48,11 @@ Esse é o poder da palavra. Você pode não ser o líder de uma organização, m
 
 Seu objetivo não é ser um Winston Churchill ou um Nelson Mandela. É ser você. Se você é cientista, seja cientista; não tente ser um militante. Se é artista, seja artista; não tente ser um acadêmico. Se é um sujeito comum, não queira simular um impressionante estilo intelectual; seja esse sujeito comum.
 
+A competência comunicativa não é um extra opcional destinado a uns poucos. É uma qualificação fundamental para o século XXI.
+
 ### Construção da Ideia
+
+A obrigação número um de um palestrante é reconstruir na mente de seus ouvintes algo que lhe importa. Vamos chamar essa coisa de ideia
 
 
 
@@ -116,6 +120,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTI0Nzg4NjksOTgxMjYyMzUzLDkyMz
-UwNjg3NF19
+eyJoaXN0b3J5IjpbLTc0Mzc0NzQ0LC0xNjkyNDc4ODY5LDk4MT
+I2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
