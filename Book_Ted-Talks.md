@@ -173,19 +173,30 @@ Saiba o máximo possível sobre a plateia:
 
 ### Tempo
 
-+ Uma apresentação mais curta não significa de modo algum menos tempo de preparação.
+Para transmitir algo de interessante, você precisa reservar tempo para fazer pelo menos duas coisas:
+
+**Mostrar por que o tema é importante**
+
++ Que pergunta está tentando responder?
++ Que problema está tentando solucionar?
++ Que experiência pretende compartilhar?
+
+**Embasar cada argumento**
++ exemplos reais
++ histórias
++ fatos
+
+Uma apresentação mais curta não significa de modo algum menos tempo de preparação.
 > Certa vez, perguntaram ao presidente americano Woodrow Wilson quanto tempo ele levava para preparar um discurso, no que ele respondeu: Depende da extensão. Se durar dez minutos, preciso de não menos do que duas semanas para me preparar; se for de meia hora, preciso de uma semana; mas, se eu puder falar o tempo que quiser, não preciso me preparar. Fico pronto na hora.
 
-+ A criação de uma palestra de alto nível ajustada a um tempo limitado exige um esforço considerável.
+A criação de uma palestra de alto nível ajustada a um tempo limitado exige um esforço considerável.
 > Isso me lembra uma citação famosa, atribuída a vários grandes pensadores e escritores: “Se eu tivesse mais tempo, teria escrito uma carta mais curta.” 
 
-+ Existe um jeito certo e um jeito errado de levar a tarefa a cabo.
+Existe um jeito certo e um jeito errado de levar a tarefa a cabo.
 
-	+ **Jeito Errado:** Condensar sua palestra é incluir todos os fatos que você acha que precisa dizer e, depois, reduzir o tempo dedicado a cada um.
++ **Jeito Errado:** Condensar sua palestra é incluir todos os fatos que você acha que precisa dizer e, depois, reduzir o tempo dedicado a cada um.
 
 	> Curiosamente, é bem possível que você consiga criar um roteiro que produza esse resultado. Todos os pontos importantes que você deseja cobrir estão lá, de forma sucinta. O trabalho foi apresentado em toda a sua extensão! Você pode até achar que há uma linha mestra ligando todos os aspectos, uma ampla fundamentação do trabalho. Você pode ter a impressão de que deu a essa preparação o melhor de si e fez o possível para se ajustar ao tempo concedido. Entretanto, uma linha mestra que ligue muitos conceitos não funciona. Há uma consequência grave quando você passa muito depressa por diversos assuntos: eles não causam impacto.
-
-Para transmitir algo de interessante, você precisa reservar tempo para fazer pelo menos duas coisas:
 
 ### Jeito Certo
 
@@ -329,9 +340,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjI5MTIwMiwtMjEwNzMwNjk5NiwxNj
-MyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5
-MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNz
-kwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUz
-LDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbMjQ5NDg1NTY5LC0yMTA3MzA2OTk2LDE2Mz
+I5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyNDM5Nzkz
+LC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OT
+A1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMs
+OTIzNTA2ODc0XX0=
 -->
