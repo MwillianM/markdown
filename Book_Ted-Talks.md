@@ -87,7 +87,7 @@ Visão Geral
 + Pode-se usar a oportunidade de falar em público como um incentivo de dominar algum assunto.
 + Sim, as palavras importam!
 
-> Alguns instrutores que trabalham com quem pretende falar em público minimizam a importância da linguagem. Às vezes recorrem a pesquisas publicadas em 1967 pelo professor Albert Mehrabian, as quais afirmam que apenas 7% da eficácia da comunicação decorrem da linguagem, enquanto 38% dependem do tom de voz e 55% da linguagem corporal. Isso tem levado muitos instrutores a se concentrarem excessivamente em desenvolver um estilo de oratória fundamentado na autoconfiança, no carisma etc., sem se preocuparem muito com as palavras. Infelizmente, essa é uma interpretação equivocada das conclusões de Mehrabian. Em essência, os experimentos dele visaram descobrir como a emoção era comunicada. Por exemplo, ele testava o que acontecia quando alguém dizia “ah, que legal”, mas em tom de raiva ou com uma expressão corporal ameaçadora. É claro que, nessas circunstâncias, as palavras em si pouco interessam. Entretanto, é um absurdo generalizar esse resultado a qualquer palestra (e Mehrabian fica tão irritado com a má utilização de suas pesquisas que, em seu site, um parágrafo em negrito pede que não se faça isso).
+> [...] pesquisas publicadas em 1967 pelo professor Albert Mehrabian, as quais afirmam que apenas 7% da eficácia da comunicação decorrem da linguagem, enquanto 38% dependem do tom de voz e 55% da linguagem corporal. Isso tem levado muitos instrutores a se concentrarem excessivamente em desenvolver um estilo de oratória fundamentado na autoconfiança, no carisma etc., sem se preocuparem muito com as palavras. Infelizmente, essa é uma interpretação equivocada das conclusões de Mehrabian. Em essência, os experimentos dele visaram descobrir como a emoção era comunicada. Por exemplo, ele testava o que acontecia quando alguém dizia “ah, que legal”, mas em tom de raiva ou com uma expressão corporal ameaçadora. É claro que, nessas circunstâncias, as palavras em si pouco interessam. Entretanto, é um absurdo generalizar esse resultado a qualquer palestra (e Mehrabian fica tão irritado com a má utilização de suas pesquisas que, em seu site, um parágrafo em negrito pede que não se faça isso).
 
 + Passar emoção é importante, e nesse aspecto o tom de voz e a linguagem corporal têm enorme valor.
 + A essência de uma palestra depende fundamentalmente das palavras
@@ -99,7 +99,7 @@ Visão Geral
 Quatro estilos a serem evitados:
 
 1. **Conversa de Vendedor:** Estilo de palestra semelhante a um discurso de vendas, no intuito de promover-se ou vender algum bem ou serviço.
-	> O princípio fundamental é lembrar que o palestrante deve fazer uma doação a seus ouvintes, e não tirar algo deles. Os melhores vendedores se põem no lugar dos possíveis clientes e imaginam a melhor forma de atender a seus interesses.
+	> O princípio fundamental é lembrar que o palestrante deve fazer uma doação a seus ouvintes, e não tirar algo deles. [...] Os melhores vendedores se põem no lugar dos possíveis clientes e imaginam a melhor forma de atender a seus interesses.
 
 1.  **Divagações:** Palestras sinuosas, sem uma direção clara.
 	> Um palestrante pode se iludir e se convencer de que mesmo uma exploração desordenada de suas ideias brilhantes será fascinante para a plateia. No entanto, se oitocentas pessoas planejam dedicar quinze minutos de seu dia a ouvi-lo, ele não pode simplesmente improvisar sua exposição. [...] Assim, se você vai presentear pessoas com uma ideia magnífica, primeiro precisa dedicar algum tempo a preparar sua exposição. Ficar divagando não é uma opção.
@@ -353,10 +353,11 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5NDE4NTQ1LDE0MzI4MTkwNjksOTI2Nj
-EyNTA5LDI3MjEwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQs
-LTIxMDczMDY5OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mj
-g4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4
-LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyND
-c4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbMTc5NTMwMTQyOSwzMjk0MTg1NDUsMTQzMj
+gxOTA2OSw5MjY2MTI1MDksMjcyMTA0MTQ4LC0xMjUwNzkxMzYs
+LTUzODAxOTIxNCwtMjEwNzMwNjk5NiwxNjMyOTczOTMyLDEyOD
+g5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5MywtNzg4NzE4MTE1
+LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwND
+g0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
+
 -->
