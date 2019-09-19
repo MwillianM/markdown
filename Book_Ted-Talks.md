@@ -220,7 +220,13 @@ Para transmitir algo de interessante, você precisa reservar tempo para fazer pe
 
 ### Jeito Certo
 
-Para realizar uma palestra eficaz, você precisa diminuir a gama de assuntos abordados, reduzindo-a a um fio único e coeso
+Para realizar uma palestra eficaz, você precisa diminuir a gama de assuntos abordados, reduzindo-a a um fio único e coeso. Em certo sentido, você cobrirá menos pontos, mas o impacto será substancialmente maior.
+
+Menos pode ser mais.
+
+deixe espaço e DIGA MENOS.
+
+
 
 ---
 
@@ -233,6 +239,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTU5OTgyNDcsLTY0ODA0ODQ4NiwtMT
+eyJoaXN0b3J5IjpbLTE3MzA3ODk0MjksLTY0ODA0ODQ4NiwtMT
 Y5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
 -->
