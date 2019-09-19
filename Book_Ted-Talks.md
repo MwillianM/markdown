@@ -214,7 +214,13 @@ Uma apresentação mais curta não significa de modo algum menos tempo de prepar
 
 O jeito errado de condensar sua palestra é incluir todos os fatos que você acha que precisa dizer e, depois, reduzir o tempo dedicado a cada um.
 
+> Curiosamente, é bem possível que você consiga criar um roteiro que produza esse resultado. Todos os pontos importantes que você deseja cobrir estão lá, de forma sucinta. O trabalho foi apresentado em toda a sua extensão! Você pode até achar que há uma linha mestra ligando todos os aspectos, uma ampla fundamentação do trabalho. Você pode ter a impressão de que deu a essa preparação o melhor de si e fez o possível para se ajustar ao tempo concedido. Entretanto, uma linha mestra que ligue muitos conceitos não funciona. Há uma consequência grave quando você passa muito depressa por diversos assuntos: eles não causam impacto. Você conhece o pano de fundo e o contexto do que está dizendo, por isso as informações lhe parecem mais que suficientes. No entanto, a plateia está tendo contato com seu trabalho pela primeira vez. Por isso, a palestra provavelmente parecerá fragmentada, árida ou superficial.
 
+Para transmitir algo de interessante, você precisa reservar tempo para fazer pelo menos duas coisas: Mostrar por que o tema é importante: que pergunta está tentando responder? Que problema está tentando solucionar? Que experiência pretende compartilhar? Embasar cada argumento com exemplos reais, histórias ou fatos
+
+### Jeito Certo
+
+Para realizar uma palestra eficaz, você precisa diminuir a gama de assuntos abordados, reduzindo-a a um fio único e coeso
 
 ---
 
@@ -227,6 +233,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTgyMTc2MiwtNjQ4MDQ4NDg2LC0xNj
-kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbLTExMTU5OTgyNDcsLTY0ODA0ODQ4NiwtMT
+Y5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
 -->
