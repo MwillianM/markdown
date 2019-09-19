@@ -79,9 +79,8 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 + Dedique-se a algo que mereça ser compartilhado com outras pessoas.
 + Estilo sem conteúdo é horrível.
 + Você tem uma coisa que ninguém mais no mundo tem: a sua experiência de vida.
-+ As pessoas adoram histórias, mesmo que a lição a se tirar dela já seja batida, tudo bem, somos humanos! Precisamos relembrar as coisas.
-
-Portanto, se você acha que talvez tenha algo, mas não tem certeza de que já domina o assunto, por que não usar a oportunidade de falar em público como um incentivo para descobrir?
++ As pessoas adoram histórias, mesmo que a lição a se tirar dela seja comum. Humanos precisamos relembrar as coisas.
++ Pode-se usar a oportunidade de falar em público como um incentivo de domina o assunto, por que não usar  para descobrir?
 
 > Em 2015, fizemos uma experiência na sede do TED. A cada duas semanas, dávamos a todos os membros da equipe um dia de folga para se dedicar a estudar determinado assunto. Chamamos esse dia de Quarta-Feira de Aprendizado. A ideia era que, como a organização está voltada para o aprendizado contínuo, durante toda a vida, devemos praticar o que pregamos e incentivar todos os integrantes da equipe a dedicar um tempo a estudar o que lhes interessa. Mas como evitávamos que essa quarta-feira se tornasse apenas um dia sem nada para fazer, passado diante da TV? Bom, havia mais uma coisinha: todos tinham de se comprometer a realizar, em algum momento do ano, uma palestra no estilo TED sobre aquilo que aprenderam para o restante da organização.
 
@@ -307,6 +306,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzM3Mzk1MiwtNjQ4MDQ4NDg2LC0xNj
+eyJoaXN0b3J5IjpbMTQzMjQ1NjMyMywtNjQ4MDQ4NDg2LC0xNj
 kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
