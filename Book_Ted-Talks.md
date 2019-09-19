@@ -162,7 +162,17 @@ Exemplos de linhas mestras:
 
 > Contudo, mesmo quando o assunto é claro, convém pensar na linha mestra. Uma palestra sobre uma aventura de caiaque pode ter uma linha mestra baseada na resistência, na dinâmica de grupo ou nos perigos de redemoinhos turbulentos em rios. A palestra sobre dessalinização poderia ter uma linha mestra fundamentada em inovações que produzem rupturas.
 
-O primeiro passo é saber o máximo possível sobre a plateia. Quem são essas pessoas? Qual é o nível de informação delas? O que esperam? Com o que se importam? Sobre o que outros palestrantes já lhes falaram? Só se pode dar de presente uma ideia a mentes preparadas para recebê-la
+### Público
+
+Saiba o máximo possível sobre a plateia:
+
++ Quem são essas pessoas?
++ Qual é o nível de informação delas?
++ O que esperam?
++ Com o que se importam?
++ Sobre o que outros palestrantes já lhes falaram?
+
+> Só se pode dar de presente uma ideia a mentes preparadas para recebê-la
 
 ### Tempo
 
@@ -318,9 +328,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDczMDY5OTYsMTYzMjk3MzkzMiwxMj
-g4OTMxNTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODEx
-NSwtMTAzMTcxMTg4LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MD
-Q4NDg2LC0xNjkyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRd
-fQ==
+eyJoaXN0b3J5IjpbODgzMjAwMjMsLTIxMDczMDY5OTYsMTYzMj
+k3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMs
+LTc4ODcxODExNSwtMTAzMTcxMTg4LDExNjMzOTAzNiwxMzc5MD
+U1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MTI2MjM1Myw5
+MjM1MDY4NzRdfQ==
 -->
