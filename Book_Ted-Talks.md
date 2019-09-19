@@ -262,6 +262,7 @@ Um bom ensaio responde a três perguntas:
 ### O CHECKLIST
 
 À medida que você desenvolve sua linha mestra, submeta-a ao seguinte checklist: 
+
 - [ ] O assunto me apaixona?
 - [ ]  Ele provoca curiosidade?
 - [ ]  Ele faz diferença para a plateia?
@@ -273,7 +274,9 @@ Um bom ensaio responde a três perguntas:
 - [ ]  Quais são as quinze palavras que resumem minha palestra?
 - [ ]  Essas quinze palavras fariam alguém se interessar por ouvir minha palestra?
 
-A instrutora de oratória Abigail Tenembaum recomenda que o palestrante teste sua linha mestra com alguém que poderia ser um membro típico da plateia. Segundo ela, é preciso fazer isso oralmente, e não por escrito
+### Teste sua palestra
+
+> A instrutora de oratória Abigail Tenembaum recomenda que o palestrante teste sua linha mestra com alguém que poderia ser um membro típico da plateia. Segundo ela, é preciso fazer isso oralmente, e não por escrito
 
 > A conhecida escritora Elizabeth Gilbert também acredita na importância de planejar uma palestra para uma plateia formada por apenas uma pessoa: “Escolha um ser humano, um ser humano real que faça parte da sua vida, e prepare a palestra como se fosse realizá-la apenas para essa pessoa. Escolha alguém que não trabalhe na sua área, mas seja inteligente, curioso, participativo, conhecedor do mundo — e de quem você realmente goste. Isso dará à sua palestra um calor espiritual e cordial. Sobretudo, conscientize-se de que está falando para uma única pessoa, e não para um segmento demográfico (‘Minha palestra se dirige a profissionais entre 22 e 38 anos que atuem na área de software’), porque um segmento demográfico não é uma pessoa, e, se você falar para um segmento demográfico, não vai passar a ideia de que está falando para uma pessoa. Você não precisa ir à casa dela ensaiar a palestra durante seis meses; ela nem precisa saber que você está ensaiando. Apenas escolha seu ouvinte ideal e depois faça tudo o que puder para criar uma palestra que o empolgue, emocione, fascine ou encante.”
 
@@ -352,7 +355,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTY5MTA3OCw5MjY2MTI1MDksMjcyMT
+eyJoaXN0b3J5IjpbMjAyOTY3OTEwMSw5MjY2MTI1MDksMjcyMT
 A0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5
 NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5Mj
 QzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2
