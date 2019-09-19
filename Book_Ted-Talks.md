@@ -33,8 +33,9 @@ Visão Geral
   + Os conhecimentos podem ser aplicados para todas as formas de comunicação pública.
 + Sobre o Author (Por que eu acreditaria?)
   + **TED Talks**
-    + Compartilhando ideias desde 1984
-    + Possu
+    + Compartilhando ideias desde 1984.
+    + Muito conhecido por suas apresentação de alto impactos.
+    + Começou apenas sobre Tecnologia, Entreteri
   + **Chirs Anderson**
 
 Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar o caminho. O TED começou como uma conferência anual, com palestras nos campos da Tecnologia, do Entretenimento e do Design (daí o nome). Nos últimos anos, porém, o programa se expandiu e passou a cobrir qualquer tópico de interesse público.
@@ -345,7 +346,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODc1ODM1NSw5MjY2MTI1MDksMjcyMT
+eyJoaXN0b3J5IjpbMTEzNzg0ODE0Nyw5MjY2MTI1MDksMjcyMT
 A0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5
 NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5Mj
 QzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2
