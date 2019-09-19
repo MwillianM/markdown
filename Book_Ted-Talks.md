@@ -114,7 +114,7 @@ Talvez a primeira versão sirva para a sua família. Mas a segunda, com a linha 
 
 Um bom exercício consiste em resumir sua linha mestra em não mais que quinze palavras
 
-Qual é a ideia exata que você quer inserir na mente dos ouvintes? O que eles vão levar para casa?
+Qual é a ideia exata que você quer inserir na mente dos ouvintes? O que eles vão levar para casa? O que você deseja que o público compreenda plenamente ao fim da palestra?
 
 É importante também que a linha mestra não seja previsível ou banal
 
@@ -123,7 +123,13 @@ Qual é a ideia exata que você quer inserir na mente dos ouvintes? O que eles v
 > + O potencial da educação se transforma quando nos concentramos na extraordinária (e hilariante) criatividade infantil.
 > + Você pode simular a linguagem corporal até ela se tornar verdadeira.
 > + Uma história do universo em dezoito minutos mostra um caminho do caos à ordem. 
-> + Bandeiras horríveis de cidades podem revelar segredos de design surpreendentes. Quase morri num trekking no polo sul, e isso mudou minha noção de propósito. Vamos fazer uma revolução silenciosa: um mundo redesenhado para os introvertidos. A combinação de três tecnologias simples cria um sexto sentido assombroso. Vídeos on-line podem humanizar a sala de aula e revolucionar a educação
+> + Bandeiras horríveis de cidades podem revelar segredos de design surpreendentes.
+> + Quase morri num trekking no polo sul, e isso mudou minha noção de propósito.
+> + Vamos fazer uma revolução silenciosa: um mundo redesenhado para os introvertidos.
+> + A combinação de três tecnologias simples cria um sexto sentido assombroso.
+> + Vídeos on-line podem humanizar a sala de aula e revolucionar a educação.
+
+
 
 ---
 
@@ -194,6 +200,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTgyOTM3MjUsLTY0ODA0ODQ4NiwtMT
-Y5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbMTI2MDczNDQ1LC02NDgwNDg0ODYsLTE2OT
+I0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
 -->
