@@ -83,8 +83,8 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 
 + O objetivo de uma palestra é plantar uma ideia na mente dos ouvintes, logo, a obrigação do palestrante é reconstruir na mente de seus ouvintes essa ideia.
 + Suas únicas obrigações reais ao dar uma palestra são:
-+ ter algo de importante a comunicar
-+ se mostrar autêntico à sua maneira.
+	+ ter algo de importante a comunicar
+	+ se mostrar autêntico à sua maneira.
 + A única coisa de fato importante ao se falar em público é ter algo de importante a dizer.
 + Dedique-se a algo que mereça ser compartilhado com outras pessoas.
 + Estilo sem conteúdo é horrível.
@@ -340,9 +340,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDI3NTk5NiwtMTI1MDc5MTM2LC01Mz
-gwMTkyMTQsLTIxMDczMDY5OTYsMTYzMjk3MzkzMiwxMjg4OTMx
-NTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODExNSwtMT
-AzMTcxMTg4LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MDQ4NDg2
-LC0xNjkyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbMjcyMTA0MTQ4LC0xMjUwNzkxMzYsLTUzOD
+AxOTIxNCwtMjEwNzMwNjk5NiwxNjMyOTczOTMyLDEyODg5MzE1
+MzgsMzUyODg0MzI4LDE5MjQzOTc5MywtNzg4NzE4MTE1LC0xMD
+MxNzExODgsMTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwNDg0ODYs
+LTE2OTI0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
 -->
