@@ -31,9 +31,6 @@ Visão Geral
   + Oferece um conjunto de ferramentas para dar boas palestras
   + Incentiva a variedade (Não existe uma única maneira de dar uma palestra de alto nível). 
   + Os conhecimentos podem ser aplicados para todas as formas de comunicação pública.
-
-
-
 + Sobre o Author (Por que eu acreditaria?)
 
 Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar o caminho. O TED começou como uma conferência anual, com palestras nos campos da Tecnologia, do Entretenimento e do Design (daí o nome). Nos últimos anos, porém, o programa se expandiu e passou a cobrir qualquer tópico de interesse público.
@@ -53,6 +50,8 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 > Menos pode ser mais.
 
 > deixe espaço e DIGA MENOS.
+
+> Belos slides e carisma não fazem mal algum, mas, se o palestrante não presenteia o público com algo real e valioso, tudo o que ele fez, na melhor das hipóteses, foi entretê-lo.
 
 ---
 
@@ -342,10 +341,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjExMzI3OCw5MjY2MTI1MDksMjcyMT
-A0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5
-NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5Mj
-QzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2
-LDEzNzkwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMj
-YyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbLTE2NzM5ODgzMzUsOTI2NjEyNTA5LDI3Mj
+EwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5
+OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOT
+I0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4LDExNjMzOTAz
+NiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MT
+I2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
