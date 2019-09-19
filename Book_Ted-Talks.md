@@ -160,7 +160,7 @@ Exemplos de linhas mestras:
 
 > Pensemos outra vez na palestra como uma viagem que palestrante e plateia realizam juntos, com o palestrante no papel de guia. Se você quiser que a plateia viaje a seu lado, provavelmente terá de lhe dar uma ideia de seu destino. E a partir daí precisa ter certeza de que cada passo na viagem a aproxima desse destino. Nessa metáfora de viagem, a linha mestra traça o percurso. Ela garante que não haverá saltos impossíveis e que, no fim da apresentação, o palestrante e o público chegarão juntos a um destino satisfatório.
 
-Contudo, mesmo quando o assunto é claro, convém pensar na linha mestra. Uma palestra sobre uma aventura de caiaque pode ter uma linha mestra baseada na resistência, na dinâmica de grupo ou nos perigos de redemoinhos turbulentos em rios. A palestra sobre dessalinização poderia ter uma linha mestra fundamentada em inovações que produzem rupturas.
+> Contudo, mesmo quando o assunto é claro, convém pensar na linha mestra. Uma palestra sobre uma aventura de caiaque pode ter uma linha mestra baseada na resistência, na dinâmica de grupo ou nos perigos de redemoinhos turbulentos em rios. A palestra sobre dessalinização poderia ter uma linha mestra fundamentada em inovações que produzem rupturas.
 
 O primeiro passo é saber o máximo possível sobre a plateia. Quem são essas pessoas? Qual é o nível de informação delas? O que esperam? Com o que se importam? Sobre o que outros palestrantes já lhes falaram? Só se pode dar de presente uma ideia a mentes preparadas para recebê-la
 
@@ -318,9 +318,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzExOTgyNiwxNjMyOTczOTMyLDEyOD
-g5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5MywtNzg4NzE4MTE1
-LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwND
-g0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
-
+eyJoaXN0b3J5IjpbLTIxMDczMDY5OTYsMTYzMjk3MzkzMiwxMj
+g4OTMxNTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODEx
+NSwtMTAzMTcxMTg4LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MD
+Q4NDg2LC0xNjkyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRd
+fQ==
 -->
