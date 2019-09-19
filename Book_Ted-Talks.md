@@ -107,7 +107,7 @@ Quatro estilos a serem evitados:
 
 	> Você e sua equipe podem considerá-la (companhia) interessante. Infelizmente, porém, não trabalhamos nela. Entretanto, tudo muda quando você se concentra na natureza do trabalho que está realizando e no poder das ideias nele instiladas, e não na organização ou em seus produtos.
 
-5. **Desempenho Motivador:** O intenso desejo de uma ovação pode conduzir palestrantes inexperientes ao erro. Às vezes, eles veem a apresentação de palestrantes motivadores e tentam copiá-los... mas só na aparência. O resultado pode ser péssimo: a imitação incessante de todos os truques conhecidos para manipular a plateia intelectual e emocionalmente. Mas gostando um pouco demais. Fazia pausas com frequência, esperando que a plateia o aplaudisse ou risse e, quando isso acontecia, parava e dizia “obrigado”, numa sutil tentativa de provocar mais aplausos ou risos. Começou a inserir cacos que pretendiam ser engraçados. Ficou claro que o divertiam; aos outros, nem tanto. E o pior de tudo foi que o conteúdo prometido da palestra não chegou a ser exposto. Ele afirmou que havia trabalhado no sentido de demonstrar a veracidade de uma ideia importante. Mas o que expunha não passava de extravagâncias e casos variados. Houve um momento em que até apresentou uma imagem, trabalhada com Photoshop, que parecia justificar sua pretensão. Como havia se empolgado e estava adorando a ribalta, acabou extrapolando o tempo determinado. Aquilo era o clichê do TED. O problema de apresentações como essa não está apenas no fato de adularem a plateia para enganá-la. Está sobretudo em enxovalhar a reputação do gênero. Elas reduzem as chances de que os espectadores se deixem atingir por um palestrante genuinamente motivador. Entretanto, atraídos pela droga que é o aplauso do público, cada vez mais palestrantes tentam seguir esse caminho.
+1. **Desempenho Motivador:** O intenso desejo de uma ovação pode conduzir palestrantes inexperientes ao erro. Às vezes, eles veem a apresentação de palestrantes motivadores e tentam copiá-los... mas só na aparência. O resultado pode ser péssimo: a imitação incessante de todos os truques conhecidos para manipular a plateia intelectual e emocionalmente. Mas gostando um pouco demais. Fazia pausas com frequência, esperando que a plateia o aplaudisse ou risse e, quando isso acontecia, parava e dizia “obrigado”, numa sutil tentativa de provocar mais aplausos ou risos. Começou a inserir cacos que pretendiam ser engraçados. Ficou claro que o divertiam; aos outros, nem tanto. E o pior de tudo foi que o conteúdo prometido da palestra não chegou a ser exposto. Ele afirmou que havia trabalhado no sentido de demonstrar a veracidade de uma ideia importante. Mas o que expunha não passava de extravagâncias e casos variados. Houve um momento em que até apresentou uma imagem, trabalhada com Photoshop, que parecia justificar sua pretensão. Como havia se empolgado e estava adorando a ribalta, acabou extrapolando o tempo determinado. Aquilo era o clichê do TED. O problema de apresentações como essa não está apenas no fato de adularem a plateia para enganá-la. Está sobretudo em enxovalhar a reputação do gênero. Elas reduzem as chances de que os espectadores se deixem atingir por um palestrante genuinamente motivador. Entretanto, atraídos pela droga que é o aplauso do público, cada vez mais palestrantes tentam seguir esse caminho.
 
 ### A Linha Mestra
 
@@ -310,8 +310,8 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyND
-M5NzkzLC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYs
-MTM3OTA1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNj
-IzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbLTY2NTI0MDc0NiwxMjg4OTMxNTM4LDM1Mj
+g4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4
+LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyND
+c4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
