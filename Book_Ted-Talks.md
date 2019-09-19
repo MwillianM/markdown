@@ -226,6 +226,8 @@ Menos pode ser mais.
 
 deixe espaço e DIGA MENOS.
 
+> “Planeje sua palestra. Depois, corte-a pela metade. Depois de chorar bastante a perda de metade da palestra, corte 50% do que sobrou. É tentador pensar no quanto você pode incluir em dezoito minutos. Para mim, a melhor pergunta é a seguinte: ‘O que você pode apresentar, de maneira significativa, em dezoito minutos?’”
+
 
 
 ---
@@ -239,6 +241,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA3ODk0MjksLTY0ODA0ODQ4NiwtMT
-Y5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbLTM1MDIzODY3MiwtNjQ4MDQ4NDg2LC0xNj
+kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
