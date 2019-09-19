@@ -92,8 +92,8 @@ Quatro estilos a serem evitados:
 
 1. A CONVERSA DE VENDEDOR:  Alguns palestrantes fazem tudo ao contrário. Procuram tirar, e não dar. O irônico é que essa maneira gananciosa de falar não favorece o palestrante. Eu duvido que naquele dia um único empresário o tenha contratado. E, ainda que isso tenha ocorrido, o fato é que isso foi contrabalançado por muitos outros que o escutaram e perderam o respeito por ele. Nem preciso dizer que nunca postamos a palestra na internet. Reputação é tudo. Um bom palestrante quer ser visto como alguém generoso — que dá à sua plateia algo de maravilhoso —, e não como um chato que só pretende se promover. É tedioso e frustrante ouvir um discurso de vendas, principalmente se estamos esperando outra coisa.O princípio fundamental é lembrar que o palestrante deve fazer uma doação a seus ouvintes, e não tirar algo deles. (Mesmo num contexto comercial, quando alguém faz uma exposição com o claro intuito de efetuar uma venda, a meta deve ser ajudar. Os melhores vendedores se põem no lugar dos possíveis clientes e imaginam a melhor forma de atender a seus interesses.)
 1.  DIVAGAÇÕES: Muitas palestras são assim. Sinuosas, sem uma direção clara. Um palestrante pode se iludir e se convencer de que mesmo uma exploração desordenada de suas ideias brilhantes será fascinante para a plateia. No entanto, se oitocentas pessoas planejam dedicar quinze minutos de seu dia a ouvi-lo, ele não pode simplesmente improvisar sua exposição. Como diz meu colega Bruno Giussani, “quando as pessoas se reúnem numa sala para ouvir o que alguém tem a dizer, estão lhe dando algo extremamente precioso, irrecuperável: alguns minutos de seu tempo e de sua atenção. O palestrante tem de usar esse tempo da melhor forma possível”. Assim, se você vai presentear pessoas com uma ideia magnífica, primeiro precisa dedicar algum tempo a preparar sua exposição. Ficar divagando não é uma opção.
-1. O TÉDIO ORGANIZACIONAL: 
-1. 
+1. O TÉDIO ORGANIZACIONAL: Uma organização pode ser fascinante para quem trabalha nela — e superentediante para quase todos os demais. Lamento, mas essa é a verdade. Qualquer palestra centrada na excepcional história de sua companhia de estrutura complexa, porém muito interessante, e na fabulosa fotogenia da talentosíssima equipe que trabalha com você — isso sem contar o enorme sucesso de seus produtos no mercado — vai fazer a plateia cochilar logo de cara. Você e sua equipe podem considerá-la interessante. Infelizmente, porém, não trabalhamos nela. Entretanto, tudo muda quando você se concentra na natureza do trabalho que está realizando e no poder das ideias nele instiladas, e não na organização ou em seus produtos.
+1. O DESEMPENHO MOTIVADOR: 
 
 
 
@@ -164,6 +164,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDIzMTk3OSwtMTY5MjQ3ODg2OSw5OD
-EyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbNjc2ODMyMTg2LC0xNjkyNDc4ODY5LDk4MT
+I2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
