@@ -82,7 +82,7 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 + As pessoas adoram histórias, mesmo que a lição a se tirar dela seja comum. Humanos precisamos relembrar as coisas.
 + Pode-se usar a oportunidade de falar em público como um incentivo de dominar o assunto.
 
-**Quarta do Aprendizado: ** A cada duas semanas todos ganham um dia de folga para se dedicar a estudar determinado assunto. A ideia era que, como a organização está voltada para o aprendizado contínuo,  e incentivar todos os integrantes da equipe a dedicar um tempo a estudar o que lhes interessa. Mas como evitávamos que essa quarta-feira se tornasse apenas um dia sem nada para fazer, passado diante da TV? Bom, havia mais uma coisinha: todos tinham de se comprometer a realizar, em algum momento do ano, uma palestra no estilo TED sobre aquilo que aprenderam para o restante da organização.
+**Quarta do Aprendizado: ** A cada duas semanas todos ganham um dia de folga para estudar determinado assunto. Depois todos devem realizar uma palestra no estilo TED em algum momento do ano.
 
 > durante toda a vida, devemos praticar o que pregamos
 
@@ -308,6 +308,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzOTU5MjQ5LC02NDgwNDg0ODYsLTE2OT
-I0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbMTM3OTA1NTYsLTY0ODA0ODQ4NiwtMTY5Mj
+Q3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
 -->
