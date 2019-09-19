@@ -56,6 +56,9 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 **Competência Comunicativa:** habilidade de entender e usar a linguagem para se comunicar de forma efetiva.
 **Ideia:** qualquer coisa capaz de mudar a visão de mundo das pessoas.
 **Linha Mestra:** ???
+**Quarta do Aprendizado:** A cada duas semanas todos ganham um dia de folga para estudar determinado assunto. Depois todos devem realizar uma palestra no estilo TED em algum momento do ano.
+
+> devemos praticar o que pregamos
 
 ---
 
@@ -80,14 +83,7 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 + Você tem uma coisa que ninguém mais no mundo tem: a sua experiência de vida.
 + As pessoas adoram histórias, mesmo que a lição a se tirar dela seja comum. Humanos precisamos relembrar as coisas.
 + Pode-se usar a oportunidade de falar em público como um incentivo de dominar algum assunto.
-
-**Quarta do Aprendizado:** A cada duas semanas todos ganham um dia de folga para estudar determinado assunto. Depois todos devem realizar uma palestra no estilo TED em algum momento do ano.
-
-> devemos praticar o que pregamos
-
-+ A linguagem faz você interligar conceitos e criar uma ideia nova.  Ou seja, só é possível se locutor e ouvinte possuem um conjunto de conceitos prévios compartilhados.
-
-Ou seja: por si só, o poder da linguagem evocou as mesmas experiências mentais daqueles que tinham visto o filme. Essa é uma comprovação extraordinária da eficácia da linguagem. Trata-se de um poder que quem fala em público pode explorar.
++ A linguagem interliconceitos e criar uma ideia nova.  Ou seja, só é possível se locutor e ouvinte possuem um conjunto de conceitos prévios compartilhados.
 
 SIM, AS PALAVRAS IMPORTAM
 >Alguns instrutores que trabalham com quem pretende falar em público minimizam a importância da linguagem. Às vezes recorrem a pesquisas publicadas em 1967 pelo professor Albert Mehrabian, as quais afirmam que apenas 7% da eficácia da comunicação decorrem da linguagem, enquanto 38% dependem do tom de voz e 55% da linguagem corporal. Isso tem levado muitos instrutores a se concentrarem excessivamente em desenvolver um estilo de oratória fundamentado na autoconfiança, no carisma etc., sem se preocuparem muito com as palavras. Infelizmente, essa é uma interpretação equivocada das conclusões de Mehrabian. Em essência, os experimentos dele visaram descobrir como a emoção era comunicada. Por exemplo, ele testava o que acontecia quando alguém dizia “ah, que legal”, mas em tom de raiva ou com uma expressão corporal ameaçadora. É claro que, nessas circunstâncias, as palavras em si pouco interessam. Entretanto, é um absurdo generalizar esse resultado a qualquer palestra (e Mehrabian fica tão irritado com a má utilização de suas pesquisas que, em seu site, um parágrafo em negrito pede que não se faça isso)
@@ -307,7 +303,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTMwODEzNCwxMTYzMzkwMzYsMTM3OT
-A1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMs
-OTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbLTE5NTY1MTcwMjYsMTE2MzM5MDM2LDEzNz
+kwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUz
+LDkyMzUwNjg3NF19
 -->
