@@ -76,12 +76,10 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 + A obrigação número um de um palestrante é reconstruir na mente de seus ouvintes uma ideia.
 + A única coisa de fato importante ao se falar em público é ter algo de importante a dizer.
 + Uma ideia é qualquer coisa capaz de mudar a visão de mundo das pessoas.
-
-Dedique-se a algo que mereça ser compartilhado com outras pessoas. Estilo sem conteúdo é horrível.
-
-Seja como for, você tem uma coisa que ninguém mais no mundo tem: a sua experiência de vida.
-
-As pessoas adoram histórias, e todo mundo pode aprender a contar uma boa história. Mesmo que a lição a se tirar dela já seja batida, tudo bem, somos humanos! Precisamos relembrar as coisas.
++ Dedique-se a algo que mereça ser compartilhado com outras pessoas.
++ Estilo sem conteúdo é horrível.
++ Você tem uma coisa que ninguém mais no mundo tem: a sua experiência de vida.
++ As pessoas adoram histórias, mesmo que a lição a se tirar dela já seja batida, tudo bem, somos humanos! Precisamos relembrar as coisas.
 
 Portanto, se você acha que talvez tenha algo, mas não tem certeza de que já domina o assunto, por que não usar a oportunidade de falar em público como um incentivo para descobrir?
 
@@ -309,6 +307,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDI1MjA1NywtNjQ4MDQ4NDg2LC0xNj
+eyJoaXN0b3J5IjpbLTk5MzM3Mzk1MiwtNjQ4MDQ4NDg2LC0xNj
 kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
