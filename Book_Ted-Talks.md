@@ -178,9 +178,10 @@ Saiba o máximo possível sobre a plateia:
 
 > Isso me lembra uma citação famosa, atribuída a vários grandes pensadores e escritores: “Se eu tivesse mais tempo, teria escrito uma carta mais curta.” 
 
-+ Por isso, vamos aceitar que a criação de uma palestra de alto nível ajustada a um tempo limitado exigirá um esforço considerável. Entretanto, existe um jeito certo e um jeito errado de levar a tarefa a cabo.
++ A criação de uma palestra de alto nível ajustada a um tempo limitado exige um esforço considerável.
++ Existe um jeito certo e um jeito errado de levar a tarefa a cabo.
 
-### Jeito Errado
+	+ Jeito Errado:**
 
 O jeito errado de condensar sua palestra é incluir todos os fatos que você acha que precisa dizer e, depois, reduzir o tempo dedicado a cada um.
 
@@ -330,7 +331,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzY1MzE3NSwtMjEwNzMwNjk5NiwxNj
+eyJoaXN0b3J5IjpbLTY3ODA4NjQ1MCwtMjEwNzMwNjk5NiwxNj
 MyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5
 MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNz
 kwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUz
