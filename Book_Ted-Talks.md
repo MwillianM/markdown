@@ -100,6 +100,9 @@ Quatro estilos a serem evitados:
 
 ### A Linha Mestra
 
+O objetivo de uma palestra consiste em... dizer algo significativo. No entanto, é impressionante o número de palestras que não atingem esse objetivo.
+
+
 ---
 
 ## Ferramentas da Palestra
@@ -152,6 +155,10 @@ Quatro estilos a serem evitados:
 
 ---
 
+## Palestra
+
+---
+
 Agradecimentos
 ---
 
@@ -160,6 +167,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2OTM1ODEwLC02NDgwNDg0ODYsLTE2OT
-I0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbLTIwNzcwMjI2MDQsLTY0ODA0ODQ4NiwtMT
+Y5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
 -->
