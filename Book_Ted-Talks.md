@@ -68,6 +68,8 @@ Seja como for, você tem uma coisa que ninguém mais no mundo tem: a sua experi�
 
 As pessoas adoram histórias, e todo mundo pode aprender a contar uma boa história. Mesmo que a lição a se tirar dela já seja batida, tudo bem, somos humanos! Precisamos relembrar as coisas.
 
+Portanto, se você acha que talvez tenha algo, mas não tem certeza de que já domina o assunto, por que não usar a oportunidade de falar em público como um incentivo para descobrir?
+
 
 
 ### Armadilhas Comuns
@@ -134,6 +136,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQwNTQzOTIsLTE2OTI0Nzg4NjksOT
+eyJoaXN0b3J5IjpbLTEwMzI3NDQzOTEsLTE2OTI0Nzg4NjksOT
 gxMjYyMzUzLDkyMzUwNjg3NF19
 -->
