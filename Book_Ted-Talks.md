@@ -16,6 +16,10 @@ Visão Geral
 ---
 
 + Indicação (Esse livro é pra mim?)
+  + Qualquer um que queira falar em público.
+  + Qualquer um que queira melhorar sua comuicação.
+  + Qualquer um que vá fazer uma apresentação/palestra.
+  + Qualquer um .
 + Por que eu li
 	+ Dicas para dar uma palestra
 	+ Melhorar minha comunicação em geral
@@ -354,10 +358,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ0MDUxNDEsOTI2NjEyNTA5LDI3Mj
-EwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5
-OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOT
-I0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4LDExNjMzOTAz
-NiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MT
-I2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbMjg5ODM1NDEzLDkyNjYxMjUwOSwyNzIxMD
+QxNDgsLTEyNTA3OTEzNiwtNTM4MDE5MjE0LC0yMTA3MzA2OTk2
+LDE2MzI5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyND
+M5NzkzLC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYs
+MTM3OTA1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNj
+IzNTMsOTIzNTA2ODc0XX0=
 -->
