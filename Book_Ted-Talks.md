@@ -70,6 +70,8 @@ As pessoas adoram histórias, e todo mundo pode aprender a contar uma boa histó
 
 Portanto, se você acha que talvez tenha algo, mas não tem certeza de que já domina o assunto, por que não usar a oportunidade de falar em público como um incentivo para descobrir?
 
+> Em 2015, fizemos uma experiência na sede do TED. A cada duas semanas, dávamos a todos os membros da equipe um dia de folga para se dedicar a estudar determinado assunto. Chamamos esse dia de Quarta-Feira de Aprendizado. A ideia era que, como a organização está voltada para o aprendizado contínuo, durante toda a vida, devemos praticar o que pregamos e incentivar todos os integrantes da equipe a dedicar um tempo a estudar o que lhes interessa. Mas como evitávamos que essa quarta-feira se tornasse apenas um dia sem nada para fazer, passado diante da TV? Bom, havia mais uma coisinha: todos tinham de se comprometer a realizar, em algum momento do ano, uma palestra no estilo TED sobre aquilo que aprenderam para o restante da organização.
+
 
 
 ### Armadilhas Comuns
@@ -136,6 +138,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI3NDQzOTEsLTE2OTI0Nzg4NjksOT
-gxMjYyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbLTU3NzEwOTE3NiwtMTY5MjQ3ODg2OSw5OD
+EyNjIzNTMsOTIzNTA2ODc0XX0=
 -->
