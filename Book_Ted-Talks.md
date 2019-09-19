@@ -228,7 +228,8 @@ deixe espaço e DIGA MENOS.
 
 > “Planeje sua palestra. Depois, corte-a pela metade. Depois de chorar bastante a perda de metade da palestra, corte 50% do que sobrou. É tentador pensar no quanto você pode incluir em dezoito minutos. Para mim, a melhor pergunta é a seguinte: ‘O que você pode apresentar, de maneira significativa, em dezoito minutos?’”
 
-
+> Digamos que alguém me peça para explicar quem sou em apenas dois minutos.
+> Eis a versão 1: Embora eu seja britânico, nasci no Paquistão — meu pai era missionário e cirurgião oftalmologista — e passei meus primeiros anos naquele país, na Índia e no Afeganistão. Com treze anos, fui mandado para um internato na Inglaterra e depois disso estudei na Universidade de Oxford, onde me formei em filosofia, política e economia. Comecei a trabalhar como jornalista num pequeno jornal no País de Gales, depois trabalhei alguns anos em uma rádio pirata nas Ilhas Seychelles, na qual redigia e apresentava um noticiário internacional. De volta ao Reino Unido em meados da década de 1980, eu me apaixonei pelos computadores e lancei várias revistas sobre o assunto. Era uma grande época para se lançar revistas especializadas, e ao longo de sete anos minha empresa dobrou de tamanho a cada ano. Eu a vendi, me mudei para os Estados Unidos e tentei o mesmo caminho. Em 2000, meu negócio tinha crescido, atingindo a marca de dois mil funcionários, e compreendia 150 revistas e sites. Mas a bolha tecnológica estava para estourar, e, quando isso aconteceu, quase destruiu a empresa. Além disso, quem precisa de revistas se existe a internet? Saí no fim de 2001. Por sorte, eu havia aplicado um dinheiro numa fundação sem fins lucrativos. Usei o valor para comprar o TED Talks, que, na época, era uma conferência anual na Califórnia. Desde então, ele tem sido minha paixão em tempo integral. Eis a versão 2: Quero que você venha comigo ao quarto de um estudante na Universidade de Oxford em 1977. Você abre a porta e, à primeira vista, parece que o lugar está vazio. Mas espere. Num canto do quarto, há um rapaz deitado de costas no chão, olhando para o teto. Faz mais de uma hora e meia que está nessa posição. Sou eu. Aos 22 anos. Estou pensando. Seriamente. Estou tentando... Por favor, não ria... Estou tentando resolver o problema do livre-arbítrio. Sabe aquele profundo mistério que vem desafiando filósofos há pelo menos dois milênios? Exato. Estou tentando decifrá-lo. Quem examinasse a cena com objetividade concluiria que aquele rapaz padecia de uma estranha combinação de arrogância e delírio, ou que talvez fosse apenas tímido e solitário, preferindo a companhia de ideias à de pessoas. E a minha história? Eu sou um sonhador. Sempre fui obcecado pelo poder das ideias. E tenho absoluta certeza de que foi esse foco interior que me ajudou a sobreviver à criação em internatos na Índia e na Inglaterra — longe de meus pais missionários — e me deu a confiança para tentar construir uma empresa de comunicação. Com certeza foi o sonhador que existe em mim que se apaixonou tão perdidamente pelo TED. Nos últimos tempos, tenho sonhado com a revolução no ato de falar em público e com aquilo a que essa revolução poderá levar...
 
 ---
 
@@ -241,6 +242,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDIzODY3MiwtNjQ4MDQ4NDg2LC0xNj
+eyJoaXN0b3J5IjpbMTAwODMyNTI5MywtNjQ4MDQ4NDg2LC0xNj
 kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
