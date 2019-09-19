@@ -22,18 +22,17 @@ Visão Geral
   + Qualquer um que queira/tem medo de falar em público.
   + Qualquer um .
 + Por que eu li
-	+ Dicas para dar uma palestra
-	+ Melhorar minha comunicação em geral
+  + Dicas para dar uma palestra
+  + Melhorar minha comunicação em geral
 + Sobre o Livro (Por que eu leria?)
-	+ Mostra a melhor forma de se fazer uma palestra no estilo TED.
-	+ Incentiva a falar em público mesmo diante do nervosismo.
-	+ Explica como falar em público com eficiência.
-	+ Oferece um conjunto de ferramentas para dar boas palestras
-	+ Incentiva a variedade (Não existe uma única maneira de dar uma palestra de alto nível). 
-	+ Os conhecimentos podem ser aplicados para todas as formas de comunicação pública.
+  + Mostra a melhor forma de se fazer uma palestra no estilo TED.
+  + Incentiva a falar em público mesmo diante do nervosismo.
+  + Explica como falar em público com eficiência.
+  + Oferece um conjunto de ferramentas para dar boas palestras
+  + Incentiva a variedade (Não existe uma única maneira de dar uma palestra de alto nível). 
+  + Os conhecimentos podem ser aplicados para todas as formas de comunicação pública.
 
 
-Belos slides e carisma não fazem mal algum, mas, se o palestrante não presenteia o público com algo real e valioso, tudo o que ele fez, na melhor das hipóteses, foi entretê-lo.
 
 + Sobre o Author (Por que eu acreditaria?)
 
@@ -64,7 +63,6 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 + A competência comunicativa é uma qualificação fundamental para o século XXI.
 + Qualquer um pode falar em público.
 + Medo de falar em público é irracional.
-+ O objetivo de uma palestra consiste em dizer algo significativo.
 + Uma palestra sempre pode abrir portas ou transformar uma carreira.
 + Uma boa palestra gera a motivação.
 + Qualquer um com uma ideia digna de ser divulgada é capaz de realizar uma palestra eficaz.
@@ -344,7 +342,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjA0NTQ2Nyw5MjY2MTI1MDksMjcyMT
+eyJoaXN0b3J5IjpbLTg4MjExMzI3OCw5MjY2MTI1MDksMjcyMT
 A0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5
 NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5Mj
 QzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2
