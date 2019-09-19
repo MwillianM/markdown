@@ -32,8 +32,10 @@ Visão Geral
   + Incentiva a variedade (Não existe uma única maneira de dar uma palestra de alto nível). 
   + Os conhecimentos podem ser aplicados para todas as formas de comunicação pública.
 + Sobre o Author (Por que eu acreditaria?)
-  + TED Talks
-  + Chirs Anderson
+  + **TED Talks**
+    + Compartilhando ideias desde 1984
+    + Possu
+  + **Chirs Anderson**
 
 Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar o caminho. O TED começou como uma conferência anual, com palestras nos campos da Tecnologia, do Entretenimento e do Design (daí o nome). Nos últimos anos, porém, o programa se expandiu e passou a cobrir qualquer tópico de interesse público.
 
@@ -343,10 +345,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzAyMDcwMjYsOTI2NjEyNTA5LDI3Mj
-EwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5
-OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOT
-I0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4LDExNjMzOTAz
-NiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MT
-I2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbLTMzODc1ODM1NSw5MjY2MTI1MDksMjcyMT
+A0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5
+NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5Mj
+QzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2
+LDEzNzkwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMj
+YyMzUzLDkyMzUwNjg3NF19
 -->
