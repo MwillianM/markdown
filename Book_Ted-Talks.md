@@ -12,9 +12,6 @@ Visão Geral
 ---
 
 + Indicação (Esse livro é pra mim?)
-
-  Eu indico esse livro para:
-  
   + Qualquer um que queira melhorar sua comunicação.
   + Qualquer um que vá fazer uma apresentação/palestra.
   + Qualquer um que tem medo de/queira falar em público.
@@ -76,18 +73,18 @@ Visão Geral
 
 ### Construção da Ideia
 
-+ O objetivo de uma palestra é plantar uma ideia na mente dos ouvintes, logo, a obrigação do palestrante é reconstruir na mente de seus ouvintes essa ideia.
 + Suas únicas obrigações reais ao dar uma palestra são:
 	+ ter algo de importante a comunicar
 	+ se mostrar autêntico à sua maneira.
 + A única coisa de fato importante ao se falar em público é ter algo de importante a dizer.
++ O objetivo de uma palestra é plantar uma ideia na mente dos ouvintes, logo, a obrigação do palestrante é reconstruir na mente de seus ouvintes essa ideia.
++ A linguagem interliga conceitos e cria novas ideias. Para serem passadas de forma efetiva, locutor e ouvinte devem possuir um conjunto de conceitos compartilhados.
 + Dedique-se a algo que mereça ser compartilhado com outras pessoas.
 + Estilo sem conteúdo é horrível.
 	> Belos slides e carisma não fazem mal algum, mas, se o palestrante não presenteia o público com algo real e valioso, tudo o que ele fez, na melhor das hipóteses, foi entretê-lo.
 + Você tem uma coisa que ninguém mais no mundo tem: a sua experiência de vida.
 + As pessoas adoram histórias, mesmo que a lição a se tirar dela seja comum. Humanos precisamos relembrar as coisas.
 + Pode-se usar a oportunidade de falar em público como um incentivo de dominar algum assunto.
-+ A linguagem interliga conceitos e cria novas ideias. Para serem passadas de forma efetiva, locutor e ouvinte devem possuir um conjunto de conceitos compartilhados.
 + Sim, as palavras importam!
 
 > Alguns instrutores que trabalham com quem pretende falar em público minimizam a importância da linguagem. Às vezes recorrem a pesquisas publicadas em 1967 pelo professor Albert Mehrabian, as quais afirmam que apenas 7% da eficácia da comunicação decorrem da linguagem, enquanto 38% dependem do tom de voz e 55% da linguagem corporal. Isso tem levado muitos instrutores a se concentrarem excessivamente em desenvolver um estilo de oratória fundamentado na autoconfiança, no carisma etc., sem se preocuparem muito com as palavras. Infelizmente, essa é uma interpretação equivocada das conclusões de Mehrabian. Em essência, os experimentos dele visaram descobrir como a emoção era comunicada. Por exemplo, ele testava o que acontecia quando alguém dizia “ah, que legal”, mas em tom de raiva ou com uma expressão corporal ameaçadora. É claro que, nessas circunstâncias, as palavras em si pouco interessam. Entretanto, é um absurdo generalizar esse resultado a qualquer palestra (e Mehrabian fica tão irritado com a má utilização de suas pesquisas que, em seu site, um parágrafo em negrito pede que não se faça isso).
@@ -356,7 +353,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5Mzk3MDEzLDE0MzI4MTkwNjksOTI2Nj
+eyJoaXN0b3J5IjpbMzI5NDE4NTQ1LDE0MzI4MTkwNjksOTI2Nj
 EyNTA5LDI3MjEwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQs
 LTIxMDczMDY5OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mj
 g4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4
