@@ -54,8 +54,8 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 
 **Retórica: ** a arte de falar com eficácia.
 **Competência Comunicativa: ** ???
+**Ideia: ** qualquer coisa capaz de mudar a visão de mundo das pessoas.
 **Linha Mestra: ** ???
-**Ideia: **
 
 ---
 
@@ -72,13 +72,10 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 
 ### Construção da Ideia
 
-A obrigação número um de um palestrante é reconstruir na mente de seus ouvintes algo que lhe importa. Vamos chamar essa coisa de ideia
-
 + O objetivo de uma palestra é plantar uma ideia na mente dos ouvintes.
-+
-A única coisa de fato importante ao se falar em público não é a autoconfiança, a presença de palco ou aquilo que se costuma chamar de “falar bem”. É ter algo de importante a dizer.
-
-Uma ideia é qualquer coisa capaz de mudar a visão de mundo das pessoas.
++ A obrigação número um de um palestrante é reconstruir na mente de seus ouvintes uma ideia.
++ A única coisa de fato importante ao se falar em público é ter algo de importante a dizer.
++ Uma ideia é qualquer coisa capaz de mudar a visão de mundo das pessoas.
 
 Dedique-se a algo que mereça ser compartilhado com outras pessoas. Estilo sem conteúdo é horrível.
 
@@ -312,6 +309,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjgzMDcxMywtNjQ4MDQ4NDg2LC0xNj
+eyJoaXN0b3J5IjpbMTgwMDI1MjA1NywtNjQ4MDQ4NDg2LC0xNj
 kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
