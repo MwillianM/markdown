@@ -64,6 +64,9 @@ Uma ideia é qualquer coisa capaz de mudar a visão de mundo das pessoas.
 
 Dedique-se a algo que mereça ser compartilhado com outras pessoas. Estilo sem conteúdo é horrível.
 
+Seja como for, você tem uma coisa que ninguém mais no mundo tem: a sua experiência de vida.
+
+As pessoas adoram histórias, e todo mundo pode aprender a contar uma boa história. Mesmo que a lição a se tirar dela já seja batida, tudo bem, somos humanos! Precisamos relembrar as coisas.
 
 
 
@@ -131,6 +134,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTkxOTEwMiwtMTY5MjQ3ODg2OSw5OD
-EyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbLTE0NzQwNTQzOTIsLTE2OTI0Nzg4NjksOT
+gxMjYyMzUzLDkyMzUwNjg3NF19
 -->
