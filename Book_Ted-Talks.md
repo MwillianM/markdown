@@ -116,7 +116,6 @@ Quatro estilos a serem evitados:
 ### A Linha Mestra
 
 + É a “linha mestra”, o tema que une os elementos narrativos. Toda palestra precisa de uma.
-+ Todas as partes precisam estar interligadas. Isso não significa que toda palestra possa cobrir apenas um assunto.
 
 Eis o começo de uma apresentação montada sem uma linha mestra: 
 
@@ -140,7 +139,10 @@ Como escolher sua linha mestra:
 + Sua linha mestra precisa ter algum aspecto provocante.
 + É importante também que a linha mestra não seja previsível ou banal
 
-Exemplos de linha mestra:
++ Quando sabe aonde você quer chegar, o público sente muito mais facilidade para acompanhar seu trajeto.
+
+Exemplos de linhas mestras:
+
 > + Ter mais opções nos deixa menos felizes.
 > + Devemos valorizar a vulnerabilidade, e não fugir dela.
 > + O potencial da educação se transforma quando nos concentramos na extraordinária (e hilariante) criatividade infantil.
@@ -152,9 +154,11 @@ Exemplos de linha mestra:
 > + A combinação de três tecnologias simples cria um sexto sentido assombroso.
 > + Vídeos on-line podem humanizar a sala de aula e revolucionar a educação.
 
+
++ Todas as partes precisam estar interligadas. Isso não significa que toda palestra possa cobrir apenas um assunto.
+
 > Os robôs estão se tornando rapidamente os primeiros socorristas em locais de desastre, trabalhando lado a lado com pessoas para ajudar no restabelecimento. Essas máquinas sofisticadas podem transformar o trabalho de socorro a vítimas de desastres, poupando vidas e recursos financeiros. Para demonstrar esse ponto, gostaria de mostrar a vocês três novos robôs nos quais trabalhei.
 
-quando sabe aonde você quer chegar, o público sente muito mais facilidade para acompanhar seu trajeto.
 
 Pensemos outra vez na palestra como uma viagem que palestrante e plateia realizam juntos, com o palestrante no papel de guia. Se você quiser que a plateia viaje a seu lado, provavelmente terá de lhe dar uma ideia de seu destino. E a partir daí precisa ter certeza de que cada passo na viagem a aproxima desse destino. Nessa metáfora de viagem, a linha mestra traça o percurso. Ela garante que não haverá saltos impossíveis e que, no fim da apresentação, o palestrante e o público chegarão juntos a um destino satisfatório.
 
@@ -316,9 +320,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDcxNDEyMywxNjMyOTczOTMyLDEyOD
-g5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5MywtNzg4NzE4MTE1
-LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwND
-g0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbMzI1NDI3MzYsMTYzMjk3MzkzMiwxMjg4OT
+MxNTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODExNSwt
+MTAzMTcxMTg4LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MDQ4ND
+g2LC0xNjkyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 
 -->
