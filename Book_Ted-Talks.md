@@ -116,6 +116,14 @@ Quatro estilos a serem evitados:
 ### A Linha Mestra
 
 + É a “linha mestra”, o tema que une os elementos narrativos. Toda palestra precisa de uma.
++ Sua linha mestra deve ter +/- 15 palavras.
++ Procure uma única ideia importante, que seja maior que você ou sua organização, e ao mesmo tempo alavancar sua experiência para mostrar que ela é mais do que mera especulação vazia.
+
+Como escolher sua linha mestra:
+
++ Qual é a ideia exata que você quer inserir na mente dos ouvintes?
++ O que eles vão levar para casa?
++ O que você deseja que o público compreenda plenamente ao fim da palestra?
 
 Eis o começo de uma apresentação montada sem uma linha mestra: 
 
@@ -126,15 +134,8 @@ Compare com:
 > “Em minha recente viagem à Cidade do Cabo, aprendi algo novo com relação a estranhos: quando se pode confiar neles e quando não se pode fazer isso de jeito nenhum. Quero dividir com vocês duas experiências muito distintas que vivi.”
 
 + A linha mestra visível desde o início, é muito mais cativante para o público.
-+ Sua linha mestra deve ter +/- 15 palavras.
 
-Como escolher sua linha mestra:
 
-+ Qual é a ideia exata que você quer inserir na mente dos ouvintes?
-+ O que eles vão levar para casa?
-+ O que você deseja que o público compreenda plenamente ao fim da palestra?
-
-+ Procure uma única ideia importante, que seja maior que você ou sua organização, e ao mesmo tempo alavancar sua experiência para mostrar que ela é mais do que mera especulação vazia.
 
 + Sua linha mestra precisa ter algum aspecto provocante.
 + É importante também que a linha mestra não seja previsível ou banal
@@ -328,9 +329,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzMjAwMjMsLTIxMDczMDY5OTYsMTYzMj
-k3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMs
-LTc4ODcxODExNSwtMTAzMTcxMTg4LDExNjMzOTAzNiwxMzc5MD
-U1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MTI2MjM1Myw5
-MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbMTM4ODQ0MjUwMywtMjEwNzMwNjk5NiwxNj
+MyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5
+MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNz
+kwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUz
+LDkyMzUwNjg3NF19
 -->
