@@ -112,7 +112,18 @@ Isso não significa que toda palestra possa cobrir apenas um assunto, contar uma
 
 Talvez a primeira versão sirva para a sua família. Mas a segunda, com a linha mestra visível desde o início, é muito mais cativante para o público.
 
+Um bom exercício consiste em resumir sua linha mestra em não mais que quinze palavras
 
+Qual é a ideia exata que você quer inserir na mente dos ouvintes? O que eles vão levar para casa?
+
+É importante também que a linha mestra não seja previsível ou banal
+
+> + Ter mais opções nos deixa menos felizes.
+> + Devemos valorizar a vulnerabilidade, e não fugir dela.
+> + O potencial da educação se transforma quando nos concentramos na extraordinária (e hilariante) criatividade infantil.
+> + Você pode simular a linguagem corporal até ela se tornar verdadeira.
+> + Uma história do universo em dezoito minutos mostra um caminho do caos à ordem. 
+> + Bandeiras horríveis de cidades podem revelar segredos de design surpreendentes. Quase morri num trekking no polo sul, e isso mudou minha noção de propósito. Vamos fazer uma revolução silenciosa: um mundo redesenhado para os introvertidos. A combinação de três tecnologias simples cria um sexto sentido assombroso. Vídeos on-line podem humanizar a sala de aula e revolucionar a educação
 
 ---
 
@@ -183,6 +194,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTA1NjE4MSwtNjQ4MDQ4NDg2LC0xNj
-kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbLTE4MTgyOTM3MjUsLTY0ODA0ODQ4NiwtMT
+Y5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
 -->
