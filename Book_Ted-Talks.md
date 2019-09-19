@@ -17,17 +17,16 @@ Visão Geral
 
 + Indicação (Esse livro é pra mim?)
   Eu indico esse livro para:
-  + Qualquer um que queira falar em público.
   + Qualquer um que queira melhorar sua comunicação.
   + Qualquer um que vá fazer uma apresentação/palestra.
+  + Qualquer um que queira/tem medo de falar em público.
   + Qualquer um .
 + Por que eu li
 	+ Dicas para dar uma palestra
 	+ Melhorar minha comunicação em geral
 + Sobre o Livro (Por que eu leria?)
 	+ Mostra a melhor forma de se fazer uma palestra no estilo TED.
-   + impulsionar qualquer forma de oratória que pretenda explicar, motivar, informar ou persuadir, seja em empresas, instituições educacionais ou locais públicos.
-
+	+ Incentiva a falar em público mesmo diante do nervosismo.
 Este livro tem um duplo objetivo: 
 
 + Explicar como se realiza o milagre do ato de falar em público com eficiência
@@ -357,7 +356,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwNTI1NDU5LDkyNjYxMjUwOSwyNzIxMD
+eyJoaXN0b3J5IjpbODI2MTc5ODAxLDkyNjYxMjUwOSwyNzIxMD
 QxNDgsLTEyNTA3OTEzNiwtNTM4MDE5MjE0LC0yMTA3MzA2OTk2
 LDE2MzI5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyND
 M5NzkzLC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYs
