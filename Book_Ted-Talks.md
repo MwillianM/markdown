@@ -145,6 +145,42 @@ Contudo, mesmo quando o assunto é claro, convém pensar na linha mestra. Uma pa
 
 O primeiro passo é saber o máximo possível sobre a plateia. Quem são essas pessoas? Qual é o nível de informação delas? O que esperam? Com o que se importam? Sobre o que outros palestrantes já lhes falaram? Só se pode dar de presente uma ideia a mentes preparadas para recebê-la
 
+### Tempo
+
+Uma apresentação mais curta não significa de modo algum menos tempo de preparação. Certa vez, perguntaram ao presidente americano Woodrow Wilson quanto tempo ele levava para preparar um discurso, no que ele respondeu: Depende da extensão. Se durar dez minutos, preciso de não menos do que duas semanas para me preparar; se for de meia hora, preciso de uma semana; mas, se eu puder falar o tempo que quiser, não preciso me preparar. Fico pronto na hora. Isso me lembra uma citação famosa, atribuída a vários grandes pensadores e escritores: “Se eu tivesse mais tempo, teria escrito uma carta mais curta.” Por isso, vamos aceitar que a criação de uma palestra de alto nível ajustada a um tempo limitado exigirá um esforço considerável. Entretanto, existe um jeito certo e um jeito errado de levar a tarefa a cabo.
+
+### Jeito Errado
+
+O jeito errado de condensar sua palestra é incluir todos os fatos que você acha que precisa dizer e, depois, reduzir o tempo dedicado a cada um.
+
+> Curiosamente, é bem possível que você consiga criar um roteiro que produza esse resultado. Todos os pontos importantes que você deseja cobrir estão lá, de forma sucinta. O trabalho foi apresentado em toda a sua extensão! Você pode até achar que há uma linha mestra ligando todos os aspectos, uma ampla fundamentação do trabalho. Você pode ter a impressão de que deu a essa preparação o melhor de si e fez o possível para se ajustar ao tempo concedido. Entretanto, uma linha mestra que ligue muitos conceitos não funciona. Há uma consequência grave quando você passa muito depressa por diversos assuntos: eles não causam impacto. Você conhece o pano de fundo e o contexto do que está dizendo, por isso as informações lhe parecem mais que suficientes. No entanto, a plateia está tendo contato com seu trabalho pela primeira vez. Por isso, a palestra provavelmente parecerá fragmentada, árida ou superficial.
+
+Para transmitir algo de interessante, você precisa reservar tempo para fazer pelo menos duas coisas: Mostrar por que o tema é importante: que pergunta está tentando responder? Que problema está tentando solucionar? Que experiência pretende compartilhar? Embasar cada argumento com exemplos reais, histórias ou fatos
+
+### Jeito Certo
+
+Para realizar uma palestra eficaz, você precisa diminuir a gama de assuntos abordados, reduzindo-a a um fio único e coeso. Em certo sentido, você cobrirá menos pontos, mas o impacto será substancialmente maior.
+
+Menos pode ser mais.
+
+deixe espaço e DIGA MENOS.
+
+> “Planeje sua palestra. Depois, corte-a pela metade. Depois de chorar bastante a perda de metade da palestra, corte 50% do que sobrou. É tentador pensar no quanto você pode incluir em dezoito minutos. Para mim, a melhor pergunta é a seguinte: ‘O que você pode apresentar, de maneira significativa, em dezoito minutos?’”
+
+> Digamos que alguém me peça para explicar quem sou em apenas dois minutos.
+> Eis a versão 1: Embora eu seja britânico, nasci no Paquistão — meu pai era missionário e cirurgião oftalmologista — e passei meus primeiros anos naquele país, na Índia e no Afeganistão. Com treze anos, fui mandado para um internato na Inglaterra e depois disso estudei na Universidade de Oxford, onde me formei em filosofia, política e economia. Comecei a trabalhar como jornalista num pequeno jornal no País de Gales, depois trabalhei alguns anos em uma rádio pirata nas Ilhas Seychelles, na qual redigia e apresentava um noticiário internacional. De volta ao Reino Unido em meados da década de 1980, eu me apaixonei pelos computadores e lancei várias revistas sobre o assunto. Era uma grande época para se lançar revistas especializadas, e ao longo de sete anos minha empresa dobrou de tamanho a cada ano. Eu a vendi, me mudei para os Estados Unidos e tentei o mesmo caminho. Em 2000, meu negócio tinha crescido, atingindo a marca de dois mil funcionários, e compreendia 150 revistas e sites. Mas a bolha tecnológica estava para estourar, e, quando isso aconteceu, quase destruiu a empresa. Além disso, quem precisa de revistas se existe a internet? Saí no fim de 2001. Por sorte, eu havia aplicado um dinheiro numa fundação sem fins lucrativos. Usei o valor para comprar o TED Talks, que, na época, era uma conferência anual na Califórnia. Desde então, ele tem sido minha paixão em tempo integral. Eis a versão 2: Quero que você venha comigo ao quarto de um estudante na Universidade de Oxford em 1977. Você abre a porta e, à primeira vista, parece que o lugar está vazio. Mas espere. Num canto do quarto, há um rapaz deitado de costas no chão, olhando para o teto. Faz mais de uma hora e meia que está nessa posição. Sou eu. Aos 22 anos. Estou pensando. Seriamente. Estou tentando... Por favor, não ria... Estou tentando resolver o problema do livre-arbítrio. Sabe aquele profundo mistério que vem desafiando filósofos há pelo menos dois milênios? Exato. Estou tentando decifrá-lo. Quem examinasse a cena com objetividade concluiria que aquele rapaz padecia de uma estranha combinação de arrogância e delírio, ou que talvez fosse apenas tímido e solitário, preferindo a companhia de ideias à de pessoas. E a minha história? Eu sou um sonhador. Sempre fui obcecado pelo poder das ideias. E tenho absoluta certeza de que foi esse foco interior que me ajudou a sobreviver à criação em internatos na Índia e na Inglaterra — longe de meus pais missionários — e me deu a confiança para tentar construir uma empresa de comunicação. Com certeza foi o sonhador que existe em mim que se apaixonou tão perdidamente pelo TED. Nos últimos tempos, tenho sonhado com a revolução no ato de falar em público e com aquilo a que essa revolução poderá levar...
+
+Qual versão lhe diz mais a meu respeito? A primeira decerto oferece muito mais fatos biográficos. É um resumo decente de grandes partes da minha vida. Um breve currículo. A segunda concentra-se num único momento de minha vida. No entanto, quando faço essa experiência com os outros, eles declaram que a segunda versão é bem mais interessante e reveladora. Seja seu limite de tempo dois minutos, dezoito minutos ou uma hora, vamos estabelecer o seguinte como ponto de partida: você só percorrerá o terreno que puder mostrar em profundidade suficiente para criar interesse.
+
+> E é aqui que o conceito de linha mestra se torna de fato útil. Ao escolher uma linha mestra, você automaticamente filtra e elimina muita coisa. Quando fiz a experiência descrita, pensei: em que aspecto meu devo focar para ganhar um pouco mais de profundidade? A decisão de optar pelo “sonhador” facilitou ancorar a versão 2 na época em que eu estudava filosofia em Oxford e, ao mesmo tempo, eliminar a maior parte das outras épocas. Se eu tivesse escolhido o “empreendedor”, o “nerd” ou a “alma global”, teria feito cortes diferentes.
+
+Por isso, uma linha mestra exige que, antes de tudo, você identifique uma ideia que possa ser exposta de forma adequada no tempo disponível. Em seguida, construa uma estrutura que ligue todos os elementos da palestra a essa ideia.
+
+
+### DA LINHA MESTRA À ESTRUTURA
+
+
+
 ---
 
 ## Ferramentas da Palestra
@@ -206,39 +242,6 @@ Como?
 
 ---
 
-## Tempo
-
-Uma apresentação mais curta não significa de modo algum menos tempo de preparação. Certa vez, perguntaram ao presidente americano Woodrow Wilson quanto tempo ele levava para preparar um discurso, no que ele respondeu: Depende da extensão. Se durar dez minutos, preciso de não menos do que duas semanas para me preparar; se for de meia hora, preciso de uma semana; mas, se eu puder falar o tempo que quiser, não preciso me preparar. Fico pronto na hora. Isso me lembra uma citação famosa, atribuída a vários grandes pensadores e escritores: “Se eu tivesse mais tempo, teria escrito uma carta mais curta.” Por isso, vamos aceitar que a criação de uma palestra de alto nível ajustada a um tempo limitado exigirá um esforço considerável. Entretanto, existe um jeito certo e um jeito errado de levar a tarefa a cabo.
-
-### Jeito Errado
-
-O jeito errado de condensar sua palestra é incluir todos os fatos que você acha que precisa dizer e, depois, reduzir o tempo dedicado a cada um.
-
-> Curiosamente, é bem possível que você consiga criar um roteiro que produza esse resultado. Todos os pontos importantes que você deseja cobrir estão lá, de forma sucinta. O trabalho foi apresentado em toda a sua extensão! Você pode até achar que há uma linha mestra ligando todos os aspectos, uma ampla fundamentação do trabalho. Você pode ter a impressão de que deu a essa preparação o melhor de si e fez o possível para se ajustar ao tempo concedido. Entretanto, uma linha mestra que ligue muitos conceitos não funciona. Há uma consequência grave quando você passa muito depressa por diversos assuntos: eles não causam impacto. Você conhece o pano de fundo e o contexto do que está dizendo, por isso as informações lhe parecem mais que suficientes. No entanto, a plateia está tendo contato com seu trabalho pela primeira vez. Por isso, a palestra provavelmente parecerá fragmentada, árida ou superficial.
-
-Para transmitir algo de interessante, você precisa reservar tempo para fazer pelo menos duas coisas: Mostrar por que o tema é importante: que pergunta está tentando responder? Que problema está tentando solucionar? Que experiência pretende compartilhar? Embasar cada argumento com exemplos reais, histórias ou fatos
-
-### Jeito Certo
-
-Para realizar uma palestra eficaz, você precisa diminuir a gama de assuntos abordados, reduzindo-a a um fio único e coeso. Em certo sentido, você cobrirá menos pontos, mas o impacto será substancialmente maior.
-
-Menos pode ser mais.
-
-deixe espaço e DIGA MENOS.
-
-> “Planeje sua palestra. Depois, corte-a pela metade. Depois de chorar bastante a perda de metade da palestra, corte 50% do que sobrou. É tentador pensar no quanto você pode incluir em dezoito minutos. Para mim, a melhor pergunta é a seguinte: ‘O que você pode apresentar, de maneira significativa, em dezoito minutos?’”
-
-> Digamos que alguém me peça para explicar quem sou em apenas dois minutos.
-> Eis a versão 1: Embora eu seja britânico, nasci no Paquistão — meu pai era missionário e cirurgião oftalmologista — e passei meus primeiros anos naquele país, na Índia e no Afeganistão. Com treze anos, fui mandado para um internato na Inglaterra e depois disso estudei na Universidade de Oxford, onde me formei em filosofia, política e economia. Comecei a trabalhar como jornalista num pequeno jornal no País de Gales, depois trabalhei alguns anos em uma rádio pirata nas Ilhas Seychelles, na qual redigia e apresentava um noticiário internacional. De volta ao Reino Unido em meados da década de 1980, eu me apaixonei pelos computadores e lancei várias revistas sobre o assunto. Era uma grande época para se lançar revistas especializadas, e ao longo de sete anos minha empresa dobrou de tamanho a cada ano. Eu a vendi, me mudei para os Estados Unidos e tentei o mesmo caminho. Em 2000, meu negócio tinha crescido, atingindo a marca de dois mil funcionários, e compreendia 150 revistas e sites. Mas a bolha tecnológica estava para estourar, e, quando isso aconteceu, quase destruiu a empresa. Além disso, quem precisa de revistas se existe a internet? Saí no fim de 2001. Por sorte, eu havia aplicado um dinheiro numa fundação sem fins lucrativos. Usei o valor para comprar o TED Talks, que, na época, era uma conferência anual na Califórnia. Desde então, ele tem sido minha paixão em tempo integral. Eis a versão 2: Quero que você venha comigo ao quarto de um estudante na Universidade de Oxford em 1977. Você abre a porta e, à primeira vista, parece que o lugar está vazio. Mas espere. Num canto do quarto, há um rapaz deitado de costas no chão, olhando para o teto. Faz mais de uma hora e meia que está nessa posição. Sou eu. Aos 22 anos. Estou pensando. Seriamente. Estou tentando... Por favor, não ria... Estou tentando resolver o problema do livre-arbítrio. Sabe aquele profundo mistério que vem desafiando filósofos há pelo menos dois milênios? Exato. Estou tentando decifrá-lo. Quem examinasse a cena com objetividade concluiria que aquele rapaz padecia de uma estranha combinação de arrogância e delírio, ou que talvez fosse apenas tímido e solitário, preferindo a companhia de ideias à de pessoas. E a minha história? Eu sou um sonhador. Sempre fui obcecado pelo poder das ideias. E tenho absoluta certeza de que foi esse foco interior que me ajudou a sobreviver à criação em internatos na Índia e na Inglaterra — longe de meus pais missionários — e me deu a confiança para tentar construir uma empresa de comunicação. Com certeza foi o sonhador que existe em mim que se apaixonou tão perdidamente pelo TED. Nos últimos tempos, tenho sonhado com a revolução no ato de falar em público e com aquilo a que essa revolução poderá levar...
-
-Qual versão lhe diz mais a meu respeito? A primeira decerto oferece muito mais fatos biográficos. É um resumo decente de grandes partes da minha vida. Um breve currículo. A segunda concentra-se num único momento de minha vida. No entanto, quando faço essa experiência com os outros, eles declaram que a segunda versão é bem mais interessante e reveladora. Seja seu limite de tempo dois minutos, dezoito minutos ou uma hora, vamos estabelecer o seguinte como ponto de partida: você só percorrerá o terreno que puder mostrar em profundidade suficiente para criar interesse.
-
-> E é aqui que o conceito de linha mestra se torna de fato útil. Ao escolher uma linha mestra, você automaticamente filtra e elimina muita coisa. Quando fiz a experiência descrita, pensei: em que aspecto meu devo focar para ganhar um pouco mais de profundidade? A decisão de optar pelo “sonhador” facilitou ancorar a versão 2 na época em que eu estudava filosofia em Oxford e, ao mesmo tempo, eliminar a maior parte das outras épocas. Se eu tivesse escolhido o “empreendedor”, o “nerd” ou a “alma global”, teria feito cortes diferentes.
-
-Por isso, uma linha mestra exige que, antes de tudo, você identifique uma ideia que possa ser exposta de forma adequada no tempo disponível. Em seguida, construa uma estrutura que ligue todos os elementos da palestra a essa ideia.
-
----
-
 
 Agradecimentos
 ---
@@ -248,6 +251,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTMyOTIzOTYsLTY0ODA0ODQ4NiwtMT
-Y5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbMTYyMDc2Mjc3NSwtNjQ4MDQ4NDg2LC0xNj
+kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
