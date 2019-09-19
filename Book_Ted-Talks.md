@@ -137,6 +137,9 @@ Sua linha mestra não precisa ser tão ambiciosa quanto as da lista. Contudo, ai
 
 > Os robôs estão se tornando rapidamente os primeiros socorristas em locais de desastre, trabalhando lado a lado com pessoas para ajudar no restabelecimento. Essas máquinas sofisticadas podem transformar o trabalho de socorro a vítimas de desastres, poupando vidas e recursos financeiros. Para demonstrar esse ponto, gostaria de mostrar a vocês três novos robôs nos quais trabalhei.
 
+quando sabe aonde você quer chegar, o público sente muito mais facilidade para acompanhar seu trajeto.
+
+Pensemos outra vez na palestra como uma viagem que palestrante e plateia realizam juntos, com o palestrante no papel de guia. Se você quiser que a plateia viaje a seu lado, provavelmente terá de lhe dar uma ideia de seu destino. E a partir daí precisa ter certeza de que cada passo na viagem a aproxima desse destino. Nessa metáfora de viagem, a linha mestra traça o percurso. Ela garante que não haverá saltos impossíveis e que, no fim da apresentação, o palestrante e o público chegarão juntos a um destino satisfatório.
 
 
 
@@ -209,6 +212,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzcyOTk0LC02NDgwNDg0ODYsLTE2OT
-I0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbLTIwMzYxNzkxMTUsLTY0ODA0ODQ4NiwtMT
+Y5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
 -->
