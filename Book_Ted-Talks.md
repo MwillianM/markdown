@@ -49,11 +49,11 @@ Visão Geral
 
 ## Prólogo
 
-**Retórica:** a arte de falar com eficácia.
-**Competência Comunicativa:** habilidade de entender e usar a linguagem para se comunicar de forma efetiva.
-**Ideia:** qualquer coisa capaz de mudar a visão de mundo das pessoas.
-**Linha Mestra:** Expressão usada com frequência na análise de peças, filmes e romances. É o tema que une os elementos narrativos.
-**Quarta do Aprendizado:** A cada duas semanas todos ganham um dia de folga para estudar determinado assunto. Depois todos devem realizar uma palestra no estilo TED em algum momento do ano.
+**Retórica:** a arte de falar com eficácia.  
+**Competência Comunicativa:** habilidade de entender e usar a linguagem para se comunicar de forma efetiva.  
+**Ideia:** qualquer coisa capaz de mudar a visão de mundo das pessoas.  
+**Linha Mestra:** Expressão usada com frequência na análise de peças, filmes e romances. É o tema que une os elementos narrativos.  
+**Quarta do Aprendizado:** A cada duas semanas todos ganham um dia de folga para estudar determinado assunto. Depois todos devem realizar uma palestra no estilo TED em algum momento do ano.  
 
 ---
 
@@ -356,10 +356,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjgxOTA2OSw5MjY2MTI1MDksMjcyMT
-A0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5
-NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5Mj
-QzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2
-LDEzNzkwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMj
-YyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbODkxMDI5MDksMTQzMjgxOTA2OSw5MjY2MT
+I1MDksMjcyMTA0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwt
+MjEwNzMwNjk5NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyOD
+g0MzI4LDE5MjQzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgs
+MTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nz
+g4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
 -->
