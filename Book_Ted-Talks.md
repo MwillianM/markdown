@@ -200,6 +200,10 @@ Sir Ken me disse: “Existe uma velha fórmula para a redação de ensaios. Nela
 
 É claro que o atrativo das apresentações de Sir Ken Robinson vai muito além da simplicidade estrutural, e nem ele nem eu recomendaríamos que todo mundo adotasse essa estrutura. O importante é você descobrir a que lhe permita desenvolver sua linha mestra com mais força no tempo disponível — e tornar clara a forma como cada elemento se liga a ela.
 
+### TÓPICOS COMPLICADOS
+
+O problema é que, ao ouvir muitas apresentações do tipo, um público sente-se emocionalmente exausto e começa a se desligar. Instala-se a fadiga emocional. Se isso acontecer antes do fim de sua palestra, ela não exercerá impacto algum. Como evitar isso? A primeira medida é pensar em sua palestra não como uma questão, mas como uma ideia.
+
 
 
 
@@ -273,6 +277,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzkyMTQ3NSwtNjQ4MDQ4NDg2LC0xNj
+eyJoaXN0b3J5IjpbMTc4ODYxMjIxOCwtNjQ4MDQ4NDg2LC0xNj
 kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
