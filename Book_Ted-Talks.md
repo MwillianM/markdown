@@ -185,7 +185,17 @@ Saiba o máximo possível sobre a plateia:
 
 	> Curiosamente, é bem possível que você consiga criar um roteiro que produza esse resultado. Todos os pontos importantes que você deseja cobrir estão lá, de forma sucinta. O trabalho foi apresentado em toda a sua extensão! Você pode até achar que há uma linha mestra ligando todos os aspectos, uma ampla fundamentação do trabalho. Você pode ter a impressão de que deu a essa preparação o melhor de si e fez o possível para se ajustar ao tempo concedido. Entretanto, uma linha mestra que ligue muitos conceitos não funciona. Há uma consequência grave quando você passa muito depressa por diversos assuntos: eles não causam impacto.
 
-Para transmitir algo de interessante, você precisa reservar tempo para fazer pelo menos duas coisas: Mostrar por que o tema é importante: que pergunta está tentando responder? Que problema está tentando solucionar? Que experiência pretende compartilhar? Embasar cada argumento com exemplos reais, histórias ou fatos
+Para transmitir algo de interessante, você precisa reservar tempo para fazer pelo menos duas coisas:
+**Mostrar por que o tema é importante:**
+
++ Que pergunta está tentando responder?
++ Que problema está tentando solucionar?
++ Que experiência pretende compartilhar?
+
+**Embasar cada argumento com exemplos**
++ reais
++ histórias
++ fatos
 
 ### Jeito Certo
 
@@ -329,7 +339,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5MDU0ODU3LC0yMTA3MzA2OTk2LDE2Mz
+eyJoaXN0b3J5IjpbNjA3NTgxNDgxLC0yMTA3MzA2OTk2LDE2Mz
 I5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyNDM5Nzkz
 LC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OT
 A1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMs
