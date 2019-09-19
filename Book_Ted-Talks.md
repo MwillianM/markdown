@@ -179,6 +179,17 @@ Por isso, uma linha mestra exige que, antes de tudo, você identifique uma ideia
 
 ### DA LINHA MESTRA À ESTRUTURA
 
+Imagine a estrutura da palestra como uma árvore. Há uma linha mestra central, que sobe verticalmente e na qual os galhos representam expansões da narrativa principal: um perto da base para a história de abertura; dois um pouco acima, na seção de história, para os exemplos fracassados; um para a solução proposta, que destaque o fato novo; e três no alto, ilustrando as implicações para o futuro.
+
+Outra proposta poderia simplesmente apresentar, em sequência, cinco trabalhos separados que interliguem um tema comum, começando e acabando com o projeto corrente. Nessa estrutura, pode-se pensar na linha mestra como um arco que ligue cinco caixas, cada qual representando um trabalho.
+
+O palestrante TED com mais visualizações na internet na época em que este livro foi escrito era Sir Ken Robinson. Segundo ele, em geral suas palestras seguem uma estrutura simples:
+1. Introdução — apresentação, o que será exposto
+2. Contexto — por que a questão é relevante 
+3. C. Conceitos principais
+4.  D. Implicações práticas
+5.  E. Conclusão
+
 
 
 ---
@@ -251,6 +262,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDc2Mjc3NSwtNjQ4MDQ4NDg2LC0xNj
-kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbNDcxMjc2OTc4LC02NDgwNDg0ODYsLTE2OT
+I0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
 -->
