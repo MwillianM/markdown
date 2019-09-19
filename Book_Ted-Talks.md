@@ -36,8 +36,11 @@ Visão Geral
     + Compartilhando ideias desde 1984.
     + Muito conhecido por suas apresentação de alto impactos.
     + Começou apenas sobre Tecnologia, Entreterimento e Desgin (TED) e se expandiu para qualquer tópico.
-    + Palestrantes como: Bill Gates, Michelle Obama, Bono Vox
+    + Palestrantes como: Bill Gates, Michelle Obama e Bono Vox
+    + Palestras que ultrapassam milhares de visualiza
   + **Chirs Anderson**
+    + Acompanhou de perto as palestras TED.
+    + 
 
 Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar o caminho. O TED começou como uma conferência anual, com palestras nos campos da Tecnologia, do Entretenimento e do Design (daí o nome). Nos últimos anos, porém, o programa se expandiu e passou a cobrir qualquer tópico de interesse público.
 
@@ -347,10 +350,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ2MDAzNzQsOTI2NjEyNTA5LDI3Mj
-EwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5
-OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOT
-I0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4LDExNjMzOTAz
-NiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MT
-I2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbMTM2MzQ1MjUwOSw5MjY2MTI1MDksMjcyMT
+A0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5
+NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5Mj
+QzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2
+LDEzNzkwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMj
+YyMzUzLDkyMzUwNjg3NF19
 -->
