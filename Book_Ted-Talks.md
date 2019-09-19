@@ -60,6 +60,13 @@ Havia muitas coisas erradas naquela palestra, mas ela cumpriu o objetivo num asp
 
 A única coisa de fato importante ao se falar em público não é a autoconfiança, a presença de palco ou aquilo que se costuma chamar de “falar bem”. É ter algo de importante a dizer.
 
+Uma ideia é qualquer coisa capaz de mudar a visão de mundo das pessoas.
+
+Dedique-se a algo que mereça ser compartilhado com outras pessoas. Estilo sem conteúdo é horrível.
+
+
+
+
 ### Armadilhas Comuns
 
 ### A Linha Mestra
@@ -124,6 +131,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI4MDgzOTAsLTE2OTI0Nzg4NjksOT
-gxMjYyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbLTQxOTkxOTEwMiwtMTY5MjQ3ODg2OSw5OD
+EyNjIzNTMsOTIzNTA2ODc0XX0=
 -->
