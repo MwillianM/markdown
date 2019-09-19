@@ -184,11 +184,22 @@ Imagine a estrutura da palestra como uma árvore. Há uma linha mestra central, 
 Outra proposta poderia simplesmente apresentar, em sequência, cinco trabalhos separados que interliguem um tema comum, começando e acabando com o projeto corrente. Nessa estrutura, pode-se pensar na linha mestra como um arco que ligue cinco caixas, cada qual representando um trabalho.
 
 O palestrante TED com mais visualizações na internet na época em que este livro foi escrito era Sir Ken Robinson. Segundo ele, em geral suas palestras seguem uma estrutura simples:
+
 1. Introdução — apresentação, o que será exposto
 2. Contexto — por que a questão é relevante 
-3. C. Conceitos principais
-4.  D. Implicações práticas
-5.  E. Conclusão
+3. Conceitos principais
+4. Implicações práticas
+5. Conclusão
+
+
+Sir Ken me disse: “Existe uma velha fórmula para a redação de ensaios. Nela, um bom ensaio responde a três perguntas: 
+
+1. O quê?
+1.  E daí?
+1.  E agora?
+
+É claro que o atrativo das apresentações de Sir Ken Robinson vai muito além da simplicidade estrutural, e nem ele nem eu recomendaríamos que todo mundo adotasse essa estrutura. O importante é você descobrir a que lhe permita desenvolver sua linha mestra com mais força no tempo disponível — e tornar clara a forma como cada elemento se liga a ela.
+
 
 
 
@@ -262,6 +273,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxMjc2OTc4LC02NDgwNDg0ODYsLTE2OT
-I0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbLTc2NzkyMTQ3NSwtNjQ4MDQ4NDg2LC0xNj
+kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
