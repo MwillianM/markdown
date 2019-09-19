@@ -282,7 +282,6 @@ Um bom ensaio responde a três perguntas:
 
 > Segundo Gilbert, porém, o mais importante é escolher um tema com o qual você se importe. “Fale sobre o que você conhece. Fale sobre o que conhece e ama de todo o coração. Eu quero ouvir você falar sobre o assunto mais importante de sua vida, e não sobre um tema qualquer que julgue ser uma novidade. Exponha sua paixão de décadas, não um artifício radical que esteja na moda. Acredite em mim: sua paixão vai me seduzir.”
 
-
 ---
 
 ## Ferramentas da Palestra
@@ -355,10 +354,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTY3OTEwMSw5MjY2MTI1MDksMjcyMT
-A0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5
-NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5Mj
-QzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2
-LDEzNzkwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMj
-YyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbLTE1MzQ0MDUxNDEsOTI2NjEyNTA5LDI3Mj
+EwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5
+OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOT
+I0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4LDExNjMzOTAz
+NiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MT
+I2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
