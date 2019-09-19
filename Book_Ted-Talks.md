@@ -59,7 +59,7 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 **Retórica:** a arte de falar com eficácia.
 **Competência Comunicativa:** habilidade de entender e usar a linguagem para se comunicar de forma efetiva.
 **Ideia:** qualquer coisa capaz de mudar a visão de mundo das pessoas.
-**Linha Mestra:** Expressão usada com frequência na análise de peças, filmes e romances.
+**Linha Mestra:** Expressão usada com frequência na análise de peças, filmes e romances. É o tema que une os elementos narrativos.
 **Quarta do Aprendizado:** A cada duas semanas todos ganham um dia de folga para estudar determinado assunto. Depois todos devem realizar uma palestra no estilo TED em algum momento do ano.
 
 > devemos praticar o que pregamos
@@ -115,9 +115,11 @@ Quatro estilos a serem evitados:
 
 ### A Linha Mestra
 
-+ É a “linha mestra”, o tema que une os elementos narrativos. Toda palestra precisa de uma.
++ Toda palestra precisa de uma linha mestra.
 + Sua linha mestra deve ter +/- 15 palavras.
 + Procure uma única ideia importante, que seja maior que você ou sua organização, e ao mesmo tempo alavancar sua experiência para mostrar que ela é mais do que mera especulação vazia.
++ Sua linha mestra precisa ter algum aspecto provocante.
++ É importante também que a linha mestra não seja previsível ou banal
 
 Como escolher sua linha mestra:
 
@@ -133,12 +135,7 @@ Compare com:
 
 > “Em minha recente viagem à Cidade do Cabo, aprendi algo novo com relação a estranhos: quando se pode confiar neles e quando não se pode fazer isso de jeito nenhum. Quero dividir com vocês duas experiências muito distintas que vivi.”
 
-+ A linha mestra visível desde o início, é muito mais cativante para o público.
 
-
-
-+ Sua linha mestra precisa ter algum aspecto provocante.
-+ É importante também que a linha mestra não seja previsível ou banal
 
 + Quando sabe aonde você quer chegar, o público sente muito mais facilidade para acompanhar seu trajeto.
 
@@ -329,9 +326,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODQ0MjUwMywtMjEwNzMwNjk5NiwxNj
-MyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5
-MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNz
-kwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUz
-LDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbNTc4Mjg4MjMyLC0yMTA3MzA2OTk2LDE2Mz
+I5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyNDM5Nzkz
+LC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OT
+A1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMs
+OTIzNTA2ODc0XX0=
 -->
