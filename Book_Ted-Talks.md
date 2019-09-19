@@ -218,12 +218,12 @@ Só percorrera o terreno que puder mostrar em profundidade suficiente para criar
 
 > E é aqui que o conceito de linha mestra se torna de fato útil. Ao escolher uma linha mestra, você automaticamente filtra e elimina muita coisa. Quando fiz a experiência descrita, pensei: em que aspecto meu devo focar para ganhar um pouco mais de profundidade? A decisão de optar pelo “sonhador” facilitou ancorar a versão 2 na época em que eu estudava filosofia em Oxford e, ao mesmo tempo, eliminar a maior parte das outras épocas. Se eu tivesse escolhido o “empreendedor”, o “nerd” ou a “alma global”, teria feito cortes diferentes.
 
-Por isso, uma linha mestra exige que, antes de tudo, você identifique uma ideia que possa ser exposta de forma adequada no tempo disponível. Em seguida, construa uma estrutura que ligue todos os elementos da palestra a essa ideia.
-
++ Uma linha mestra exige que você identifique uma ideia que possa ser exposta de forma adequada no tempo disponível.
++ Em seguida, construa uma estrutura que ligue todos os elementos a essa ideia.
 
 ### ESTRUTURA
 
-Imagine a estrutura da palestra como uma árvore. Há uma linha mestra central, que sobe verticalmente e na qual os galhos representam expansões da narrativa principal: um perto da base para a história de abertura; dois um pouco acima, na seção de história, para os exemplos fracassados; um para a solução proposta, que destaque o fato novo; e três no alto, ilustrando as implicações para o futuro.
+> Imagine a estrutura da palestra como uma árvore. Há uma linha mestra central, que sobe verticalmente e na qual os galhos representam expansões da narrativa principal: um perto da base para a história de abertura; dois um pouco acima, na seção de história, para os exemplos fracassados; um para a solução proposta, que destaque o fato novo; e três no alto, ilustrando as implicações para o futuro.
 
 Outra proposta poderia simplesmente apresentar, em sequência, cinco trabalhos separados que interliguem um tema comum, começando e acabando com o projeto corrente. Nessa estrutura, pode-se pensar na linha mestra como um arco que ligue cinco caixas, cada qual representando um trabalho.
 
@@ -343,9 +343,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTA3OTEzNiwtNTM4MDE5MjE0LC0yMT
-A3MzA2OTk2LDE2MzI5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQz
-MjgsMTkyNDM5NzkzLC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMT
-YzMzkwMzYsMTM3OTA1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2
-OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbLTQzNTUxNjI3MCwtMTI1MDc5MTM2LC01Mz
+gwMTkyMTQsLTIxMDczMDY5OTYsMTYzMjk3MzkzMiwxMjg4OTMx
+NTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODExNSwtMT
+AzMTcxMTg4LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MDQ4NDg2
+LC0xNjkyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
