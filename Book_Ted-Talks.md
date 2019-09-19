@@ -247,9 +247,10 @@ Um bom ensaio responde a três perguntas:
 
 ### TÓPICOS COMPLICADOS
 
-O problema é que, ao ouvir muitas apresentações do tipo, um público sente-se emocionalmente exausto e começa a se desligar. Instala-se a fadiga emocional. Se isso acontecer antes do fim de sua palestra, ela não exercerá impacto algum. Como evitar isso? A primeira medida é pensar em sua palestra não como uma questão, mas como uma ideia.
+> O problema é que, ao ouvir muitas apresentações do tipo, um público sente-se emocionalmente exausto e começa a se desligar. Instala-se a fadiga emocional. Se isso acontecer antes do fim de sua palestra, ela não exercerá impacto algum.
 
-Uma palestra baseada numa questão parte de moralidade; uma palestra baseada numa ideia parte de curiosidade. Uma questão expõe um problema. Uma ideia propõe uma solução. Uma questão diz: “Isso não é terrível?” Uma ideia diz: “Isso não é interessante?” É muito mais fácil cativar a plateia tornando a palestra uma tentativa de solucionar um enigma intrigante, e não um apelo para que ela se mobilize. A primeira forma parece um presente; a segunda, um pedido.
++ Pense em sua palestra como uma ideia e não como uma questão.
+	+ Uma palestra baseada numa **questão** parte de **moralidade**; uma palestra baseada numa ideia parte de curiosidade. Uma questão expõe um problema. Uma ideia propõe uma solução. Uma questão diz: “Isso não é terrível?” Uma ideia diz: “Isso não é interessante?” É muito mais fácil cativar a plateia tornando a palestra uma tentativa de solucionar um enigma intrigante, e não um apelo para que ela se mobilize. A primeira forma parece um presente; a segunda, um pedido.
 
 ### O CHECKLIST
 
@@ -344,10 +345,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2NjEyNTA5LDI3MjEwNDE0OCwtMTI1MD
-c5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5OTYsMTYzMjk3Mzkz
-MiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMsLTc4OD
-cxODExNSwtMTAzMTcxMTg4LDExNjMzOTAzNiwxMzc5MDU1Niwt
-NjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MD
-Y4NzRdfQ==
+eyJoaXN0b3J5IjpbLTExNDAwMjU3MDAsOTI2NjEyNTA5LDI3Mj
+EwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5
+OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOT
+I0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4LDExNjMzOTAz
+NiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MT
+I2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
