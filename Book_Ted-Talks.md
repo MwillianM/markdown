@@ -241,7 +241,7 @@ Um bom ensaio responde a três perguntas:
 | **Foco** | Solução | Problema |
 | **Reação** | Cativa | Preocupa |
 | **Semelhante** | Presente | Pedido |
-| **Questionamento** | Isso não é interessante? | Isso não é terrível |
+| **Questionamento** | Isso não é interessante? | Isso não é terrível? |
 
 ### O CHECKLIST
 
@@ -348,7 +348,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwODg3NTQ2LDUwODY0OTA5NCwzMjk0MT
+eyJoaXN0b3J5IjpbNTYyMTA5MDAzLDUwODY0OTA5NCwzMjk0MT
 g1NDUsMTQzMjgxOTA2OSw5MjY2MTI1MDksMjcyMTA0MTQ4LC0x
 MjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5NiwxNjMyOT
 czOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5Mywt
