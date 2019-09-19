@@ -103,7 +103,7 @@ Quatro estilos a serem evitados:
 2.  **Divagações:** Palestras sinuosas, sem uma direção clara.
 	> Um palestrante pode se iludir e se convencer de que mesmo uma exploração desordenada de suas ideias brilhantes será fascinante para a plateia. No entanto, se oitocentas pessoas planejam dedicar quinze minutos de seu dia a ouvi-lo, ele não pode simplesmente improvisar sua exposição. [...] Assim, se você vai presentear pessoas com uma ideia magnífica, primeiro precisa dedicar algum tempo a preparar sua exposição. Ficar divagando não é uma opção.
 
-3. **Tédio Organizacional:** Qualquer palestra centrada na história de sua companhia, equipe que trabalha com você e seus produtos.
+1. **Tédio Organizacional:** Qualquer palestra centrada na história de sua companhia, equipe que trabalha com você e seus produtos.
 
 	> Você e sua equipe podem considerá-la (companhia) interessante. Infelizmente, porém, não trabalhamos nela. Entretanto, tudo muda quando você se concentra na natureza do trabalho que está realizando e no poder das ideias nele instiladas, e não na organização ou em seus produtos.
 
@@ -312,8 +312,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mj
-g4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4
-LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyND
-c4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbNDg2MjIyMTI2LDE2MzI5NzM5MzIsMTI4OD
+kzMTUzOCwzNTI4ODQzMjgsMTkyNDM5NzkzLC03ODg3MTgxMTUs
+LTEwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OTA1NTYsLTY0ODA0OD
+Q4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
+
 -->
