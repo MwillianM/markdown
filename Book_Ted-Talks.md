@@ -85,7 +85,7 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 
 > durante toda a vida, devemos praticar o que pregamos
 
->  Você acabou de formar na cabeça a imagem de algo que nunca aconteceu na história, a não ser em minha imaginação e na de quem leu isso. Uma única frase tem esse poder. Mas desde que você, o ouvinte, conheça um conjunto de conceitos prévios. A linguagem fez você interligar esses conceitos e criar uma imagem totalmente nova.  Ou seja, a linguagem só recriar uma ideia no mente de outras pessoas. Você só pode usar as ferramentas a que sua plateia tem acesso. Se usar apenas sua linguagem, seus conceitos, seus pressupostos e seus valores, não terá sucesso. Então, em vez disso, utilize os deles. Só a partir dessa base comum os ouvintes podem começar a construir a sua ideia na mente deles.
+>  Você acabou de formar na cabeça a imagem de algo que nunca aconteceu na história, a não ser em minha imaginação e na de quem leu isso. Uma única frase tem esse poder. Mas desde que você, o ouvinte, conheça um conjunto de conceitos prévios. A linguagem fez você interligar esses conceitos e criar uma imagem totalmente nova.  Ou seja, a linguagem só recriar uma ideia no mente de outras pessoas. se locutor e ouvinte possuem um conjunto de conceitos prévios compartilhados
 
 Ou seja: por si só, o poder da linguagem evocou as mesmas experiências mentais daqueles que tinham visto o filme. Essa é uma comprovação extraordinária da eficácia da linguagem. Trata-se de um poder que quem fala em público pode explorar.
 
@@ -307,7 +307,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTc5NDIyNiwxMTYzMzkwMzYsMTM3OT
-A1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMs
-OTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbMzM1NjE1OTEwLDExNjMzOTAzNiwxMzc5MD
+U1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MTI2MjM1Myw5
+MjM1MDY4NzRdfQ==
 -->
