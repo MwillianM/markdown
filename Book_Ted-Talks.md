@@ -32,12 +32,6 @@ Visão Geral
 	+ Incentiva a variedade (Não existe uma única maneira de dar uma palestra de alto nível). 
 	+ Os conhecimentos podem ser aplicados para todas as formas de comunicação pública.
 
-Sem dúvida, uma das impressões mais fortes que podemos experimentar ao ouvir uma palestra é a motivação.
-
-+ Reformular a retórica para a era moderna.
-+ Proporcionar contribuições úteis para uma nova competência comunicativa.
-
-O objetivo de uma palestra consiste em... dizer algo significativo. No entanto, é impressionante o número de palestras que não atingem esse objetivo.
 
 Belos slides e carisma não fazem mal algum, mas, se o palestrante não presenteia o público com algo real e valioso, tudo o que ele fez, na melhor das hipóteses, foi entretê-lo.
 
@@ -70,7 +64,9 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 + A competência comunicativa é uma qualificação fundamental para o século XXI.
 + Qualquer um pode falar em público.
 + Medo de falar em público é irracional.
++ O objetivo de uma palestra consiste em dizer algo significativo.
 + Uma palestra sempre pode abrir portas ou transformar uma carreira.
++ Uma boa palestra gera a motivação.
 + Qualquer um com uma ideia digna de ser divulgada é capaz de realizar uma palestra eficaz.
 + Qualquer tentativa de aplicar uma fórmula vai fazer o público se sentir manipulado.
 + Seja você mesmo.
@@ -348,7 +344,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODY5MTA3OCw5MjY2MTI1MDksMjcyMT
+eyJoaXN0b3J5IjpbMjA0NjA0NTQ2Nyw5MjY2MTI1MDksMjcyMT
 A0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5
 NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5Mj
 QzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2
