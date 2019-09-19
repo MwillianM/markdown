@@ -250,9 +250,17 @@ Um bom ensaio responde a três perguntas:
 > O problema é que, ao ouvir muitas apresentações do tipo, um público sente-se emocionalmente exausto e começa a se desligar. Instala-se a fadiga emocional. Se isso acontecer antes do fim de sua palestra, ela não exercerá impacto algum.
 
 + Pense em sua palestra como uma ideia e não como uma questão.
-|Questãi|  |
+
+
+
+| Ideia | Questão |
 |--|--|
-|  |  |
+| Curiosidade | Moralidade |
+
+| Ideia | Questão |
+|--|--|
+| Curiosidade | Moralidade |
+
 
 	+ **Questão** 
 	+ **Questão** parte de **moralidade**
@@ -352,7 +360,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE4MjgxNDYsOTI2NjEyNTA5LDI3Mj
+eyJoaXN0b3J5IjpbLTE4MTU1OTEyNTQsOTI2NjEyNTA5LDI3Mj
 EwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5
 OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOT
 I0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4LDExNjMzOTAz
