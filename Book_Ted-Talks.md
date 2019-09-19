@@ -137,12 +137,10 @@ Como escolher sua linha mestra:
 
 + Procure uma única ideia importante, que seja maior que você ou sua organização, e ao mesmo tempo alavancar sua experiência para mostrar que ela é mais do que mera especulação vazia.
 
-Sua linha mestra não precisa ser tão ambiciosa quanto as da lista. Contudo, ainda assim precisa ter algum aspecto provocante.
++ Sua linha mestra precisa ter algum aspecto provocante.
++ É importante também que a linha mestra não seja previsível ou banal
 
-
-
-É importante também que a linha mestra não seja previsível ou banal
-
+Exemplos de linha mestra:
 > + Ter mais opções nos deixa menos felizes.
 > + Devemos valorizar a vulnerabilidade, e não fugir dela.
 > + O potencial da educação se transforma quando nos concentramos na extraordinária (e hilariante) criatividade infantil.
@@ -318,7 +316,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODIxODQ4NiwxNjMyOTczOTMyLDEyOD
+eyJoaXN0b3J5IjpbLTcyMDcxNDEyMywxNjMyOTczOTMyLDEyOD
 g5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5MywtNzg4NzE4MTE1
 LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwND
 g0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
