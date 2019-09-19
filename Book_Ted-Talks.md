@@ -12,6 +12,7 @@ Visão Geral
 ---
 
 + Indicação (Esse livro é pra mim?)
+
   Eu indico esse livro para:
   + Qualquer um que queira melhorar sua comunicação.
   + Qualquer um que vá fazer uma apresentação/palestra.
@@ -355,7 +356,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0MTEzOTY0LDE0MzI4MTkwNjksOTI2Nj
+eyJoaXN0b3J5IjpbMzExMTU0MzAyLDE0MzI4MTkwNjksOTI2Nj
 EyNTA5LDI3MjEwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQs
 LTIxMDczMDY5OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mj
 g4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4
