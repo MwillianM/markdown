@@ -141,7 +141,6 @@ Compare com:
 
 Exemplos de linhas mestras:
 
-> + Ter mais opções nos deixa menos felizes.
 > + Devemos valorizar a vulnerabilidade, e não fugir dela.
 > + Você pode simular a linguagem corporal até ela se tornar verdadeira.
 > + Uma história do universo em dezoito minutos mostra um caminho do caos à ordem.
@@ -350,11 +349,11 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDI1Nzg5Myw1MDg2NDkwOTQsMzI5ND
-E4NTQ1LDE0MzI4MTkwNjksOTI2NjEyNTA5LDI3MjEwNDE0OCwt
-MTI1MDc5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5OTYsMTYzMj
-k3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMs
-LTc4ODcxODExNSwtMTAzMTcxMTg4LDExNjMzOTAzNiwxMzc5MD
-U1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MTI2MjM1M119
-
+eyJoaXN0b3J5IjpbLTEwMDgwMDIyOTUsNTA4NjQ5MDk0LDMyOT
+QxODU0NSwxNDMyODE5MDY5LDkyNjYxMjUwOSwyNzIxMDQxNDgs
+LTEyNTA3OTEzNiwtNTM4MDE5MjE0LC0yMTA3MzA2OTk2LDE2Mz
+I5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyNDM5Nzkz
+LC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OT
+A1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTNd
+fQ==
 -->
