@@ -73,17 +73,15 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 
 ### Construção da Ideia
 
-+ O objetivo de uma palestra é plantar uma ideia na mente dos ouvintes.
-+ A obrigação número um de um palestrante é reconstruir na mente de seus ouvintes uma ideia.
++ O objetivo de uma palestra é plantar uma ideia na mente dos ouvintes, logo, a obrigação do palestrante é reconstruir na mente de seus ouvintes essa ideia.
 + A única coisa de fato importante ao se falar em público é ter algo de importante a dizer.
-+ Uma ideia é qualquer coisa capaz de mudar a visão de mundo das pessoas.
 + Dedique-se a algo que mereça ser compartilhado com outras pessoas.
 + Estilo sem conteúdo é horrível.
 + Você tem uma coisa que ninguém mais no mundo tem: a sua experiência de vida.
 + As pessoas adoram histórias, mesmo que a lição a se tirar dela seja comum. Humanos precisamos relembrar as coisas.
-+ Pode-se usar a oportunidade de falar em público como um incentivo de dominar o assunto.
++ Pode-se usar a oportunidade de falar em público como um incentivo de dominar algum assunto.
 
-**Quarta do Aprendizado: ** A cada duas semanas todos ganham um dia de folga para estudar determinado assunto. Depois todos devem realizar uma palestra no estilo TED em algum momento do ano.
+**Quarta do Aprendizado:** A cada duas semanas todos ganham um dia de folga para estudar determinado assunto. Depois todos devem realizar uma palestra no estilo TED em algum momento do ano.
 
 > durante toda a vida, devemos praticar o que pregamos
 
@@ -309,7 +307,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU4NDUzOTUsMTE2MzM5MDM2LDEzNz
+eyJoaXN0b3J5IjpbLTExMzQzNTgwNjYsMTE2MzM5MDM2LDEzNz
 kwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUz
 LDkyMzUwNjg3NF19
 -->
