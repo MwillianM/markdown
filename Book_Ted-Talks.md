@@ -44,6 +44,8 @@ Sem dúvida, uma das impressões mais fortes que podemos experimentar ao ouvir u
 
 A palavra “retórica” significa simplesmente “a arte de falar com eficácia”. É esse o tema fundamental deste livro. Reformular a retórica para a era moderna. Proporcionar contribuições úteis para uma nova competência comunicativa.
 
+O objetivo de uma palestra consiste em... dizer algo significativo. No entanto, é impressionante o número de palestras que não atingem esse objetivo.
+
 + Sobre o Author (Por que eu acreditaria?)
 
 Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar o caminho. O TED começou como uma conferência anual, com palestras nos campos da Tecnologia, do Entretenimento e do Design (daí o nome). Nos últimos anos, porém, o programa se expandiu e passou a cobrir qualquer tópico de interesse público.
@@ -100,7 +102,7 @@ Quatro estilos a serem evitados:
 1. **Conversa de Vendedor:** Estilo de palestra semelhante a um discurso de vendas, no intuito de promover-se ou vender algum bem ou serviço.
 	> O princípio fundamental é lembrar que o palestrante deve fazer uma doação a seus ouvintes, e não tirar algo deles. Os melhores vendedores se põem no lugar dos possíveis clientes e imaginam a melhor forma de atender a seus interesses.
 
-2.  **Divagações:** Palestras sinuosas, sem uma direção clara.
+1.  **Divagações:** Palestras sinuosas, sem uma direção clara.
 	> Um palestrante pode se iludir e se convencer de que mesmo uma exploração desordenada de suas ideias brilhantes será fascinante para a plateia. No entanto, se oitocentas pessoas planejam dedicar quinze minutos de seu dia a ouvi-lo, ele não pode simplesmente improvisar sua exposição. [...] Assim, se você vai presentear pessoas com uma ideia magnífica, primeiro precisa dedicar algum tempo a preparar sua exposição. Ficar divagando não é uma opção.
 
 1. **Tédio Organizacional:** Qualquer palestra centrada na história de sua companhia, equipe que trabalha com você e seus produtos.
@@ -112,8 +114,6 @@ Quatro estilos a serem evitados:
 	> Fazia pausas com frequência, esperando que a plateia o aplaudisse ou risse e, quando isso acontecia, parava e dizia “obrigado”, numa sutil tentativa de provocar mais aplausos ou risos. Começou a inserir cacos que pretendiam ser engraçados. Ficou claro que o divertiam; aos outros, nem tanto. E o pior de tudo foi que o conteúdo prometido da palestra não chegou a ser exposto. 
 
 ### A Linha Mestra
-
-O objetivo de uma palestra consiste em... dizer algo significativo. No entanto, é impressionante o número de palestras que não atingem esse objetivo.
 
 Belos slides e carisma não fazem mal algum, mas, se o palestrante não presenteia o público com algo real e valioso, tudo o que ele fez, na melhor das hipóteses, foi entretê-lo.
 
@@ -312,7 +312,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2MjIyMTI2LDE2MzI5NzM5MzIsMTI4OD
+eyJoaXN0b3J5IjpbODM2MDA4Njc3LDE2MzI5NzM5MzIsMTI4OD
 kzMTUzOCwzNTI4ODQzMjgsMTkyNDM5NzkzLC03ODg3MTgxMTUs
 LTEwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OTA1NTYsLTY0ODA0OD
 Q4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
