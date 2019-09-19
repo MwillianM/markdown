@@ -127,11 +127,15 @@ Compare com:
 > “Em minha recente viagem à Cidade do Cabo, aprendi algo novo com relação a estranhos: quando se pode confiar neles e quando não se pode fazer isso de jeito nenhum. Quero dividir com vocês duas experiências muito distintas que vivi.”
 
 + A linha mestra visível desde o início, é muito mais cativante para o público.
-+ Sua linha mestra deve ter mais que quinze palavras.
++ Sua linha mestra deve ter +/- 15 palavras.
 
-Qual é a ideia exata que você quer inserir na mente dos ouvintes? O que eles vão levar para casa? O que você deseja que o público compreenda plenamente ao fim da palestra?
+Como escolher sua linha mestra:
 
-O conselho que eu daria a palestrantes é procurar uma única ideia importante, que seja maior que você ou sua organização, e ao mesmo tempo alavancar sua experiência para mostrar que ela é mais do que mera especulação vazia.
++ Qual é a ideia exata que você quer inserir na mente dos ouvintes?
++ O que eles vão levar para casa?
++ O que você deseja que o público compreenda plenamente ao fim da palestra?
+
++ Procure uma única ideia importante, que seja maior que você ou sua organização, e ao mesmo tempo alavancar sua experiência para mostrar que ela é mais do que mera especulação vazia.
 
 Sua linha mestra não precisa ser tão ambiciosa quanto as da lista. Contudo, ainda assim precisa ter algum aspecto provocante.
 
@@ -314,9 +318,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM1NTM0MzQsMTYzMjk3MzkzMiwxMj
-g4OTMxNTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODEx
-NSwtMTAzMTcxMTg4LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MD
-Q4NDg2LC0xNjkyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRd
-fQ==
+eyJoaXN0b3J5IjpbLTI5ODIxODQ4NiwxNjMyOTczOTMyLDEyOD
+g5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5MywtNzg4NzE4MTE1
+LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwND
+g0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
+
 -->
