@@ -157,6 +157,11 @@ O objetivo de uma palestra consiste em... dizer algo significativo. No entanto, 
 
 ## Palestra
 
+O que?
+Pra que?
+Quem?
+Como?
+
 ---
 
 Agradecimentos
@@ -167,6 +172,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzcwMjI2MDQsLTY0ODA0ODQ4NiwtMT
+eyJoaXN0b3J5IjpbLTE3MDE4NzE0MzQsLTY0ODA0ODQ4NiwtMT
 Y5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
 -->
