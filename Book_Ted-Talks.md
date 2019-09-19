@@ -90,8 +90,8 @@ Por isso, se alguém lhe diz que, ao falar em público, a linguagem corporal é 
 
 Quatro estilos a serem evitados:
 
-1. A CONVERSA DE VENDEDOR: 
-1. 
+1. A CONVERSA DE VENDEDOR:  Alguns palestrantes fazem tudo ao contrário. Procuram tirar, e não dar. O irônico é que essa maneira gananciosa de falar não favorece o palestrante. Eu duvido que naquele dia um único empresário o tenha contratado. E, ainda que isso tenha ocorrido, o fato é que isso foi contrabalançado por muitos outros que o escutaram e perderam o respeito por ele. Nem preciso dizer que nunca postamos a palestra na internet. Reputação é tudo. Um bom palestrante quer ser visto como alguém generoso — que dá à sua plateia algo de maravilhoso —, e não como um chato que só pretende se promover. É tedioso e frustrante ouvir um discurso de vendas, principalmente se estamos esperando outra coisa.
+1.  
 1. 
 1. 
 
@@ -164,6 +164,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjU2NjMzNCwtMTY5MjQ3ODg2OSw5OD
-EyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbMTU2NDEyNTExLC0xNjkyNDc4ODY5LDk4MT
+I2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
