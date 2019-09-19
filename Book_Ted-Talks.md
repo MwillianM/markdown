@@ -76,6 +76,11 @@ Portanto, se você acha que talvez tenha algo, mas não tem certeza de que já d
 
 Ou seja: por si só, o poder da linguagem evocou as mesmas experiências mentais daqueles que tinham visto o filme. Essa é uma comprovação extraordinária da eficácia da linguagem. Trata-se de um poder que quem fala em público pode explorar.
 
+SIM, AS PALAVRAS IMPORTAM
+>Alguns instrutores que trabalham com quem pretende falar em público minimizam a importância da linguagem. Às vezes recorrem a pesquisas publicadas em 1967 pelo professor Albert Mehrabian, as quais afirmam que apenas 7% da eficácia da comunicação decorrem da linguagem, enquanto 38% dependem do tom de voz e 55% da linguagem corporal. Isso tem levado muitos instrutores a se concentrarem excessivamente em desenvolver um estilo de oratória fundamentado na autoconfiança, no carisma etc., sem se preocuparem muito com as palavras. Infelizmente, essa é uma interpretação equivocada das conclusões de Mehrabian. Em essência, os experimentos dele visaram descobrir como a emoção era comunicada. Por exemplo, ele testava o que acontecia quando alguém dizia “ah, que legal”, mas em tom de raiva ou com uma expressão corporal ameaçadora. É claro que, nessas circunstâncias, as palavras em si pouco interessam. Entretanto, é um absurdo generalizar esse resultado a qualquer palestra (e Mehrabian fica tão irritado com a má utilização de suas pesquisas que, em seu site, um parágrafo em negrito pede que não se faça isso)
+
+Passar emoção é importante, e nesse aspecto o tom de voz e a linguagem corporal do palestrante têm enorme valor
+
 
 
 
@@ -144,6 +149,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzM4NzMwOCwtMTY5MjQ3ODg2OSw5OD
-EyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbNjk0NzQ0NTA5LC0xNjkyNDc4ODY5LDk4MT
+I2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
