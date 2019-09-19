@@ -53,7 +53,7 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 ## Prólogo
 
 **Retórica:** a arte de falar com eficácia.
-**Competência Comunicativa:** habilidade de falar em público
+**Competência Comunicativa:** habilidade de entender e usar a linguagem efetivamente para comunicação.
 **Ideia:** qualquer coisa capaz de mudar a visão de mundo das pessoas.
 **Linha Mestra:** ???
 
@@ -308,7 +308,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwND
-g0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
-
+eyJoaXN0b3J5IjpbLTE1OTM4ODU0NjcsMTE2MzM5MDM2LDEzNz
+kwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUz
+LDkyMzUwNjg3NF19
 -->
