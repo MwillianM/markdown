@@ -116,6 +116,12 @@ Um bom exercício consiste em resumir sua linha mestra em não mais que quinze p
 
 Qual é a ideia exata que você quer inserir na mente dos ouvintes? O que eles vão levar para casa? O que você deseja que o público compreenda plenamente ao fim da palestra?
 
+O conselho que eu daria a palestrantes é procurar uma única ideia importante, que seja maior que você ou sua organização, e ao mesmo tempo alavancar sua experiência para mostrar que ela é mais do que mera especulação vazia.
+
+Sua linha mestra não precisa ser tão ambiciosa quanto as da lista. Contudo, ainda assim precisa ter algum aspecto provocante.
+
+
+
 É importante também que a linha mestra não seja previsível ou banal
 
 > + Ter mais opções nos deixa menos felizes.
@@ -128,6 +134,9 @@ Qual é a ideia exata que você quer inserir na mente dos ouvintes? O que eles v
 > + Vamos fazer uma revolução silenciosa: um mundo redesenhado para os introvertidos.
 > + A combinação de três tecnologias simples cria um sexto sentido assombroso.
 > + Vídeos on-line podem humanizar a sala de aula e revolucionar a educação.
+
+> Os robôs estão se tornando rapidamente os primeiros socorristas em locais de desastre, trabalhando lado a lado com pessoas para ajudar no restabelecimento. Essas máquinas sofisticadas podem transformar o trabalho de socorro a vítimas de desastres, poupando vidas e recursos financeiros. Para demonstrar esse ponto, gostaria de mostrar a vocês três novos robôs nos quais trabalhei.
+
 
 
 
@@ -200,6 +209,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDczNDQ1LC02NDgwNDg0ODYsLTE2OT
+eyJoaXN0b3J5IjpbMTg0MzcyOTk0LC02NDgwNDg0ODYsLTE2OT
 I0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
 -->
