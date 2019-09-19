@@ -142,7 +142,6 @@ Compare com:
 Exemplos de linhas mestras:
 
 > + Devemos valorizar a vulnerabilidade, e não fugir dela.
-> + Você pode simular a linguagem corporal até ela se tornar verdadeira.
 > + Uma história do universo em dezoito minutos mostra um caminho do caos à ordem.
 > + Quase morri num trekking no polo sul, e isso mudou minha noção de propósito.
 > + Vamos fazer uma revolução silenciosa: um mundo redesenhado para os introvertidos.
@@ -349,11 +348,11 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgwMDIyOTUsNTA4NjQ5MDk0LDMyOT
-QxODU0NSwxNDMyODE5MDY5LDkyNjYxMjUwOSwyNzIxMDQxNDgs
-LTEyNTA3OTEzNiwtNTM4MDE5MjE0LC0yMTA3MzA2OTk2LDE2Mz
-I5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyNDM5Nzkz
-LC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OT
-A1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTNd
-fQ==
+eyJoaXN0b3J5IjpbNDIwODg3NTQ2LDUwODY0OTA5NCwzMjk0MT
+g1NDUsMTQzMjgxOTA2OSw5MjY2MTI1MDksMjcyMTA0MTQ4LC0x
+MjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5NiwxNjMyOT
+czOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5Mywt
+Nzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNzkwNT
+U2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUzXX0=
+
 -->
