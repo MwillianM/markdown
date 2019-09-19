@@ -107,7 +107,10 @@ Quatro estilos a serem evitados:
 
 	> Você e sua equipe podem considerá-la (companhia) interessante. Infelizmente, porém, não trabalhamos nela. Entretanto, tudo muda quando você se concentra na natureza do trabalho que está realizando e no poder das ideias nele instiladas, e não na organização ou em seus produtos.
 
-4. **Desempenho Motivador:** O intenso desejo de uma ovação pode conduzir palestrantes inexperientes ao erro. Às vezes, eles veem a apresentação de palestrantes motivadores e tentam copiá-los... mas só na aparência. O resultado pode ser péssimo: a imitação incessante de todos os truques conhecidos para manipular a plateia intelectual e emocionalmente. Mas gostando um pouco demais.
+4. **Desempenho Motivador:** Palestrantes com intenso desejo de uma ovação.
+
+ Às vezes, eles veem a apresentação de palestrantes motivadores e tentam copiá-los... mas só na aparência. O resultado pode ser péssimo: a imitação incessante de todos os truques conhecidos para manipular a plateia intelectual e emocionalmente.
+
 > Fazia pausas com frequência, esperando que a plateia o aplaudisse ou risse e, quando isso acontecia, parava e dizia “obrigado”, numa sutil tentativa de provocar mais aplausos ou risos. Começou a inserir cacos que pretendiam ser engraçados. Ficou claro que o divertiam; aos outros, nem tanto. E o pior de tudo foi que o conteúdo prometido da palestra não chegou a ser exposto. 
 
 Aquilo era o clichê do TED. O problema de apresentações como essa não está apenas no fato de adularem a plateia para enganá-la. Está sobretudo em enxovalhar a reputação do gênero. Elas reduzem as chances de que os espectadores se deixem atingir por um palestrante genuinamente motivador. Entretanto, atraídos pela droga que é o aplauso do público, cada vez mais palestrantes tentam seguir esse caminho.
@@ -313,8 +316,8 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg4NDQzNjIsMTI4ODkzMTUzOCwzNT
-I4ODQzMjgsMTkyNDM5NzkzLC03ODg3MTgxMTUsLTEwMzE3MTE4
-OCwxMTYzMzkwMzYsMTM3OTA1NTYsLTY0ODA0ODQ4NiwtMTY5Mj
-Q3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbLTEyMzc0MDY0MCwxMjg4OTMxNTM4LDM1Mj
+g4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4
+LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyND
+c4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
