@@ -206,6 +206,19 @@ Como?
 
 ---
 
+## Tempo
+
+Uma apresentação mais curta não significa de modo algum menos tempo de preparação. Certa vez, perguntaram ao presidente americano Woodrow Wilson quanto tempo ele levava para preparar um discurso, no que ele respondeu: Depende da extensão. Se durar dez minutos, preciso de não menos do que duas semanas para me preparar; se for de meia hora, preciso de uma semana; mas, se eu puder falar o tempo que quiser, não preciso me preparar. Fico pronto na hora. Isso me lembra uma citação famosa, atribuída a vários grandes pensadores e escritores: “Se eu tivesse mais tempo, teria escrito uma carta mais curta.” Por isso, vamos aceitar que a criação de uma palestra de alto nível ajustada a um tempo limitado exigirá um esforço considerável. Entretanto, existe um jeito certo e um jeito errado de levar a tarefa a cabo.
+
+### Jeito Errado
+
+O jeito errado de condensar sua palestra é incluir todos os fatos que você acha que precisa dizer e, depois, reduzir o tempo dedicado a cada um.
+
+
+
+---
+
+
 Agradecimentos
 ---
 
@@ -214,6 +227,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzA4MzU3NCwtNjQ4MDQ4NDg2LC0xNj
+eyJoaXN0b3J5IjpbMTU1MTgyMTc2MiwtNjQ4MDQ4NDg2LC0xNj
 kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
