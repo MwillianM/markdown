@@ -27,13 +27,7 @@ Visão Geral
 + Sobre o Livro (Por que eu leria?)
 	+ Mostra a melhor forma de se fazer uma palestra no estilo TED.
 	+ Incentiva a falar em público mesmo diante do nervosismo.
-Este livro tem um duplo objetivo: 
-
-+ Explicar como se realiza o milagre do ato de falar em público com eficiência
-+ Ajudar você a fazê-lo da melhor maneira possível.
-
-Entretanto, cumpre destacar uma coisa logo de início.
-+ Não existe uma única maneira de dar uma palestra de alto nível. Qualquer tentativa de aplicar uma fórmula predefinida o público percebe isso na hora e se sente manipulado.
+	+ Explica como falar em público com eficiência.
 
 O livro está lhe oferecendo um conjunto de ferramentas que buscam incentivar a variedade. 
 
@@ -81,6 +75,8 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 + Qualquer um pode falar em público.
 + Medo de falar em público é irracional.
 + Uma palestra sempre pode abrir portas ou transformar uma carreira.
++ Não existe uma única maneira de dar uma palestra de alto nível.
++ Qualquer tentativa de aplicar uma fórmula vai fazer o público se sentir manipulado.
 + Seja você mesmo.
 
 > Se você é cientista, seja cientista; não tente ser um militante. Se é artista, seja artista; não tente ser um acadêmico. Se é um sujeito comum, não queira simular um impressionante estilo intelectual; seja esse sujeito comum.
@@ -356,10 +352,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2MTc5ODAxLDkyNjYxMjUwOSwyNzIxMD
-QxNDgsLTEyNTA3OTEzNiwtNTM4MDE5MjE0LC0yMTA3MzA2OTk2
-LDE2MzI5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyND
-M5NzkzLC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYs
-MTM3OTA1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNj
-IzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbLTE2MjUxNjI1NDAsOTI2NjEyNTA5LDI3Mj
+EwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5
+OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOT
+I0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4LDExNjMzOTAz
+NiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MT
+I2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
