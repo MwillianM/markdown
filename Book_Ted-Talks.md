@@ -83,6 +83,7 @@ Visão Geral
 + A única coisa de fato importante ao se falar em público é ter algo de importante a dizer.
 + Dedique-se a algo que mereça ser compartilhado com outras pessoas.
 + Estilo sem conteúdo é horrível.
+	> Belos slides e carisma não fazem mal algum, mas, se o palestrante não presenteia o público com algo real e valioso, tudo o que ele fez, na melhor das hipóteses, foi entretê-lo.
 + Você tem uma coisa que ninguém mais no mundo tem: a sua experiência de vida.
 + As pessoas adoram histórias, mesmo que a lição a se tirar dela seja comum. Humanos precisamos relembrar as coisas.
 + Pode-se usar a oportunidade de falar em público como um incentivo de dominar algum assunto.
@@ -345,8 +346,6 @@ Citações
 
 > deixe espaço e DIGA MENOS.
 
-> Belos slides e carisma não fazem mal algum, mas, se o palestrante não presenteia o público com algo real e valioso, tudo o que ele fez, na melhor das hipóteses, foi entretê-lo.
-
 ---
 
 Agradecimentos
@@ -357,10 +356,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQ4OTc2MTUsMTQzMjgxOTA2OSw5Mj
-Y2MTI1MDksMjcyMTA0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIx
-NCwtMjEwNzMwNjk5NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMz
-UyODg0MzI4LDE5MjQzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzEx
-ODgsMTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwNDg0ODYsLTE2OT
-I0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbODk5Mzk3MDEzLDE0MzI4MTkwNjksOTI2Nj
+EyNTA5LDI3MjEwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQs
+LTIxMDczMDY5OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mj
+g4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4
+LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyND
+c4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
