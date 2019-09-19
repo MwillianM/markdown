@@ -221,7 +221,7 @@ Só percorrera o terreno que puder mostrar em profundidade suficiente para criar
 Por isso, uma linha mestra exige que, antes de tudo, você identifique uma ideia que possa ser exposta de forma adequada no tempo disponível. Em seguida, construa uma estrutura que ligue todos os elementos da palestra a essa ideia.
 
 
-### DA LINHA MESTRA À ESTRUTURA
+### ESTRUTURA
 
 Imagine a estrutura da palestra como uma árvore. Há uma linha mestra central, que sobe verticalmente e na qual os galhos representam expansões da narrativa principal: um perto da base para a história de abertura; dois um pouco acima, na seção de história, para os exemplos fracassados; um para a solução proposta, que destaque o fato novo; e três no alto, ilustrando as implicações para o futuro.
 
@@ -343,7 +343,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzNjY1MjAxLC0yMTA3MzA2OTk2LDE2Mz
+eyJoaXN0b3J5IjpbMzYzNzM5NzYyLC0yMTA3MzA2OTk2LDE2Mz
 I5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyNDM5Nzkz
 LC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OT
 A1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMs
