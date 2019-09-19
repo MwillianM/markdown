@@ -8,6 +8,10 @@ Chris Anderson
 > Data: Setembro 16, 2019
 ---
 
+## TL;DR
+
+---
+
 Visão Geral
 ---
 
@@ -340,7 +344,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTc3NTQ1LDI3MjEwNDE0OCwtMTI1MD
+eyJoaXN0b3J5IjpbOTI2NjEyNTA5LDI3MjEwNDE0OCwtMTI1MD
 c5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5OTYsMTYzMjk3Mzkz
 MiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMsLTc4OD
 cxODExNSwtMTAzMTcxMTg4LDExNjMzOTAzNiwxMzc5MDU1Niwt
