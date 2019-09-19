@@ -116,9 +116,7 @@ Quatro estilos a serem evitados:
 ### A Linha Mestra
 
 + É a “linha mestra”, o tema que une os elementos narrativos. Toda palestra precisa de uma.
-+ 
-Isso não significa que toda palestra possa cobrir apenas um assunto, contar uma só história ou avançar numa única direção, sem digressões. De forma alguma. Isso só quer dizer que todas as partes precisam estar interligadas.
-
++ Todas as partes precisam estar interligadas. Isso não significa que toda palestra possa cobrir apenas um assunto.
 > Eis o começo de uma apresentação montada sem uma linha mestra: “Eu gostaria de compartilhar com vocês algumas experiências que vivi durante a viagem que fiz recentemente à Cidade do Cabo, depois fazer algumas observações sobre a vida na estrada.” Compare-o com a introdução a seguir: “Em minha recente viagem à Cidade do Cabo, aprendi algo novo com relação a estranhos: quando se pode confiar neles e quando não se pode fazer isso de jeito nenhum. Quero dividir com vocês duas experiências muito distintas que vivi.”
 
 Talvez a primeira versão sirva para a sua família. Mas a segunda, com a linha mestra visível desde o início, é muito mais cativante para o público.
@@ -310,7 +308,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjY5MjQ0OCwxNjMyOTczOTMyLDEyOD
+eyJoaXN0b3J5IjpbMTM5MDM4MDIyMiwxNjMyOTczOTMyLDEyOD
 g5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5MywtNzg4NzE4MTE1
 LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwND
 g0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
