@@ -222,9 +222,16 @@ Uma palestra baseada numa questão parte de moralidade; uma palestra baseada num
 
 A instrutora de oratória Abigail Tenembaum recomenda que o palestrante teste sua linha mestra com alguém que poderia ser um membro típico da plateia. Segundo ela, é preciso fazer isso oralmente, e não por escrito
 
+> A conhecida escritora Elizabeth Gilbert também acredita na importância de planejar uma palestra para uma plateia formada por apenas uma pessoa: “Escolha um ser humano, um ser humano real que faça parte da sua vida, e prepare a palestra como se fosse realizá-la apenas para essa pessoa. Escolha alguém que não trabalhe na sua área, mas seja inteligente, curioso, participativo, conhecedor do mundo — e de quem você realmente goste. Isso dará à sua palestra um calor espiritual e cordial. Sobretudo, conscientize-se de que está falando para uma única pessoa, e não para um segmento demográfico (‘Minha palestra se dirige a profissionais entre 22 e 38 anos que atuem na área de software’), porque um segmento demográfico não é uma pessoa, e, se você falar para um segmento demográfico, não vai passar a ideia de que está falando para uma pessoa. Você não precisa ir à casa dela ensaiar a palestra durante seis meses; ela nem precisa saber que você está ensaiando. Apenas escolha seu ouvinte ideal e depois faça tudo o que puder para criar uma palestra que o empolgue, emocione, fascine ou encante.”
+
+> Segundo Gilbert, porém, o mais importante é escolher um tema com o qual você se importe. “Fale sobre o que você conhece. Fale sobre o que conhece e ama de todo o coração. Eu quero ouvir você falar sobre o assunto mais importante de sua vida, e não sobre um tema qualquer que julgue ser uma novidade. Exponha sua paixão de décadas, não um artifício radical que esteja na moda. Acredite em mim: sua paixão vai me seduzir.”
+
+
 ---
 
 ## Ferramentas da Palestra
+
+as cinco ferramentas essenciais usadas por quem fala em público
 
 ### Sintonia
 
@@ -292,6 +299,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzY2MDQ5OCwtNjQ4MDQ4NDg2LC0xNj
-kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbLTEyMTcxNjUyNDMsLTY0ODA0ODQ4NiwtMT
+Y5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
 -->
