@@ -64,6 +64,10 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 
 > devemos praticar o que pregamos
 
+> Menos pode ser mais.
+
+> deixe espaço e DIGA MENOS.
+
 ---
 
 ## Fundamentos
@@ -198,13 +202,7 @@ Existe um jeito certo e um jeito errado de levar a tarefa a cabo.
 
 	> Curiosamente, é bem possível que você consiga criar um roteiro que produza esse resultado. Todos os pontos importantes que você deseja cobrir estão lá, de forma sucinta. O trabalho foi apresentado em toda a sua extensão! Você pode até achar que há uma linha mestra ligando todos os aspectos, uma ampla fundamentação do trabalho. Você pode ter a impressão de que deu a essa preparação o melhor de si e fez o possível para se ajustar ao tempo concedido. Entretanto, uma linha mestra que ligue muitos conceitos não funciona. Há uma consequência grave quando você passa muito depressa por diversos assuntos: eles não causam impacto.
 
-### Jeito Certo
-
-Para realizar uma palestra eficaz, você precisa diminuir a gama de assuntos abordados, reduzindo-a a um fio único e coeso. Em certo sentido, você cobrirá menos pontos, mas o impacto será substancialmente maior.
-
-Menos pode ser mais.
-
-deixe espaço e DIGA MENOS.
++ **Jeito Certo:** Para realizar uma palestra eficaz, você precisa diminuir a gama de assuntos abordados, reduzindo-a a um fio único e coeso. Em certo sentido, você cobrirá menos pontos, mas o impacto será substancialmente maior.
 
 > “Planeje sua palestra. Depois, corte-a pela metade. Depois de chorar bastante a perda de metade da palestra, corte 50% do que sobrou. É tentador pensar no quanto você pode incluir em dezoito minutos. Para mim, a melhor pergunta é a seguinte: ‘O que você pode apresentar, de maneira significativa, em dezoito minutos?’”
 
@@ -340,9 +338,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5NDg1NTY5LC0yMTA3MzA2OTk2LDE2Mz
-I5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyNDM5Nzkz
-LC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OT
-A1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMs
-OTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbLTM4NzcwOTE2NSwtMjEwNzMwNjk5NiwxNj
+MyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5
+MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNz
+kwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUz
+LDkyMzUwNjg3NF19
 -->
