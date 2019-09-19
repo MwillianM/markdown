@@ -27,6 +27,8 @@ Por isso, você não encontrará aqui dicas específicas para propor um brinde n
 
 A tese central deste livro é que qualquer um com uma ideia digna de ser divulgada é capaz de realizar uma palestra eficaz
 
+Vamos passar grande parte da primeira metade deste livro examinando os meios pelos quais a linguagem pode produzir seus resultados mágicos.
+
 + Sobre o Author (Por que eu acreditaria?)
 
 Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar o caminho. O TED começou como uma conferência anual, com palestras nos campos da Tecnologia, do Entretenimento e do Design (daí o nome). Nos últimos anos, porém, o programa se expandiu e passou a cobrir qualquer tópico de interesse público.
@@ -80,6 +82,9 @@ SIM, AS PALAVRAS IMPORTAM
 >Alguns instrutores que trabalham com quem pretende falar em público minimizam a importância da linguagem. Às vezes recorrem a pesquisas publicadas em 1967 pelo professor Albert Mehrabian, as quais afirmam que apenas 7% da eficácia da comunicação decorrem da linguagem, enquanto 38% dependem do tom de voz e 55% da linguagem corporal. Isso tem levado muitos instrutores a se concentrarem excessivamente em desenvolver um estilo de oratória fundamentado na autoconfiança, no carisma etc., sem se preocuparem muito com as palavras. Infelizmente, essa é uma interpretação equivocada das conclusões de Mehrabian. Em essência, os experimentos dele visaram descobrir como a emoção era comunicada. Por exemplo, ele testava o que acontecia quando alguém dizia “ah, que legal”, mas em tom de raiva ou com uma expressão corporal ameaçadora. É claro que, nessas circunstâncias, as palavras em si pouco interessam. Entretanto, é um absurdo generalizar esse resultado a qualquer palestra (e Mehrabian fica tão irritado com a má utilização de suas pesquisas que, em seu site, um parágrafo em negrito pede que não se faça isso)
 
 Passar emoção é importante, e nesse aspecto o tom de voz e a linguagem corporal do palestrante têm enorme valor
+No entanto, a essência de uma palestra depende fundamentalmente das palavras
+
+Por isso, se alguém lhe diz que, ao falar em público, a linguagem corporal é mais importante do que a linguagem verbal, lembre-se, por favor, de que a pessoa está interpretando mal as pesquisas científicas.
 
 
 
@@ -149,6 +154,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0NzQ0NTA5LC0xNjkyNDc4ODY5LDk4MT
-I2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbLTE0NTc5NDkwMjMsLTE2OTI0Nzg4NjksOT
+gxMjYyMzUzLDkyMzUwNjg3NF19
 -->
