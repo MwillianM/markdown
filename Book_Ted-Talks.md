@@ -18,9 +18,9 @@ Visão Geral
   + Qualquer um que queira melhorar sua comunicação.
   + Qualquer um que vá fazer uma apresentação/palestra.
   + Qualquer um que tem medo de/queira falar em público.
-  + Qualquer um .
-+ Motivação (Por que eu li?)
-  + Dicas para dar uma palestra
+  + Qualquer um.
++ Motivação (Por que você leu?)
+  + Pegar dicas para dar uma palestra
   + Melhorar minha comunicação em geral
 + Sobre o Livro (Por que eu leria?)
   + Mostra a melhor forma de se fazer uma palestra no estilo TED.
@@ -357,10 +357,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjM1MDI2NiwxNDMyODE5MDY5LDkyNj
-YxMjUwOSwyNzIxMDQxNDgsLTEyNTA3OTEzNiwtNTM4MDE5MjE0
-LC0yMTA3MzA2OTk2LDE2MzI5NzM5MzIsMTI4ODkzMTUzOCwzNT
-I4ODQzMjgsMTkyNDM5NzkzLC03ODg3MTgxMTUsLTEwMzE3MTE4
-OCwxMTYzMzkwMzYsMTM3OTA1NTYsLTY0ODA0ODQ4NiwtMTY5Mj
-Q3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbLTE4MDYzOTY1NTgsMTQzMjgxOTA2OSw5Mj
+Y2MTI1MDksMjcyMTA0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIx
+NCwtMjEwNzMwNjk5NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMz
+UyODg0MzI4LDE5MjQzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzEx
+ODgsMTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwNDg0ODYsLTE2OT
+I0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
 -->
