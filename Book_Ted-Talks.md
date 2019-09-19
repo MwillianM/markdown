@@ -38,7 +38,8 @@ A tese central deste livro é:
 
 Sem dúvida, uma das impressões mais fortes que podemos experimentar ao ouvir uma palestra é a motivação.
 
-A palavra “retórica” significa simplesmente “a arte de falar com eficácia”. É esse o tema fundamental deste livro. Reformular a retórica para a era moderna. Proporcionar contribuições úteis para uma nova competência comunicativa.
++ Reformular a retórica para a era moderna.
++ Proporcionar contribuições úteis para uma nova competência comunicativa.
 
 O objetivo de uma palestra consiste em... dizer algo significativo. No entanto, é impressionante o número de palestras que não atingem esse objetivo.
 
@@ -343,9 +344,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODAxOTIxNCwtMjEwNzMwNjk5NiwxNj
-MyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5
-MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNz
-kwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUz
-LDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbNTIzODY0NTI5LC01MzgwMTkyMTQsLTIxMD
+czMDY5OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMy
+OCwxOTI0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4LDExNj
+MzOTAzNiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5
+LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
