@@ -79,13 +79,12 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 
 > Se você é cientista, seja cientista; não tente ser um militante. Se é artista, seja artista; não tente ser um acadêmico. Se é um sujeito comum, não queira simular um impressionante estilo intelectual; seja esse sujeito comum.
 
-Suas únicas obrigações reais ao dar uma palestra são:
-+ ter algo de importante a comunicar
-+ se mostrar autêntico à sua maneira.
-
 ### Construção da Ideia
 
 + O objetivo de uma palestra é plantar uma ideia na mente dos ouvintes, logo, a obrigação do palestrante é reconstruir na mente de seus ouvintes essa ideia.
++ Suas únicas obrigações reais ao dar uma palestra são:
++ ter algo de importante a comunicar
++ se mostrar autêntico à sua maneira.
 + A única coisa de fato importante ao se falar em público é ter algo de importante a dizer.
 + Dedique-se a algo que mereça ser compartilhado com outras pessoas.
 + Estilo sem conteúdo é horrível.
@@ -344,9 +343,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzODY0NTI5LC01MzgwMTkyMTQsLTIxMD
-czMDY5OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMy
-OCwxOTI0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4LDExNj
-MzOTAzNiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5
-LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbLTEyNTA3OTEzNiwtNTM4MDE5MjE0LC0yMT
+A3MzA2OTk2LDE2MzI5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQz
+MjgsMTkyNDM5NzkzLC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMT
+YzMzkwMzYsMTM3OTA1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2
+OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
 -->
