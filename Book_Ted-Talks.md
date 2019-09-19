@@ -253,8 +253,9 @@ Um bom ensaio responde a três perguntas:
 
 |  | Ideia | Questão |
 |--|--|--|
-| **Base** | Curiosidade | Moralidade |
-|**Expõe**| ||
+| **** | Curiosidade | Moralidade |
+| **** | Solução | Problema |
+| **** | Isso Não é |  |
 + Uma questão expõe um problema. Uma ideia propõe uma solução. Uma questão diz: “Isso não é terrível?” Uma ideia diz: “Isso não é interessante?” É muito mais fácil cativar a plateia tornando a palestra uma tentativa de solucionar um enigma intrigante, e não um apelo para que ela se mobilize. A primeira forma parece um presente; a segunda, um pedido.
 
 ### O CHECKLIST
@@ -350,10 +351,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjYzMjQwMTEsOTI2NjEyNTA5LDI3Mj
-EwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5
-OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOT
-I0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4LDExNjMzOTAz
-NiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MT
-I2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbMzM4ODU4MTk4LDkyNjYxMjUwOSwyNzIxMD
+QxNDgsLTEyNTA3OTEzNiwtNTM4MDE5MjE0LC0yMTA3MzA2OTk2
+LDE2MzI5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyND
+M5NzkzLC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYs
+MTM3OTA1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNj
+IzNTMsOTIzNTA2ODc0XX0=
 -->
