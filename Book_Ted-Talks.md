@@ -106,6 +106,11 @@ Belos slides e carisma não fazem mal algum, mas, se o palestrante não presente
 
 Existe uma expressão útil usada com frequência na análise de peças, filmes e romances, mas que também se aplica a palestras. É a “linha mestra”, o tema que une os elementos narrativos. Toda palestra precisa de uma.
 
+Isso não significa que toda palestra possa cobrir apenas um assunto, contar uma só história ou avançar numa única direção, sem digressões. De forma alguma. Isso só quer dizer que todas as partes precisam estar interligadas.
+
+> Eis o começo de uma apresentação montada sem uma linha mestra: “Eu gostaria de compartilhar com vocês algumas experiências que vivi durante a viagem que fiz recentemente à Cidade do Cabo, depois fazer algumas observações sobre a vida na estrada.” Compare-o com a introdução a seguir: “Em minha recente viagem à Cidade do Cabo, aprendi algo novo com relação a estranhos: quando se pode confiar neles e quando não se pode fazer isso de jeito nenhum. Quero dividir com vocês duas experiências muito distintas que vivi.”
+
+Talvez a primeira versão sirva para a sua família. Mas a segunda, com a linha mestra visível desde o início, é muito mais cativante para o público.
 
 
 
@@ -178,6 +183,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTc4NTQ2MiwtNjQ4MDQ4NDg2LC0xNj
+eyJoaXN0b3J5IjpbLTc5NTA1NjE4MSwtNjQ4MDQ4NDg2LC0xNj
 kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
