@@ -23,7 +23,9 @@ Este livro tem um duplo objetivo: primeiro, explicar como se realiza o milagre d
 
 Em vez disso, pense que o livro está lhe oferecendo um conjunto de ferramentas que buscam incentivar a variedade. Utilize as que sejam convenientes para você e para a palestra que vai dar. Suas únicas obrigações reais ao dar uma palestra são ter algo de importante a comunicar e se mostrar autêntico à sua maneira.
 
-Por isso, você não encontrará aqui dicas específicas para propor um brinde num casamento, apresentar uma mensagem motivacional numa reunião de vendedores ou proferir uma palestra numa faculdade. No entanto, encontrará ferramentas e ideias que serão úteis não apenas nessas ocasiões, como em todas as formas de comunicação pública
+Por isso, você não encontrará aqui dicas específicas para propor um brinde num casamento, apresentar uma mensagem motivacional numa reunião de vendedores ou proferir uma palestra numa faculdade. No entanto, encontrará ferramentas e ideias que serão úteis não apenas nessas ocasiões, como em todas as formas de comunicação pública.
+
+A tese central deste livro é que qualquer um com uma ideia digna de ser divulgada é capaz de realizar uma palestra eficaz
 
 + Sobre o Author (Por que eu acreditaria?)
 
@@ -54,7 +56,9 @@ A competência comunicativa não é um extra opcional destinado a uns poucos. É
 
 A obrigação número um de um palestrante é reconstruir na mente de seus ouvintes algo que lhe importa. Vamos chamar essa coisa de ideia
 
+Havia muitas coisas erradas naquela palestra, mas ela cumpriu o objetivo num aspecto-chave, que era plantar uma ideia na mente dos ouvintes: [ideia]
 
+A única coisa de fato importante ao se falar em público não é a autoconfiança, a presença de palco ou aquilo que se costuma chamar de “falar bem”. É ter algo de importante a dizer.
 
 ### Armadilhas Comuns
 
@@ -120,6 +124,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Mzc0NzQ0LC0xNjkyNDc4ODY5LDk4MT
-I2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbLTE0MjI4MDgzOTAsLTE2OTI0Nzg4NjksOT
+gxMjYyMzUzLDkyMzUwNjg3NF19
 -->
