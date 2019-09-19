@@ -52,10 +52,10 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 
 ## Prólogo
 
-**Retórica: ** a arte de falar com eficácia.
-**Competência Comunicativa: ** ???
-**Ideia: ** qualquer coisa capaz de mudar a visão de mundo das pessoas.
-**Linha Mestra: ** ???
+**Retórica:** a arte de falar com eficácia.
+**Competência Comunicativa:** habilidade de falar em público
+**Ideia:** qualquer coisa capaz de mudar a visão de mundo das pessoas.
+**Linha Mestra:** ???
 
 ---
 
@@ -308,6 +308,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTA1NTYsLTY0ODA0ODQ4NiwtMTY5Mj
-Q3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbMTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwND
+g0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
+
 -->
