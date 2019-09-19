@@ -86,11 +86,21 @@ No entanto, a essência de uma palestra depende fundamentalmente das palavras
 
 Por isso, se alguém lhe diz que, ao falar em público, a linguagem corporal é mais importante do que a linguagem verbal, lembre-se, por favor, de que a pessoa está interpretando mal as pesquisas científicas.
 
-
-
-
-
 ### Armadilhas Comuns
+
+Quatro estilos a serem evitados:
+
+1. A CONVERSA DE VENDEDOR: 
+1. 
+1. 
+1. 
+
+
+
+
+
+
+
 
 ### A Linha Mestra
 
@@ -154,6 +164,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc5NDkwMjMsLTE2OTI0Nzg4NjksOT
-gxMjYyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbMTU4MjU2NjMzNCwtMTY5MjQ3ODg2OSw5OD
+EyNjIzNTMsOTIzNTA2ODc0XX0=
 -->
