@@ -67,7 +67,7 @@ Visão Geral
 + Qualquer um pode falar em público.
 + Medo de falar em público é irracional.
 + Uma palestra sempre pode abrir portas ou transformar uma carreira.
-+ Uma boa palestra gera a motivação.
++ Uma boa palestra gera motivação.
 + Qualquer um com uma ideia digna de ser divulgada é capaz de realizar uma palestra eficaz.
 + Qualquer tentativa de aplicar uma fórmula vai fazer o público se sentir manipulado.
 + Seja você mesmo.
@@ -357,7 +357,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYzOTY1NTgsMTQzMjgxOTA2OSw5Mj
+eyJoaXN0b3J5IjpbLTEzNDQ4OTc2MTUsMTQzMjgxOTA2OSw5Mj
 Y2MTI1MDksMjcyMTA0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIx
 NCwtMjEwNzMwNjk5NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMz
 UyODg0MzI4LDE5MjQzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzEx
