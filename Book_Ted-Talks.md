@@ -204,7 +204,7 @@ Existe um jeito certo e um jeito errado de levar a tarefa a cabo.
 
 + **Jeito Certo:** Para realizar uma palestra eficaz, você precisa diminuir a gama de assuntos abordados, reduzindo-a a um fio único e coeso. Em certo sentido, você cobrirá menos pontos, mas o impacto será substancialmente maior.
 
-> “Planeje sua palestra. Depois, corte-a pela metade. Depois de chorar bastante a perda de metade da palestra, corte 50% do que sobrou. É tentador pensar no quanto você pode incluir em dezoito minutos. Para mim, a melhor pergunta é a seguinte: ‘O que você pode apresentar, de maneira significativa, em dezoito minutos?’”
+	> “Planeje sua palestra. Depois, corte-a pela metade. Depois de chorar bastante a perda de metade da palestra, corte 50% do que sobrou. É tentador pensar no quanto você pode incluir em dezoito minutos. Para mim, a melhor pergunta é a seguinte: ‘O que você pode apresentar, de maneira significativa, em dezoito minutos?’”
 
 **Exemplo:** descrever-se em apenas dois minutos.
 
@@ -214,7 +214,7 @@ Existe um jeito certo e um jeito errado de levar a tarefa a cabo.
 + **Versão 2:**
 > Quero que você venha comigo ao quarto de um estudante na Universidade de Oxford em 1977. Você abre a porta e, à primeira vista, parece que o lugar está vazio. Mas espere. Num canto do quarto, há um rapaz deitado de costas no chão, olhando para o teto. Faz mais de uma hora e meia que está nessa posição. Sou eu. Aos 22 anos. Estou pensando. Seriamente. Estou tentando... Por favor, não ria... Estou tentando resolver o problema do livre-arbítrio. Sabe aquele profundo mistério que vem desafiando filósofos há pelo menos dois milênios? Exato. Estou tentando decifrá-lo. Quem examinasse a cena com objetividade concluiria que aquele rapaz padecia de uma estranha combinação de arrogância e delírio, ou que talvez fosse apenas tímido e solitário, preferindo a companhia de ideias à de pessoas. E a minha história? Eu sou um sonhador. Sempre fui obcecado pelo poder das ideias. E tenho absoluta certeza de que foi esse foco interior que me ajudou a sobreviver à criação em internatos na Índia e na Inglaterra — longe de meus pais missionários — e me deu a confiança para tentar construir uma empresa de comunicação. Com certeza foi o sonhador que existe em mim que se apaixonou tão perdidamente pelo TED. Nos últimos tempos, tenho sonhado com a revolução no ato de falar em público e com aquilo a que essa revolução poderá levar...
 
-Só percorrera o terreno que puder mostrar em profundidade suficiente para criar interesse.
+Só percorra o terreno que puder mostrar em profundidade suficiente para criar interesse.
 
 > E é aqui que o conceito de linha mestra se torna de fato útil. Ao escolher uma linha mestra, você automaticamente filtra e elimina muita coisa. Quando fiz a experiência descrita, pensei: em que aspecto meu devo focar para ganhar um pouco mais de profundidade? A decisão de optar pelo “sonhador” facilitou ancorar a versão 2 na época em que eu estudava filosofia em Oxford e, ao mesmo tempo, eliminar a maior parte das outras épocas. Se eu tivesse escolhido o “empreendedor”, o “nerd” ou a “alma global”, teria feito cortes diferentes.
 
@@ -340,9 +340,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyMTA0MTQ4LC0xMjUwNzkxMzYsLTUzOD
-AxOTIxNCwtMjEwNzMwNjk5NiwxNjMyOTczOTMyLDEyODg5MzE1
-MzgsMzUyODg0MzI4LDE5MjQzOTc5MywtNzg4NzE4MTE1LC0xMD
-MxNzExODgsMTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwNDg0ODYs
-LTE2OTI0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbMTA2NTc3NTQ1LDI3MjEwNDE0OCwtMTI1MD
+c5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5OTYsMTYzMjk3Mzkz
+MiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMsLTc4OD
+cxODExNSwtMTAzMTcxMTg4LDExNjMzOTAzNiwxMzc5MDU1Niwt
+NjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MD
+Y4NzRdfQ==
 -->
