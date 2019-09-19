@@ -204,7 +204,21 @@ Sir Ken me disse: “Existe uma velha fórmula para a redação de ensaios. Nela
 
 O problema é que, ao ouvir muitas apresentações do tipo, um público sente-se emocionalmente exausto e começa a se desligar. Instala-se a fadiga emocional. Se isso acontecer antes do fim de sua palestra, ela não exercerá impacto algum. Como evitar isso? A primeira medida é pensar em sua palestra não como uma questão, mas como uma ideia.
 
+Uma palestra baseada numa questão parte de moralidade; uma palestra baseada numa ideia parte de curiosidade. Uma questão expõe um problema. Uma ideia propõe uma solução. Uma questão diz: “Isso não é terrível?” Uma ideia diz: “Isso não é interessante?” É muito mais fácil cativar a plateia tornando a palestra uma tentativa de solucionar um enigma intrigante, e não um apelo para que ela se mobilize. A primeira forma parece um presente; a segunda, um pedido.
 
+### O CHECKLIST
+
+À medida que você desenvolve sua linha mestra, submeta-a ao seguinte checklist: 
+- [ ] O assunto me apaixona?
+- [ ]  Ele provoca curiosidade?
+- [ ]  Ele faz diferença para a plateia?
+- [ ]  Minha palestra é um presente ou um pedido?
+- [ ]  As informações são novas ou já são conhecidas?
+- [ ]  Eu consigo explicar o tema, com os exemplos necessários, no tempo concedido?
+- [ ]  Conheço o assunto o suficiente para que a palestra valha o tempo dos ouvintes?
+- [ ]  Tenho a credibilidade necessária para falar do assunto?
+- [ ]  Quais são as quinze palavras que resumem minha palestra?
+- [ ]  Essas quinze palavras fariam alguém se interessar por ouvir minha palestra?
 
 
 ---
@@ -277,6 +291,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODYxMjIxOCwtNjQ4MDQ4NDg2LC0xNj
-kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbODY0MjE4ODYxLC02NDgwNDg0ODYsLTE2OT
+I0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
 -->
