@@ -115,6 +115,8 @@ Quatro estilos a serem evitados:
 
 ### A Linha Mestra
 
+> Mesmo quando o assunto é claro, convém pensar na linha mestra. Uma palestra sobre uma aventura de caiaque pode ter uma linha mestra baseada na resistência, na dinâmica de grupo ou nos perigos de redemoinhos turbulentos em rios. A palestra sobre dessalinização poderia ter uma linha mestra fundamentada em inovações que produzem rupturas.
+
 + Toda palestra precisa de uma linha mestra.
 + Sua linha mestra deve ter +/- 15 palavras.
 + Procure uma única ideia importante, que seja maior que você ou sua organização, e ao mesmo tempo alavancar sua experiência para mostrar que ela é mais do que mera especulação vazia.
@@ -139,6 +141,7 @@ Compare com:
 + Quando sabe aonde você quer chegar, o público sente muito mais facilidade para acompanhar seu trajeto.
 
 > Pensemos outra vez na palestra como uma viagem que palestrante e plateia realizam juntos, com o palestrante no papel de guia. Se você quiser que a plateia viaje a seu lado, provavelmente terá de lhe dar uma ideia de seu destino. E a partir daí precisa ter certeza de que cada passo na viagem a aproxima desse destino. Nessa metáfora de viagem, a linha mestra traça o percurso. Ela garante que não haverá saltos impossíveis e que, no fim da apresentação, o palestrante e o público chegarão juntos a um destino satisfatório.
+
 Exemplos de linhas mestras:
 
 > + Ter mais opções nos deixa menos felizes.
@@ -156,8 +159,6 @@ Exemplos de linhas mestras:
 
 > Os robôs estão se tornando rapidamente os primeiros socorristas em locais de desastre, trabalhando lado a lado com pessoas para ajudar no restabelecimento. Essas máquinas sofisticadas podem transformar o trabalho de socorro a vítimas de desastres, poupando vidas e recursos financeiros. Para demonstrar esse ponto, gostaria de mostrar a vocês três novos robôs nos quais trabalhei.
 
-> Mesmo quando o assunto é claro, convém pensar na linha mestra. Uma palestra sobre uma aventura de caiaque pode ter uma linha mestra baseada na resistência, na dinâmica de grupo ou nos perigos de redemoinhos turbulentos em rios. A palestra sobre dessalinização poderia ter uma linha mestra fundamentada em inovações que produzem rupturas.
-
 ### Público
 
 Saiba o máximo possível sobre a plateia:
@@ -172,7 +173,12 @@ Saiba o máximo possível sobre a plateia:
 
 ### Tempo
 
-Uma apresentação mais curta não significa de modo algum menos tempo de preparação. Certa vez, perguntaram ao presidente americano Woodrow Wilson quanto tempo ele levava para preparar um discurso, no que ele respondeu: Depende da extensão. Se durar dez minutos, preciso de não menos do que duas semanas para me preparar; se for de meia hora, preciso de uma semana; mas, se eu puder falar o tempo que quiser, não preciso me preparar. Fico pronto na hora. Isso me lembra uma citação famosa, atribuída a vários grandes pensadores e escritores: “Se eu tivesse mais tempo, teria escrito uma carta mais curta.” Por isso, vamos aceitar que a criação de uma palestra de alto nível ajustada a um tempo limitado exigirá um esforço considerável. Entretanto, existe um jeito certo e um jeito errado de levar a tarefa a cabo.
++ Uma apresentação mais curta não significa de modo algum menos tempo de preparação.
+> Certa vez, perguntaram ao presidente americano Woodrow Wilson quanto tempo ele levava para preparar um discurso, no que ele respondeu: Depende da extensão. Se durar dez minutos, preciso de não menos do que duas semanas para me preparar; se for de meia hora, preciso de uma semana; mas, se eu puder falar o tempo que quiser, não preciso me preparar. Fico pronto na hora.
+
+> Isso me lembra uma citação famosa, atribuída a vários grandes pensadores e escritores: “Se eu tivesse mais tempo, teria escrito uma carta mais curta.” 
+
++ Por isso, vamos aceitar que a criação de uma palestra de alto nível ajustada a um tempo limitado exigirá um esforço considerável. Entretanto, existe um jeito certo e um jeito errado de levar a tarefa a cabo.
 
 ### Jeito Errado
 
@@ -324,7 +330,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTIyNDkxOSwtMjEwNzMwNjk5NiwxNj
+eyJoaXN0b3J5IjpbMTcxMzY1MzE3NSwtMjEwNzMwNjk5NiwxNj
 MyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5
 MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNz
 kwNTU2LC02NDgwNDg0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUz
