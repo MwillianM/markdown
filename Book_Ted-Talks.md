@@ -14,9 +14,10 @@ Visão Geral
 + Indicação (Esse livro é pra mim?)
 
   Eu indico esse livro para:
+  
   + Qualquer um que queira melhorar sua comunicação.
   + Qualquer um que vá fazer uma apresentação/palestra.
-  + Qualquer um que queira/tem medo de falar em público.
+  + Qualquer um que tem medo de/queira falar em público.
   + Qualquer um .
 + Motivação (Por que eu li?)
   + Dicas para dar uma palestra
@@ -356,10 +357,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExMTU0MzAyLDE0MzI4MTkwNjksOTI2Nj
-EyNTA5LDI3MjEwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQs
-LTIxMDczMDY5OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mj
-g4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4
-LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyND
-c4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbLTYxNjM1MDI2NiwxNDMyODE5MDY5LDkyNj
+YxMjUwOSwyNzIxMDQxNDgsLTEyNTA3OTEzNiwtNTM4MDE5MjE0
+LC0yMTA3MzA2OTk2LDE2MzI5NzM5MzIsMTI4ODkzMTUzOCwzNT
+I4ODQzMjgsMTkyNDM5NzkzLC03ODg3MTgxMTUsLTEwMzE3MTE4
+OCwxMTYzMzkwMzYsMTM3OTA1NTYsLTY0ODA0ODQ4NiwtMTY5Mj
+Q3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
 -->
