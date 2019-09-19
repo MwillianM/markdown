@@ -253,13 +253,11 @@ Um bom ensaio responde a três perguntas:
 
 |  | Ideia | Questão |
 |--|--|--|
-| **** | Curiosidade | Moralidade |
-| **** | Solução | Problema |
-| **** | Isso não é interessante? | Isso não é terrível |
-| **** | Cativa | Preocupa |
-| **** | Presente | Preocupa |
-
-interessante?” É muito mais fácil cativar a plateia tornando a palestra uma tentativa de solucionar um enigma intrigante, e não um apelo para que ela se mobilize. A primeira forma parece um presente; a segunda, um pedido.
+| **Base** | Curiosidade | Moralidade |
+| **Foco** | Solução | Problema |
+| **Reação** | Cativa | Preocupa |
+| **Semelhante** | Presente | Pedido |
+| **Questionamento** | Isso não é interessante? | Isso não é terrível |
 
 ### O CHECKLIST
 
@@ -354,7 +352,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjYwOTM1Nyw5MjY2MTI1MDksMjcyMT
+eyJoaXN0b3J5IjpbLTQ0OTY5MTA3OCw5MjY2MTI1MDksMjcyMT
 A0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5
 NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5Mj
 QzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2
