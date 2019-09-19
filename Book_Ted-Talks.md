@@ -16,18 +16,17 @@ Visão Geral
 ---
 
 + Indicação (Esse livro é pra mim?)
+  Eu indico esse livro para:
   + Qualquer um que queira falar em público.
-  + Qualquer um que queira melhorar sua comuicação.
+  + Qualquer um que queira melhorar sua comunicação.
   + Qualquer um que vá fazer uma apresentação/palestra.
   + Qualquer um .
 + Por que eu li
 	+ Dicas para dar uma palestra
 	+ Melhorar minha comunicação em geral
 + Sobre o Livro (Por que eu leria?)
-
-Assim, este livro não busca apenas mostrar a melhor forma de fazer uma Conferência TED. Sua finalidade é bem mais ampla: 
-
-+ impulsionar qualquer forma de oratória que pretenda explicar, motivar, informar ou persuadir, seja em empresas, instituições educacionais ou locais públicos.
+	+ Mostra a melhor forma de se fazer uma palestra no estilo TED.
+   + impulsionar qualquer forma de oratória que pretenda explicar, motivar, informar ou persuadir, seja em empresas, instituições educacionais ou locais públicos.
 
 Este livro tem um duplo objetivo: 
 
@@ -358,7 +357,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5ODM1NDEzLDkyNjYxMjUwOSwyNzIxMD
+eyJoaXN0b3J5IjpbNzAwNTI1NDU5LDkyNjYxMjUwOSwyNzIxMD
 QxNDgsLTEyNTA3OTEzNiwtNTM4MDE5MjE0LC0yMTA3MzA2OTk2
 LDE2MzI5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyND
 M5NzkzLC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYs
