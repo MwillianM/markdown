@@ -235,7 +235,7 @@ Sir Ken Robinson sugere uma estrutura simples:
 1. Implicações práticas
 1. Conclusão
 
-“Existe uma velha fórmula para a redação de ensaios. Nela, um bom ensaio responde a três perguntas: 
+Um bom ensaio responde a três perguntas: 
 
 1. O quê?
 1.  E daí?
@@ -340,7 +340,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODU5OTA0MCwtMTI1MDc5MTM2LC01Mz
+eyJoaXN0b3J5IjpbLTM1NDI3NTk5NiwtMTI1MDc5MTM2LC01Mz
 gwMTkyMTQsLTIxMDczMDY5OTYsMTYzMjk3MzkzMiwxMjg4OTMx
 NTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODExNSwtMT
 AzMTcxMTg4LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MDQ4NDg2
