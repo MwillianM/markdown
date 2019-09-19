@@ -52,9 +52,10 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 
 ## Prólogo
 
-**Retórica:** a arte de falar com eficácia.
-**Competência Comunicativa:** ???
+**Retórica: ** a arte de falar com eficácia.
+**Competência Comunicativa: ** ???
 **Linha Mestra: ** ???
+**Ideia: **
 
 ---
 
@@ -62,7 +63,7 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 
 ### Competência Comunicativa
 
-+ A competência comunicativa não é uma qualificação fundamental para o século XXI.
++ A competência comunicativa é uma qualificação fundamental para o século XXI.
 + Qualquer um pode falar em público.
 + Medo de falar em público é irracional.
 + Uma palestra sempre pode abrir portas ou transformar uma carreira.
@@ -73,8 +74,8 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 
 A obrigação número um de um palestrante é reconstruir na mente de seus ouvintes algo que lhe importa. Vamos chamar essa coisa de ideia
 
-Havia muitas coisas erradas naquela palestra, mas ela cumpriu o objetivo num aspecto-chave, que era plantar uma ideia na mente dos ouvintes: [ideia]
-
++ O objetivo de uma palestra é plantar uma ideia na mente dos ouvintes.
++
 A única coisa de fato importante ao se falar em público não é a autoconfiança, a presença de palco ou aquilo que se costuma chamar de “falar bem”. É ter algo de importante a dizer.
 
 Uma ideia é qualquer coisa capaz de mudar a visão de mundo das pessoas.
@@ -311,6 +312,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDA2ODI0NSwtNjQ4MDQ4NDg2LC0xNj
+eyJoaXN0b3J5IjpbMTM4NjgzMDcxMywtNjQ4MDQ4NDg2LC0xNj
 kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
