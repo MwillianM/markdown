@@ -29,11 +29,16 @@ Este livro tem um duplo objetivo:
 Entretanto, cumpre destacar uma coisa logo de início.
 + Não existe uma única maneira de dar uma palestra de alto nível. Qualquer tentativa de aplicar uma fórmula predefinida o público percebe isso na hora e se sente manipulado.
 
-Em vez disso, pense que o livro está lhe oferecendo um conjunto de ferramentas que buscam incentivar a variedade. Utilize as que sejam convenientes para você e para a palestra que vai dar. Suas únicas obrigações reais ao dar uma palestra são ter algo de importante a comunicar e se mostrar autêntico à sua maneira.
+O livro está lhe oferecendo um conjunto de ferramentas que buscam incentivar a variedade. 
 
-Por isso, você não encontrará aqui dicas específicas para propor um brinde num casamento, apresentar uma mensagem motivacional numa reunião de vendedores ou proferir uma palestra numa faculdade. No entanto, encontrará ferramentas e ideias que serão úteis não apenas nessas ocasiões, como em todas as formas de comunicação pública.
+Suas únicas obrigações reais ao dar uma palestra são:
++ ter algo de importante a comunicar
++ se mostrar autêntico à sua maneira.
 
-A tese central deste livro é que qualquer um com uma ideia digna de ser divulgada é capaz de realizar uma palestra eficaz
+Encontrará ferramentas e ideias que serão úteis não apenas nessas ocasiões, como em todas as formas de comunicação pública.
+
+A tese central deste livro é:
++ que qualquer um com uma ideia digna de ser divulgada é capaz de realizar uma palestra eficaz.
 
 Vamos passar grande parte da primeira metade deste livro examinando os meios pelos quais a linguagem pode produzir seus resultados mágicos.
 
@@ -307,6 +312,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzIwMTcxMSwtNjQ4MDQ4NDg2LC0xNj
-kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbLTE5OTM0NTE4MjksLTY0ODA0ODQ4NiwtMT
+Y5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
 -->
