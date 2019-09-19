@@ -80,9 +80,11 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 + Estilo sem conteúdo é horrível.
 + Você tem uma coisa que ninguém mais no mundo tem: a sua experiência de vida.
 + As pessoas adoram histórias, mesmo que a lição a se tirar dela seja comum. Humanos precisamos relembrar as coisas.
-+ Pode-se usar a oportunidade de falar em público como um incentivo de domina o assunto, por que não usar  para descobrir?
++ Pode-se usar a oportunidade de falar em público como um incentivo de dominar o assunto.
 
-> Em 2015, fizemos uma experiência na sede do TED. A cada duas semanas, dávamos a todos os membros da equipe um dia de folga para se dedicar a estudar determinado assunto. Chamamos esse dia de Quarta-Feira de Aprendizado. A ideia era que, como a organização está voltada para o aprendizado contínuo, durante toda a vida, devemos praticar o que pregamos e incentivar todos os integrantes da equipe a dedicar um tempo a estudar o que lhes interessa. Mas como evitávamos que essa quarta-feira se tornasse apenas um dia sem nada para fazer, passado diante da TV? Bom, havia mais uma coisinha: todos tinham de se comprometer a realizar, em algum momento do ano, uma palestra no estilo TED sobre aquilo que aprenderam para o restante da organização.
+**Quarta do Aprendizado: ** A cada duas semanas todos ganham um dia de folga para se dedicar a estudar determinado assunto. A ideia era que, como a organização está voltada para o aprendizado contínuo,  e incentivar todos os integrantes da equipe a dedicar um tempo a estudar o que lhes interessa. Mas como evitávamos que essa quarta-feira se tornasse apenas um dia sem nada para fazer, passado diante da TV? Bom, havia mais uma coisinha: todos tinham de se comprometer a realizar, em algum momento do ano, uma palestra no estilo TED sobre aquilo que aprenderam para o restante da organização.
+
+> durante toda a vida, devemos praticar o que pregamos
 
 > O homem desenvolveu uma tecnologia que torna isso possível: a linguagem. Com ela, seu cérebro realiza coisas fantásticas. Por exemplo: “Quero que você imagine um elefante balançando a tromba pintada de vermelho vivo de um lado para o outro, imitando os passos de um imenso papagaio laranja que dança na cabeça dele e não para de berrar: ‘Vamos dançar o fandango!’” Uau! Você acabou de formar na cabeça a imagem de algo que nunca aconteceu na história, a não ser em minha imaginação e na de quem leu isso. Uma única frase tem esse poder. Mas desde que você, o ouvinte, conheça um conjunto de conceitos prévios. Você precisa saber o que é um elefante e o que é um papagaio, tem de conhecer os conceitos de vermelho e de laranja e ainda saber o que significam os verbos pintar, dançar e imitar. O pedido fez você interligar esses conceitos e criar uma imagem totalmente nova. Se, em vez de usar essas palavras, eu tivesse dito “quero que você imagine um exemplar da espécie Loxodonta cyclotis, com o probóscide revestido do pigmento Pantone 032U, realizando movimentos oscilatórios...”, provavelmente você não teria formado aquela imagem, embora o pedido seja o mesmo, só que vazado numa linguagem mais precisa. Ou seja, a linguagem só produz sua magia quando partilhada entre falante e ouvinte. E essa é a chave para que se realize o milagre de recriar sua ideia no cérebro de outras pessoas. Você só pode usar as ferramentas a que sua plateia tem acesso. Se usar apenas sua linguagem, seus conceitos, seus pressupostos e seus valores, não terá sucesso. Então, em vez disso, utilize os deles. Só a partir dessa base comum os ouvintes podem começar a construir a sua ideia na mente deles.
 
@@ -306,6 +308,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjQ1NjMyMywtNjQ4MDQ4NDg2LC0xNj
-kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbOTAzOTU5MjQ5LC02NDgwNDg0ODYsLTE2OT
+I0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
 -->
