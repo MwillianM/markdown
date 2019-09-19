@@ -220,6 +220,7 @@ Uma palestra baseada numa questão parte de moralidade; uma palestra baseada num
 - [ ]  Quais são as quinze palavras que resumem minha palestra?
 - [ ]  Essas quinze palavras fariam alguém se interessar por ouvir minha palestra?
 
+A instrutora de oratória Abigail Tenembaum recomenda que o palestrante teste sua linha mestra com alguém que poderia ser um membro típico da plateia. Segundo ela, é preciso fazer isso oralmente, e não por escrito
 
 ---
 
@@ -291,6 +292,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0MjE4ODYxLC02NDgwNDg0ODYsLTE2OT
-I0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbLTgxNzY2MDQ5OCwtNjQ4MDQ4NDg2LC0xNj
+kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
