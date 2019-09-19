@@ -45,8 +45,6 @@ Visão Geral
     + Formado em Oxford.
     + Lançou mais de 100 revistas e sites.
 
-Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar o caminho. O TED começou como uma conferência anual, com palestras nos campos da Tecnologia, do Entretenimento e do Design (daí o nome). Nos últimos anos, porém, o programa se expandiu e passou a cobrir qualquer tópico de interesse público.
-
 ---
 
 ## Prólogo
@@ -353,7 +351,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTkxNDQ0NCw5MjY2MTI1MDksMjcyMT
+eyJoaXN0b3J5IjpbMTEzMzcwMzcyOCw5MjY2MTI1MDksMjcyMT
 A0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5
 NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5Mj
 QzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2
