@@ -235,13 +235,11 @@ Sir Ken Robinson sugere uma estrutura simples:
 1. Implicações práticas
 1. Conclusão
 
-Sir Ken me disse: “Existe uma velha fórmula para a redação de ensaios. Nela, um bom ensaio responde a três perguntas: 
+“Existe uma velha fórmula para a redação de ensaios. Nela, um bom ensaio responde a três perguntas: 
 
 1. O quê?
 1.  E daí?
 1.  E agora?
-
-É claro que o atrativo das apresentações de Sir Ken Robinson vai muito além da simplicidade estrutural, e nem ele nem eu recomendaríamos que todo mundo adotasse essa estrutura. O importante é você descobrir a que lhe permita desenvolver sua linha mestra com mais força no tempo disponível — e tornar clara a forma como cada elemento se liga a ela.
 
 ### TÓPICOS COMPLICADOS
 
@@ -342,9 +340,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc5MjU3NjYsLTEyNTA3OTEzNiwtNT
-M4MDE5MjE0LC0yMTA3MzA2OTk2LDE2MzI5NzM5MzIsMTI4ODkz
-MTUzOCwzNTI4ODQzMjgsMTkyNDM5NzkzLC03ODg3MTgxMTUsLT
-EwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OTA1NTYsLTY0ODA0ODQ4
-NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbMTc3ODU5OTA0MCwtMTI1MDc5MTM2LC01Mz
+gwMTkyMTQsLTIxMDczMDY5OTYsMTYzMjk3MzkzMiwxMjg4OTMx
+NTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODExNSwtMT
+AzMTcxMTg4LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MDQ4NDg2
+LC0xNjkyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
