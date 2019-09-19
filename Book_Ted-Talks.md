@@ -40,7 +40,10 @@ Visão Geral
     + Palestras que ultrapassam milhares de visualizações.
   + **Chirs Anderson**
     + Acompanhou de perto as palestras TED.
-    + 
+    + Longa carreira em Jornalismo e Publicidade.
+    + Presidente e Curador-chefe do TED desde 2001.
+    + Formado em Oxford.
+    + Lançou mais de 100 revistas e sites.
 
 Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar o caminho. O TED começou como uma conferência anual, com palestras nos campos da Tecnologia, do Entretenimento e do Design (daí o nome). Nos últimos anos, porém, o programa se expandiu e passou a cobrir qualquer tópico de interesse público.
 
@@ -350,10 +353,10 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyODcyMjUzLDkyNjYxMjUwOSwyNzIxMD
-QxNDgsLTEyNTA3OTEzNiwtNTM4MDE5MjE0LC0yMTA3MzA2OTk2
-LDE2MzI5NzM5MzIsMTI4ODkzMTUzOCwzNTI4ODQzMjgsMTkyND
-M5NzkzLC03ODg3MTgxMTUsLTEwMzE3MTE4OCwxMTYzMzkwMzYs
-MTM3OTA1NTYsLTY0ODA0ODQ4NiwtMTY5MjQ3ODg2OSw5ODEyNj
-IzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbLTE4NTMxMjI3NDMsOTI2NjEyNTA5LDI3Mj
+EwNDE0OCwtMTI1MDc5MTM2LC01MzgwMTkyMTQsLTIxMDczMDY5
+OTYsMTYzMjk3MzkzMiwxMjg4OTMxNTM4LDM1Mjg4NDMyOCwxOT
+I0Mzk3OTMsLTc4ODcxODExNSwtMTAzMTcxMTg4LDExNjMzOTAz
+NiwxMzc5MDU1NiwtNjQ4MDQ4NDg2LC0xNjkyNDc4ODY5LDk4MT
+I2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
