@@ -8,10 +8,6 @@ Chris Anderson
 > Data: Setembro 16, 2019
 ---
 
-## TL;DR
-
----
-
 Visão Geral
 ---
 
@@ -47,6 +43,10 @@ Visão Geral
 
 ---
 
+## TL;DR
+
+---
+
 ## Prólogo
 
 **Retórica:** a arte de falar com eficácia.
@@ -54,6 +54,11 @@ Visão Geral
 **Ideia:** qualquer coisa capaz de mudar a visão de mundo das pessoas.
 **Linha Mestra:** Expressão usada com frequência na análise de peças, filmes e romances. É o tema que une os elementos narrativos.
 **Quarta do Aprendizado:** A cada duas semanas todos ganham um dia de folga para estudar determinado assunto. Depois todos devem realizar uma palestra no estilo TED em algum momento do ano.
+
+---
+
+Citações
+---
 
 > devemos praticar o que pregamos
 
@@ -351,7 +356,7 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzcwMzcyOCw5MjY2MTI1MDksMjcyMT
+eyJoaXN0b3J5IjpbMTQzMjgxOTA2OSw5MjY2MTI1MDksMjcyMT
 A0MTQ4LC0xMjUwNzkxMzYsLTUzODAxOTIxNCwtMjEwNzMwNjk5
 NiwxNjMyOTczOTMyLDEyODg5MzE1MzgsMzUyODg0MzI4LDE5Mj
 QzOTc5MywtNzg4NzE4MTE1LC0xMDMxNzExODgsMTE2MzM5MDM2
