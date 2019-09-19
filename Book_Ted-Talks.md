@@ -117,11 +117,17 @@ Quatro estilos a serem evitados:
 
 + É a “linha mestra”, o tema que une os elementos narrativos. Toda palestra precisa de uma.
 + Todas as partes precisam estar interligadas. Isso não significa que toda palestra possa cobrir apenas um assunto.
-> Eis o começo de uma apresentação montada sem uma linha mestra: “Eu gostaria de compartilhar com vocês algumas experiências que vivi durante a viagem que fiz recentemente à Cidade do Cabo, depois fazer algumas observações sobre a vida na estrada.” Compare-o com a introdução a seguir: “Em minha recente viagem à Cidade do Cabo, aprendi algo novo com relação a estranhos: quando se pode confiar neles e quando não se pode fazer isso de jeito nenhum. Quero dividir com vocês duas experiências muito distintas que vivi.”
 
-Talvez a primeira versão sirva para a sua família. Mas a segunda, com a linha mestra visível desde o início, é muito mais cativante para o público.
+Eis o começo de uma apresentação montada sem uma linha mestra: 
 
-Um bom exercício consiste em resumir sua linha mestra em não mais que quinze palavras
+> “Eu gostaria de compartilhar com vocês algumas experiências que vivi durante a viagem que fiz recentemente à Cidade do Cabo, depois fazer algumas observações sobre a vida na estrada.”
+
+Compare com:
+
+> “Em minha recente viagem à Cidade do Cabo, aprendi algo novo com relação a estranhos: quando se pode confiar neles e quando não se pode fazer isso de jeito nenhum. Quero dividir com vocês duas experiências muito distintas que vivi.”
+
++ A linha mestra visível desde o início, é muito mais cativante para o público.
++ Sua linha mestra deve ter mais que quinze palavras.
 
 Qual é a ideia exata que você quer inserir na mente dos ouvintes? O que eles vão levar para casa? O que você deseja que o público compreenda plenamente ao fim da palestra?
 
@@ -308,9 +314,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDM4MDIyMiwxNjMyOTczOTMyLDEyOD
-g5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5MywtNzg4NzE4MTE1
-LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwND
-g0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
-
+eyJoaXN0b3J5IjpbLTE3ODM1NTM0MzQsMTYzMjk3MzkzMiwxMj
+g4OTMxNTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODEx
+NSwtMTAzMTcxMTg4LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MD
+Q4NDg2LC0xNjkyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRd
+fQ==
 -->
