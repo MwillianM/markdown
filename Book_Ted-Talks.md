@@ -225,16 +225,15 @@ Só percorrera o terreno que puder mostrar em profundidade suficiente para criar
 
 > Imagine a estrutura da palestra como uma árvore. Há uma linha mestra central, que sobe verticalmente e na qual os galhos representam expansões da narrativa principal: um perto da base para a história de abertura; dois um pouco acima, na seção de história, para os exemplos fracassados; um para a solução proposta, que destaque o fato novo; e três no alto, ilustrando as implicações para o futuro.
 
-Outra proposta poderia simplesmente apresentar, em sequência, cinco trabalhos separados que interliguem um tema comum, começando e acabando com o projeto corrente. Nessa estrutura, pode-se pensar na linha mestra como um arco que ligue cinco caixas, cada qual representando um trabalho.
+> Outra proposta poderia simplesmente apresentar, em sequência, cinco trabalhos separados que interliguem um tema comum, começando e acabando com o projeto corrente. Nessa estrutura, pode-se pensar na linha mestra como um arco que ligue cinco caixas, cada qual representando um trabalho.
 
-O palestrante TED com mais visualizações na internet na época em que este livro foi escrito era Sir Ken Robinson. Segundo ele, em geral suas palestras seguem uma estrutura simples:
+Sir Ken Robinson sugere uma estrutura simples:
 
 1. Introdução — apresentação, o que será exposto
-2. Contexto — por que a questão é relevante 
-3. Conceitos principais
-4. Implicações práticas
-5. Conclusão
-
+1. Contexto — por que a questão é relevante 
+1. Conceitos principais
+1. Implicações práticas
+1. Conclusão
 
 Sir Ken me disse: “Existe uma velha fórmula para a redação de ensaios. Nela, um bom ensaio responde a três perguntas: 
 
@@ -343,9 +342,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTUxNjI3MCwtMTI1MDc5MTM2LC01Mz
-gwMTkyMTQsLTIxMDczMDY5OTYsMTYzMjk3MzkzMiwxMjg4OTMx
-NTM4LDM1Mjg4NDMyOCwxOTI0Mzk3OTMsLTc4ODcxODExNSwtMT
-AzMTcxMTg4LDExNjMzOTAzNiwxMzc5MDU1NiwtNjQ4MDQ4NDg2
-LC0xNjkyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
+eyJoaXN0b3J5IjpbLTE5OTc5MjU3NjYsLTEyNTA3OTEzNiwtNT
+M4MDE5MjE0LC0yMTA3MzA2OTk2LDE2MzI5NzM5MzIsMTI4ODkz
+MTUzOCwzNTI4ODQzMjgsMTkyNDM5NzkzLC03ODg3MTgxMTUsLT
+EwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OTA1NTYsLTY0ODA0ODQ4
+NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
 -->
