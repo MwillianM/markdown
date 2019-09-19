@@ -87,7 +87,7 @@ Visão Geral
 + Pode-se usar a oportunidade de falar em público como um incentivo de dominar algum assunto.
 + Sim, as palavras importam!
 
-> [...] pesquisas publicadas em 1967 pelo professor Albert Mehrabian, as quais afirmam que apenas 7% da eficácia da comunicação decorrem da linguagem, enquanto 38% dependem do tom de voz e 55% da linguagem corporal. Isso tem levado muitos instrutores a se concentrarem excessivamente em desenvolver um estilo de oratória fundamentado na autoconfiança, no carisma etc., sem se preocuparem muito com as palavras. Infelizmente, essa é uma interpretação equivocada das conclusões de Mehrabian. Em essência, os experimentos dele visaram descobrir como a emoção era comunicada. Por exemplo, ele testava o que acontecia quando alguém dizia “ah, que legal”, mas em tom de raiva ou com uma expressão corporal ameaçadora. É claro que, nessas circunstâncias, as palavras em si pouco interessam. Entretanto, é um absurdo generalizar esse resultado a qualquer palestra (e Mehrabian fica tão irritado com a má utilização de suas pesquisas que, em seu site, um parágrafo em negrito pede que não se faça isso).
+> [...] pesquisas publicadas em 1967 pelo professor Albert Mehrabian, as quais afirmam que apenas 7% da eficácia da comunicação decorrem da linguagem, enquanto 38% dependem do tom de voz e 55% da linguagem corporal. Isso tem levado muitos instrutores a se concentrarem excessivamente em desenvolver um estilo de oratória fundamentado na autoconfiança, no carisma etc., sem se preocuparem muito com as palavras. Infelizmente, essa é uma interpretação equivocada das conclusões de Mehrabian. Em essência, os experimentos dele visaram descobrir como a emoção era comunicada. [...] Entretanto, é um absurdo generalizar esse resultado a qualquer palestra (e Mehrabian fica tão irritado com a má utilização de suas pesquisas que, em seu site, um parágrafo em negrito pede que não se faça isso).
 
 + Passar emoção é importante, e nesse aspecto o tom de voz e a linguagem corporal têm enorme valor.
 + A essência de uma palestra depende fundamentalmente das palavras
@@ -353,11 +353,11 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTMwMTQyOSwzMjk0MTg1NDUsMTQzMj
-gxOTA2OSw5MjY2MTI1MDksMjcyMTA0MTQ4LC0xMjUwNzkxMzYs
-LTUzODAxOTIxNCwtMjEwNzMwNjk5NiwxNjMyOTczOTMyLDEyOD
-g5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5MywtNzg4NzE4MTE1
-LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwND
-g0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbNTA4NjQ5MDk0LDMyOTQxODU0NSwxNDMyOD
+E5MDY5LDkyNjYxMjUwOSwyNzIxMDQxNDgsLTEyNTA3OTEzNiwt
+NTM4MDE5MjE0LC0yMTA3MzA2OTk2LDE2MzI5NzM5MzIsMTI4OD
+kzMTUzOCwzNTI4ODQzMjgsMTkyNDM5NzkzLC03ODg3MTgxMTUs
+LTEwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OTA1NTYsLTY0ODA0OD
+Q4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
 
 -->
