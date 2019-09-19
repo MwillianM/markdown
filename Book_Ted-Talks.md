@@ -62,14 +62,12 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 
 ### Competência Comunicativa
 
++ A competência comunicativa não é uma qualificação fundamental para o século XXI.
 + Qualquer um pode falar em público.
 + Medo de falar em público é irracional.
-
-Esse é o poder da palavra. Você pode não ser o líder de uma organização, mas uma palestra sempre pode abrir portas ou transformar uma carreira
-
-Seu objetivo não é ser um Winston Churchill ou um Nelson Mandela. É ser você. Se você é cientista, seja cientista; não tente ser um militante. Se é artista, seja artista; não tente ser um acadêmico. Se é um sujeito comum, não queira simular um impressionante estilo intelectual; seja esse sujeito comum.
-
-A competência comunicativa não é um extra opcional destinado a uns poucos. É uma qualificação fundamental para o século XXI.
++ Uma palestra sempre pode abrir portas ou transformar uma carreira.
++ Seja você mesmo.
+> Se você é cientista, seja cientista; não tente ser um militante. Se é artista, seja artista; não tente ser um acadêmico. Se é um sujeito comum, não queira simular um impressionante estilo intelectual; seja esse sujeito comum.
 
 ### Construção da Ideia
 
@@ -313,6 +311,6 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDAxNTY5LC02NDgwNDg0ODYsLTE2OT
-I0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
+eyJoaXN0b3J5IjpbLTk1NDA2ODI0NSwtNjQ4MDQ4NDg2LC0xNj
+kyNDc4ODY5LDk4MTI2MjM1Myw5MjM1MDY4NzRdfQ==
 -->
