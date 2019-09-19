@@ -46,6 +46,8 @@ A palavra “retórica” significa simplesmente “a arte de falar com eficáci
 
 O objetivo de uma palestra consiste em... dizer algo significativo. No entanto, é impressionante o número de palestras que não atingem esse objetivo.
 
+Belos slides e carisma não fazem mal algum, mas, se o palestrante não presenteia o público com algo real e valioso, tudo o que ele fez, na melhor das hipóteses, foi entretê-lo.
+
 + Sobre o Author (Por que eu acreditaria?)
 
 Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar o caminho. O TED começou como uma conferência anual, com palestras nos campos da Tecnologia, do Entretenimento e do Design (daí o nome). Nos últimos anos, porém, o programa se expandiu e passou a cobrir qualquer tópico de interesse público.
@@ -57,7 +59,7 @@ Nossa experiência com o TED no decurso dos últimos anos pode ajudar a apontar 
 **Retórica:** a arte de falar com eficácia.
 **Competência Comunicativa:** habilidade de entender e usar a linguagem para se comunicar de forma efetiva.
 **Ideia:** qualquer coisa capaz de mudar a visão de mundo das pessoas.
-**Linha Mestra:** ???
+**Linha Mestra:** Expressão usada com frequência na análise de peças, filmes e romances.
 **Quarta do Aprendizado:** A cada duas semanas todos ganham um dia de folga para estudar determinado assunto. Depois todos devem realizar uma palestra no estilo TED em algum momento do ano.
 
 > devemos praticar o que pregamos
@@ -106,19 +108,15 @@ Quatro estilos a serem evitados:
 	> Um palestrante pode se iludir e se convencer de que mesmo uma exploração desordenada de suas ideias brilhantes será fascinante para a plateia. No entanto, se oitocentas pessoas planejam dedicar quinze minutos de seu dia a ouvi-lo, ele não pode simplesmente improvisar sua exposição. [...] Assim, se você vai presentear pessoas com uma ideia magnífica, primeiro precisa dedicar algum tempo a preparar sua exposição. Ficar divagando não é uma opção.
 
 1. **Tédio Organizacional:** Qualquer palestra centrada na história de sua companhia, equipe que trabalha com você e seus produtos.
-
 	> Você e sua equipe podem considerá-la (companhia) interessante. Infelizmente, porém, não trabalhamos nela. Entretanto, tudo muda quando você se concentra na natureza do trabalho que está realizando e no poder das ideias nele instiladas, e não na organização ou em seus produtos.
 
 1. **Desempenho Motivador:** Palestrantes com intenso desejo de uma ovação.
-
 	> Fazia pausas com frequência, esperando que a plateia o aplaudisse ou risse e, quando isso acontecia, parava e dizia “obrigado”, numa sutil tentativa de provocar mais aplausos ou risos. Começou a inserir cacos que pretendiam ser engraçados. Ficou claro que o divertiam; aos outros, nem tanto. E o pior de tudo foi que o conteúdo prometido da palestra não chegou a ser exposto. 
 
 ### A Linha Mestra
 
-Belos slides e carisma não fazem mal algum, mas, se o palestrante não presenteia o público com algo real e valioso, tudo o que ele fez, na melhor das hipóteses, foi entretê-lo.
-
-Existe uma expressão útil usada com frequência na análise de peças, filmes e romances, mas que também se aplica a palestras. É a “linha mestra”, o tema que une os elementos narrativos. Toda palestra precisa de uma.
-
++ É a “linha mestra”, o tema que une os elementos narrativos. Toda palestra precisa de uma.
++ 
 Isso não significa que toda palestra possa cobrir apenas um assunto, contar uma só história ou avançar numa única direção, sem digressões. De forma alguma. Isso só quer dizer que todas as partes precisam estar interligadas.
 
 > Eis o começo de uma apresentação montada sem uma linha mestra: “Eu gostaria de compartilhar com vocês algumas experiências que vivi durante a viagem que fiz recentemente à Cidade do Cabo, depois fazer algumas observações sobre a vida na estrada.” Compare-o com a introdução a seguir: “Em minha recente viagem à Cidade do Cabo, aprendi algo novo com relação a estranhos: quando se pode confiar neles e quando não se pode fazer isso de jeito nenhum. Quero dividir com vocês duas experiências muito distintas que vivi.”
@@ -312,9 +310,9 @@ Obrigado, chefe!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2MDA4Njc3LDE2MzI5NzM5MzIsMTI4OD
-kzMTUzOCwzNTI4ODQzMjgsMTkyNDM5NzkzLC03ODg3MTgxMTUs
-LTEwMzE3MTE4OCwxMTYzMzkwMzYsMTM3OTA1NTYsLTY0ODA0OD
-Q4NiwtMTY5MjQ3ODg2OSw5ODEyNjIzNTMsOTIzNTA2ODc0XX0=
+eyJoaXN0b3J5IjpbLTc5MjY5MjQ0OCwxNjMyOTczOTMyLDEyOD
+g5MzE1MzgsMzUyODg0MzI4LDE5MjQzOTc5MywtNzg4NzE4MTE1
+LC0xMDMxNzExODgsMTE2MzM5MDM2LDEzNzkwNTU2LC02NDgwND
+g0ODYsLTE2OTI0Nzg4NjksOTgxMjYyMzUzLDkyMzUwNjg3NF19
 
 -->
